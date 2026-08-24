@@ -1,0 +1,301 @@
+{
+  "generated": "2026-08-24T11:23:37+00:00",
+  "window_days": 3,
+  "counts": {
+    "stocks": 17,
+    "crypto": 7,
+    "gold": 6
+  },
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "category": "stocks",
+      "status": "ok",
+      "items": 8
+    },
+    {
+      "name": "CNBC Top News",
+      "category": "stocks",
+      "status": "ok",
+      "items": 8
+    },
+    {
+      "name": "MarketWatch",
+      "category": "stocks",
+      "status": "ok",
+      "items": 8
+    },
+    {
+      "name": "CNBC Earnings",
+      "category": "stocks",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "name": "CoinDesk",
+      "category": "crypto",
+      "status": "ok",
+      "items": 8
+    },
+    {
+      "name": "Cointelegraph",
+      "category": "crypto",
+      "status": "ok",
+      "items": 8
+    },
+    {
+      "name": "Yahoo Gold Futures",
+      "category": "gold",
+      "status": "ok",
+      "items": 8
+    },
+    {
+      "name": "Yahoo GLD",
+      "category": "gold",
+      "status": "ok",
+      "items": 4
+    }
+  ],
+  "items": [
+    {
+      "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
+      "link": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-24T11:19:16+00:00",
+      "summary": "PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating."
+    },
+    {
+      "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
+      "link": "https://www.marketwatch.com/story/think-medicare-advantage-provides-better-care-for-chronic-conditions-a-new-study-suggests-otherwise-276c7ffd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T11:19:00+00:00",
+      "summary": "Medicare Advantage enrollees with diabetes aren\u2019t healthier than Americans on traditional Medicare \u2014 despite the grocery and gym perks."
+    },
+    {
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T11:15:00+00:00",
+      "summary": "\u201cThe cost is absolutely ridiculous.\u201d"
+    },
+    {
+      "title": "Financial repression: The new buzzword for bitcoin bulls",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-24T11:15:00+00:00",
+      "summary": "Your day-ahead look for Aug. 24, 2026"
+    },
+    {
+      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
+      "link": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-24T11:10:15+00:00",
+      "summary": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry."
+    },
+    {
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-24T11:03:57+00:00",
+      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday."
+    },
+    {
+      "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
+      "link": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-24T11:00:01+00:00",
+      "summary": "UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses."
+    },
+    {
+      "title": "Galway Metals Continues to Demonstrate Broad Gold Mineralization at Southwest Deposit; 2.0 g/t Gold Over 68.0 Metres",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/galway-metals-continues-demonstrate-broad-110000475.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-24T11:00:00+00:00",
+      "summary": "TORONTO, ON / ACCESS Newswire / August 24, 2026 / Galway Metals Inc. (TSX-V:GWM)(OTCQB:GAYMF) (the \"Company\" or \"Galway\") is pleased to report assay results from 14 diamond drill holes completed at the Southwest Deposit within its 100%-owned Clarence ..."
+    },
+    {
+      "title": "Hot Chili Delivers More Copper-Gold at La Verde",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/hot-chili-delivers-more-copper-110000813.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-24T11:00:00+00:00",
+      "summary": "Hot Chili Limited (ASX: HCH) (TSXV: HCH) (OTCQX: HHLKF) (\"Hot Chili\" or the \"Company\") is pleased to announce another set of strong drill results from its La Verde Cu-Au porphyry discovery (La Verde), located 30 km south of the Company's Costa Fuego Cu-Au Project (Costa Fuego) pl"
+    },
+    {
+      "title": "Gemini strikes Apex deal to widen prediction markets reach",
+      "link": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-24T10:55:00+00:00",
+      "summary": "The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex\u2019s futures commission merchant."
+    },
+    {
+      "title": "Shares, oil dip as US sanctions on Iran loom",
+      "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T10:52:17+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-24T10:41:46+00:00",
+      "summary": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts."
+    },
+    {
+      "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
+      "link": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-24T10:41:34+00:00",
+      "summary": "Germany expands its lead in EU MiCA authorizations with 79 crypto asset service providers, ahead of France and the Netherlands."
+    },
+    {
+      "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
+      "link": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T10:40:00+00:00",
+      "summary": "There\u2019s a way to play more interest rate angst or an Nvidia inspired tech bounce says Evercore ISI"
+    },
+    {
+      "title": "This Nvidia earnings fact will frustrate you",
+      "link": "https://finance.yahoo.com/markets/stocks/article/this-nvidia-earnings-fact-will-frustrate-you-103234712.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T10:32:34+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
+      "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T10:30:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI scammers are scouring obituaries to target widows \u2014 one lost $7,000 after being told her late husband evaded taxes",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T10:30:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
+      "link": "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T10:25:00+00:00",
+      "summary": "The fast-fashion giant is aiming to list shares in Hong Kong on Sept. 1. It\u2019s been trying to go public for four years."
+    },
+    {
+      "title": "Exclusive-India plans first tokenised bond issue in September, sources say",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T10:24:45+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Metals One MD: First gold at Barbrook targeted within six months",
+      "link": "https://finance.yahoo.com/video/metals-one-md-first-gold-101711726.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-24T10:17:11+00:00",
+      "summary": "Metals One PLC (AIM:MET1, FRA:HT7, OTCQB:MTOPF) managing director Daniel Maling spoke with Proactive's Stephen Gunnion about progress at the Barbrook Gold Project, targeting first gold within six months of completing Phase 1. Maling said the team has been refining its mining plan"
+    },
+    {
+      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T10:15:00+00:00",
+      "summary": "\u201cI also own my home and an SUV outright, with no outstanding debt.\u201d"
+    },
+    {
+      "title": "Goliath\u2019s 2026 Drilling Expands Golden Gate Zone From 0.85 Km\u00b2 To 1.17 Km\u00b2 And Bonanza Zone From 1.27 Km\u00b2 to 1.51 Km\u00b2 And Remains Open For Expansion, Drilling Continues On The High-Grade Gold Surebet Discovery, Golden Triangle, B.C.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/goliath-2026-drilling-expands-golden-101100990.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-24T10:11:00+00:00",
+      "summary": "Figure 1 Plan view map highlighting the expansion of the Golden Gate Zone thus far in 2026 Figure 2a Core image for hole GD-26-424 (AuEq previously reported, see news August 21, 2026) Figure 2b Zone Cross Section of Holes GD-26-412, GD-26-414, GD-26-420, GD-26-424 and GD-26-428 \u2013"
+    },
+    {
+      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T10:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+      "link": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-24T09:56:17+00:00",
+      "summary": "Households shown bitcoin\u2019s prior-year return were 23% more likely to report owning crypto in a follow-up survey."
+    },
+    {
+      "title": "The post-World War II market shift is here \u2014 and bond yields could have higher to go, says Morgan Stanley",
+      "link": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T09:54:00+00:00",
+      "summary": "Morgan Stanley recommends quality stocks with large market capitalizations, adopters of artificial intelligence and the S&P 500."
+    },
+    {
+      "title": "Gold Climbs Above $4,650 as U.S. Fiscal Risks Boost Demand for Bullion",
+      "link": "https://investorshub.advfn.com/market-news/article/34866/gold-climbs-above-4650-as-u-s-fiscal-risks-boost-demand-for-bullion?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-24T09:41:10+00:00",
+      "summary": "Gold extended its advance on Monday, moving above $4,650 an ounce and remaining close to a three-month high as concerns over the U. S."
+    },
+    {
+      "title": "Why gold and silver prices have added $5 trillion in value",
+      "link": "https://finance.yahoo.com/economy/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-24T09:22:46+00:00",
+      "summary": "Gold and silver are having a month to remember."
+    },
+    {
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T09:16:00+00:00",
+      "summary": "\u201cWe don\u2019t know whether they have signed leases or are renting month to month.\u201d"
+    },
+    {
+      "title": "Alibaba shares tumble as investors question whether AI spending splurge is justified",
+      "link": "https://www.marketwatch.com/story/alibaba-shares-tumble-as-investors-question-whether-ai-spending-splurge-is-justified-6989038b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-24T09:13:00+00:00",
+      "summary": "The market\u2019s negative reaction to Alibaba\u2019s announcement of a major share issue illustrates a broader skepticism among global investors about the eventual payback on present AI spending"
+    },
+    {
+      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-24T08:56:52+00:00",
+      "summary": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday."
+    }
+  ]
+}

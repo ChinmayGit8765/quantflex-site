@@ -1,0 +1,43 @@
+name: Daily market feed
+
+on:
+  schedule:
+    # 06:15 UTC daily — after the US close and before the AU morning, and off the
+    # hour because GitHub's scheduler queues heavily at :00.
+    - cron: '15 6 * * *'
+  workflow_dispatch: {}
+
+# Only the commit below needs write access; nothing else in this repo does.
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      # No `pip install` step: build_feed.py is deliberately stdlib-only, so this
+      # job cannot break on a dependency release and runs in a few seconds.
+      - name: Build feed
+        run: python scripts/build_feed.py --out data/feed.json
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/feed.json; then
+            echo "feed unchanged — nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feed.json
+          git commit -m "chore(feed): daily market feed $(date -u +%Y-%m-%d)"
+          git push

@@ -1,0 +1,226 @@
+{
+  "generated": "2026-08-24T11:20:17+00:00",
+  "engine_version": "0.1.0",
+  "provenance": {
+    "numpy": "2.4.6",
+    "python": "3.13.7",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "dispatch_fingerprint": {
+      "numpy": "2.4.6",
+      "scipy": "1.17.1",
+      "exp": "171845c92fc2f742",
+      "log": "af576436aa5cc36e",
+      "ndtr": "819e07eff51e5cd1",
+      "erf": "ad4010d02eed81e5"
+    },
+    "note": "Every figure below was produced by a real engine call at build time. Fixed seeds make each one exactly reproducible; the request_hash identifies the canonical request that generated it."
+  },
+  "base_case": {
+    "spot": 100.0,
+    "strike": 100.0,
+    "rate": 0.05,
+    "div_yield": 0.0,
+    "sigma": 0.2,
+    "expiry": 1.0
+  },
+  "showcase": [
+    {
+      "id": "european-analytic",
+      "label": "European put \u2014 closed form",
+      "blurb": "Black-Scholes, anchored against mpmath at 50 decimal places.",
+      "price": 5.573526022256971,
+      "stderr": null,
+      "method": "analytic",
+      "model": "gbm",
+      "seed": null,
+      "n_paths": null,
+      "request_hash": "aba62526c8da46e93be89c5e19a648c360eb4b909bad6d0f0ecce2caa30b322b",
+      "notices": []
+    },
+    {
+      "id": "european-mc",
+      "label": "European put \u2014 Monte Carlo",
+      "blurb": "Chunked MC with standard error and a 95% CI, same instrument as the row above. Agreement is judged the way the engine's own anchor suite judges it \u2014 within 4 standard errors, not by eye.",
+      "price": 5.538445954567493,
+      "stderr": 0.016881771148314198,
+      "method": "mc",
+      "model": "gbm",
+      "seed": 20260611,
+      "n_paths": 262144,
+      "request_hash": "78fb2b3ace02746ceb12e76142a9abee7d813e14dfe9f38a731c786f169bf6fc",
+      "notices": [],
+      "ci95": [
+        5.505357683116797,
+        5.571534226018189
+      ],
+      "reference": 5.573526022256971,
+      "se_distance": 2.077985027831684,
+      "anchor_k_se": 4.0,
+      "within_anchor": true
+    },
+    {
+      "id": "american-pde",
+      "label": "American put \u2014 Crank-Nicolson PDE",
+      "blurb": "Rannacher startup on a log-spot grid, hand-rolled Thomas solver.",
+      "price": 6.086702314991529,
+      "stderr": null,
+      "method": "pde",
+      "model": "gbm",
+      "seed": null,
+      "n_paths": null,
+      "request_hash": "421281628658b7357b69ea0018f6b3c5cede79928c581743c604c30da61cdec0",
+      "notices": []
+    },
+    {
+      "id": "merton-mc",
+      "label": "European call \u2014 Merton jump-diffusion",
+      "blurb": "Jump compensator pinned two ways: a Poisson-weighted BS anchor and a discounted-asset martingale check.",
+      "price": 11.223215705431972,
+      "stderr": 0.03084324813567604,
+      "method": "mc",
+      "model": "merton",
+      "seed": 20260611,
+      "n_paths": 262144,
+      "request_hash": "8d9311e3e62751080873b6a275969fa17c2b6e26b222bf32acab41f4aaecaec0",
+      "notices": [],
+      "ci95": [
+        11.162762939086047,
+        11.283668471777897
+      ]
+    },
+    {
+      "id": "heston-qe",
+      "label": "European call \u2014 Heston stochastic vol",
+      "blurb": "Andersen QE scheme. Feller violations warn and route, never reject.",
+      "price": 10.365253789492384,
+      "stderr": 0.02384039530283703,
+      "method": "mc",
+      "model": "heston",
+      "seed": 20260611,
+      "n_paths": 262144,
+      "request_hash": "0467efa0850312f99dbaae227396c163c628778cdb368143034678790c292657",
+      "notices": [],
+      "ci95": [
+        10.318526614698824,
+        10.411980964285943
+      ]
+    }
+  ],
+  "convergence": {
+    "reference_closed_form": 5.573526022256971,
+    "request_hash": "722165a49ef351e2403526d0dd5524f3c49135ca1953cb66fc9db8e241091259",
+    "seed": 20260611,
+    "points": [
+      {
+        "n": 65536,
+        "estimate": 5.538994179255124,
+        "se": 0.033830605526097096,
+        "error": -0.03453184300184642
+      },
+      {
+        "n": 131072,
+        "estimate": 5.524302191750982,
+        "se": 0.023850871626143806,
+        "error": -0.049223830505988886
+      },
+      {
+        "n": 262144,
+        "estimate": 5.538445954567493,
+        "se": 0.016881771148314198,
+        "error": -0.0350800676894778
+      },
+      {
+        "n": 524288,
+        "estimate": 5.55525842704397,
+        "se": 0.011948942154107564,
+        "error": -0.018267595213000476
+      },
+      {
+        "n": 1048576,
+        "estimate": 5.551758309988003,
+        "se": 0.008440437335699507,
+        "error": -0.021767712268967898
+      }
+    ]
+  },
+  "greeks": {
+    "request_hash": "aba62526c8da46e93be89c5e19a648c360eb4b909bad6d0f0ecce2caa30b322b",
+    "desk": {
+      "delta": {
+        "value": -0.3631693488243809,
+        "unit": "per $1 spot",
+        "method": "aad"
+      },
+      "gamma": {
+        "value": 0.018762017345846895,
+        "unit": "per $1",
+        "method": "aad"
+      },
+      "vega": {
+        "value": 0.3752403469169379,
+        "unit": "per vol point",
+        "method": "aad"
+      },
+      "theta": {
+        "value": -0.0045421381477661,
+        "unit": "per day",
+        "method": "aad"
+      },
+      "rho": {
+        "value": -0.4189046090469506,
+        "unit": "per 1% rate",
+        "method": "aad"
+      }
+    },
+    "verification": [
+      {
+        "greek": "delta",
+        "aad": -0.3631693488243809,
+        "jax": -0.3631693488243809,
+        "fd": -0.3631693488514998,
+        "tolerance": 1e-09,
+        "passed": true
+      },
+      {
+        "greek": "gamma",
+        "aad": 0.018762017345846895,
+        "jax": 0.0187620173458469,
+        "fd": 0.018762017077733617,
+        "tolerance": 2e-05,
+        "passed": true
+      },
+      {
+        "greek": "vega",
+        "aad": 37.52403469169379,
+        "jax": 37.52403469169379,
+        "fd": 37.524034688374286,
+        "tolerance": 3e-08,
+        "passed": true
+      },
+      {
+        "greek": "theta",
+        "aad": 1.6578804239346265,
+        "jax": 1.6578804239346265,
+        "fd": 1.6578804235223286,
+        "tolerance": 6e-09,
+        "passed": true
+      },
+      {
+        "greek": "rho",
+        "aad": -41.89046090469506,
+        "jax": -41.890460904695054,
+        "fd": -41.890460906301996,
+        "tolerance": 1e-08,
+        "passed": true
+      }
+    ]
+  },
+  "implied_vol": {
+    "input_sigma": 0.2,
+    "price": 10.450583572185565,
+    "recovered_sigma": 0.2,
+    "reprice": 10.450583572185565,
+    "sigma_abs_error": 0.0,
+    "price_abs_error": 0.0
+  }
+}
