@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T11:23:37+00:00",
+  "generated": "2026-08-24T11:30:09+00:00",
   "window_days": 3,
   "counts": {
     "stocks": 17,
@@ -58,6 +58,14 @@
   ],
   "items": [
     {
+      "title": "ECB defends digital euro privacy as CBDCs face global scrutiny",
+      "link": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-24T11:21:19+00:00",
+      "summary": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide."
+    },
+    {
       "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
       "link": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
       "source": "CoinDesk",
@@ -88,6 +96,22 @@
       "category": "crypto",
       "published": "2026-08-24T11:15:00+00:00",
       "summary": "Your day-ahead look for Aug. 24, 2026"
+    },
+    {
+      "title": "Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-spin-off-111401744.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T11:14:01+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Royal De Vries folding-carton plant closes after 152 years",
+      "link": "https://finance.yahoo.com/small-business/articles/royal-vries-folding-carton-plant-111213461.html",
+      "source": "Yahoo Finance",
+      "category": "stocks",
+      "published": "2026-08-24T11:12:13+00:00",
+      "summary": ""
     },
     {
       "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
@@ -178,16 +202,16 @@
       "summary": ""
     },
     {
-      "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
-      "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html",
+      "title": "AI scammers are scouring obituaries to target widows \u2014 one lost $7,000 after being told her late husband evaded taxes",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html",
       "source": "Yahoo Finance",
       "category": "stocks",
       "published": "2026-08-24T10:30:00+00:00",
       "summary": ""
     },
     {
-      "title": "AI scammers are scouring obituaries to target widows \u2014 one lost $7,000 after being told her late husband evaded taxes",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html",
+      "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
+      "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html",
       "source": "Yahoo Finance",
       "category": "stocks",
       "published": "2026-08-24T10:30:00+00:00",
@@ -234,14 +258,6 @@
       "summary": "Figure 1 Plan view map highlighting the expansion of the Golden Gate Zone thus far in 2026 Figure 2a Core image for hole GD-26-424 (AuEq previously reported, see news August 21, 2026) Figure 2b Zone Cross Section of Holes GD-26-412, GD-26-414, GD-26-420, GD-26-424 and GD-26-428 \u2013"
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "published": "2026-08-24T10:00:00+00:00",
-      "summary": ""
-    },
-    {
       "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
       "link": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
       "source": "CoinDesk",
@@ -280,22 +296,6 @@
       "category": "stocks",
       "published": "2026-08-24T09:16:00+00:00",
       "summary": "\u201cWe don\u2019t know whether they have signed leases or are renting month to month.\u201d"
-    },
-    {
-      "title": "Alibaba shares tumble as investors question whether AI spending splurge is justified",
-      "link": "https://www.marketwatch.com/story/alibaba-shares-tumble-as-investors-question-whether-ai-spending-splurge-is-justified-6989038b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-24T09:13:00+00:00",
-      "summary": "The market\u2019s negative reaction to Alibaba\u2019s announcement of a major share issue illustrates a broader skepticism among global investors about the eventual payback on present AI spending"
-    },
-    {
-      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-24T08:56:52+00:00",
-      "summary": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday."
     }
   ]
 }
