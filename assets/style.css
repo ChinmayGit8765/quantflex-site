@@ -185,6 +185,84 @@ th.num { text-align: right; }
 }
 .stat-value { font-family: var(--font-mono); font-size: 1.05rem; font-variant-numeric: tabular-nums; }
 
+/* ---------- interactive calculator ---------- */
+
+.calc {
+  display: grid;
+  grid-template-columns: minmax(240px, 320px) 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 720px) { .calc { grid-template-columns: 1fr; } }
+
+.calc-inputs,
+.calc-output {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  padding: 1rem;
+}
+.calc-inputs { display: grid; gap: 0.85rem; align-content: start; }
+
+.field { display: grid; gap: 0.35rem; }
+.field label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.field output { color: var(--text-primary); font-size: 0.9rem; text-transform: none; letter-spacing: 0; }
+
+input[type='range'] {
+  width: 100%;
+  accent-color: var(--accent);
+  height: 1.2rem;
+  cursor: pointer;
+}
+input[type='range']:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 3px; }
+
+.toggle { display: flex; gap: 0; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+.toggle-btn {
+  font: inherit;
+  font-size: 0.85rem;
+  flex: 1;
+  padding: 0.35rem 0.5rem;
+  background: transparent;
+  color: var(--text-secondary);
+  border: none;
+  cursor: pointer;
+}
+.toggle-btn:hover { color: var(--text-primary); }
+.toggle-btn.is-active { background: var(--accent); color: #fff; font-weight: 600; }
+.toggle-btn:focus-visible { outline: 2px solid var(--accent-text); outline-offset: -2px; }
+
+.calc-output { display: grid; gap: 1rem; align-content: start; }
+.price-hero { border-bottom: 1px solid var(--border); padding-bottom: 0.85rem; }
+.price-value {
+  font-size: clamp(2rem, 6vw, 2.9rem);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--accent-text);
+}
+.greek-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 0.6rem; }
+.stat-unit { font-size: 0.7rem; color: var(--text-muted); margin-top: 0.15rem; }
+
+.check-badge {
+  font-size: 0.83rem;
+  color: var(--text-secondary);
+  border-left: 3px solid var(--border);
+  padding: 0.6rem 0.9rem;
+  margin: 0;
+  background: var(--bg-surface);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.check-badge.ok { border-left-color: var(--positive); }
+.check-badge.warn { border-left-color: var(--warn); }
+
 /* ---------- feed ---------- */
 
 .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.25rem; }

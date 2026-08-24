@@ -35,9 +35,73 @@
       analytic anchor, and every Greek is derived three independent ways that must agree.
     </p>
     <div class="hero-note">
-      The public web app is still being built. Everything below is real output from
-      the engine, produced at build time — not screenshots, and not hand-typed.
+      The public web app is still being built — this page is a preview of it. The
+      calculator below runs closed-form pricing in your browser; everything under
+      <a href="#demo">Live engine output</a> is real output from the engine itself,
+      produced at build time. Nothing here is a screenshot or hand-typed.
     </div>
+  </section>
+
+  <section id="try" aria-labelledby="try-h">
+    <div class="section-head">
+      <h2 id="try-h">Try it</h2>
+      <p class="section-sub">
+        A working preview of the pricing surface. Move anything and the price,
+        the Greeks and the payoff all recompute as you go.
+      </p>
+    </div>
+
+    <div class="calc">
+      <form class="calc-inputs" id="calc-form" autocomplete="off">
+        <div class="field">
+          <label for="in-kind">Option</label>
+          <div class="toggle" role="group" aria-label="Option type">
+            <button type="button" class="toggle-btn is-active" data-kind="call">Call</button>
+            <button type="button" class="toggle-btn" data-kind="put">Put</button>
+          </div>
+          <input type="hidden" id="in-kind" value="call">
+        </div>
+
+        <div class="field">
+          <label for="in-spot">Spot <output id="out-spot" class="mono"></output></label>
+          <input type="range" id="in-spot" min="40" max="180" step="0.5" value="100">
+        </div>
+        <div class="field">
+          <label for="in-strike">Strike <output id="out-strike" class="mono"></output></label>
+          <input type="range" id="in-strike" min="40" max="180" step="0.5" value="100">
+        </div>
+        <div class="field">
+          <label for="in-sigma">Volatility <output id="out-sigma" class="mono"></output></label>
+          <input type="range" id="in-sigma" min="1" max="120" step="0.5" value="20">
+        </div>
+        <div class="field">
+          <label for="in-expiry">Time to expiry <output id="out-expiry" class="mono"></output></label>
+          <input type="range" id="in-expiry" min="0.02" max="3" step="0.01" value="1">
+        </div>
+        <div class="field">
+          <label for="in-rate">Risk-free rate <output id="out-rate" class="mono"></output></label>
+          <input type="range" id="in-rate" min="0" max="12" step="0.1" value="5">
+        </div>
+        <div class="field">
+          <label for="in-div">Dividend yield <output id="out-div" class="mono"></output></label>
+          <input type="range" id="in-div" min="0" max="8" step="0.1" value="0">
+        </div>
+        <button type="button" id="calc-reset" class="chip">Reset to base case</button>
+      </form>
+
+      <div class="calc-output">
+        <div class="price-hero">
+          <div class="stat-label">Price</div>
+          <div id="out-price" class="price-value mono">—</div>
+          <div id="out-moneyness" class="dim"></div>
+        </div>
+        <div id="calc-greeks" class="greek-grid"></div>
+      </div>
+    </div>
+
+    <div id="payoff" class="chart"></div>
+
+    <p id="calc-check" class="check-badge"></p>
   </section>
 
   <section id="demo" aria-labelledby="demo-h">
@@ -187,6 +251,7 @@
   </div>
 </footer>
 
+<script src="assets/bs.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

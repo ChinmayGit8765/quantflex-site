@@ -11,11 +11,32 @@ Live at: https://chinmaygit8765.github.io/quantflex-site/
 ```
 index.html            the page
 assets/style.css      design tokens shared with the main app
-assets/app.js         renders the two JSON payloads (no dependencies)
+assets/bs.js          closed-form Black-Scholes for the interactive preview
+assets/app.js         calculator + renderers for the two JSON payloads
 data/demo.json        real engine output — see below
 data/feed.json        daily market headlines, rewritten by the scheduled job
 scripts/build_feed.py stdlib-only RSS collector
 ```
+
+## The interactive calculator
+
+`assets/bs.js` is a second implementation of maths the engine already owns,
+which is normally worth avoiding. It exists because a static page cannot call
+the Python engine, and a preview a visitor can actually move is worth more than
+another table of frozen numbers.
+
+It is held honest rather than trusted. On load the page prices the engine's
+committed base case in the browser and reports the **measured** difference
+against the engine's own value — currently `7.1e-15`. Independently verified
+before shipping: put-call parity holds to `4.3e-14` relative across 20,000
+random parameter sets, `N(x) + N(-x) - 1` is exactly zero, and the call price is
+monotonic in volatility. The normal CDF is Hart's rational approximation (West
+2005) rather than Abramowitz-Stegun 7.1.26, which is only good to ~1e-7 and
+would be visible in that cross-check.
+
+Scope is deliberately narrow: closed-form European vanillas under GBM. Monte
+Carlo, the PDE solver, exotics and the AAD Greeks stay server-side in the real
+engine — that is what "coming soon" refers to.
 
 ## The two data files
 

@@ -249,6 +249,189 @@ function renderProvenance(demo) {
   $('#footer-engine').textContent = `engine ${demo.engine_version}`;
 }
 
+/* ---------- interactive calculator ---------- */
+
+const CALC_DEFAULTS = { spot: 100, strike: 100, sigma: 20, expiry: 1, rate: 5, div: 0, kind: 'call' };
+
+function calcInputs() {
+  return {
+    spot: Number($('#in-spot').value),
+    strike: Number($('#in-strike').value),
+    sigma: Number($('#in-sigma').value) / 100,
+    expiry: Number($('#in-expiry').value),
+    rate: Number($('#in-rate').value) / 100,
+    divYield: Number($('#in-div').value) / 100,
+    kind: $('#in-kind').value,
+  };
+}
+
+function renderPayoff(inp, result) {
+  const W = 720, H = 260, ML = 62, MR = 16, MT = 16, MB = 40;
+  const iw = W - ML - MR, ih = H - MT - MB;
+
+  const lo = Math.max(1, inp.strike * 0.4);
+  const hi = inp.strike * 1.9;
+  const N = 120;
+
+  const xs = [], intrinsic = [], model = [];
+  for (let i = 0; i <= N; i += 1) {
+    const s = lo + ((hi - lo) * i) / N;
+    xs.push(s);
+    intrinsic.push(inp.kind === 'call' ? Math.max(s - inp.strike, 0) : Math.max(inp.strike - s, 0));
+    model.push(blackScholes({ ...inp, spot: s }).price);
+  }
+
+  const yMax = Math.max(...intrinsic, ...model) * 1.1 || 1;
+  const X = (s) => ML + ((s - lo) / (hi - lo)) * iw;
+  const Y = (v) => MT + ih - (v / yMax) * ih;
+
+  const NS = 'http://www.w3.org/2000/svg';
+  const mk = (tag, attrs) => {
+    const n = document.createElementNS(NS, tag);
+    Object.entries(attrs).forEach(([k, v]) => n.setAttribute(k, v));
+    return n;
+  };
+  const svg = document.createElementNS(NS, 'svg');
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  svg.setAttribute('role', 'img');
+  svg.setAttribute('aria-label',
+    `Payoff diagram for a ${inp.kind} struck at ${inp.strike}: value at expiry versus current model value ` +
+    `across spot from ${lo.toFixed(0)} to ${hi.toFixed(0)}.`);
+
+  for (let i = 0; i <= 4; i += 1) {
+    const v = (yMax * i) / 4;
+    const y = Y(v);
+    svg.append(mk('line', { x1: ML, x2: ML + iw, y1: y, y2: y, stroke: '#30363d', 'stroke-width': 1 }));
+    const t = mk('text', { x: ML - 9, y: y + 4, fill: '#6e7681', 'font-size': 11, 'text-anchor': 'end' });
+    t.textContent = v.toFixed(1);
+    svg.append(t);
+  }
+
+  // strike marker
+  svg.append(mk('line', {
+    x1: X(inp.strike), x2: X(inp.strike), y1: MT, y2: MT + ih,
+    stroke: '#6e7681', 'stroke-width': 1, 'stroke-dasharray': '3 3',
+  }));
+
+  svg.append(mk('polyline', {
+    points: xs.map((s, i) => `${X(s)},${Y(intrinsic[i])}`).join(' '),
+    fill: 'none', stroke: '#8b949e', 'stroke-width': 1.5, 'stroke-dasharray': '5 4',
+  }));
+  svg.append(mk('polyline', {
+    points: xs.map((s, i) => `${X(s)},${Y(model[i])}`).join(' '),
+    fill: 'none', stroke: '#58a6ff', 'stroke-width': 2,
+  }));
+
+  // current spot
+  svg.append(mk('circle', { cx: X(inp.spot), cy: Y(result.price), r: 4.5, fill: '#3fb950' }));
+
+  [[lo, ML], [inp.strike, X(inp.strike)], [hi, ML + iw]].forEach(([val, x]) => {
+    const t = mk('text', { x, y: MT + ih + 18, fill: '#6e7681', 'font-size': 11, 'text-anchor': 'middle' });
+    t.textContent = val.toFixed(0);
+    svg.append(t);
+  });
+
+  const legend = [
+    ['#58a6ff', 'model value now'],
+    ['#8b949e', 'value at expiry'],
+    ['#3fb950', 'current spot'],
+  ];
+  legend.forEach(([colour, label], i) => {
+    svg.append(mk('rect', { x: ML + 8 + i * 150, y: MT + 4, width: 10, height: 3, fill: colour }));
+    const t = mk('text', { x: ML + 22 + i * 150, y: MT + 10, fill: '#8b949e', 'font-size': 11 });
+    t.textContent = label;
+    svg.append(t);
+  });
+
+  $('#payoff').replaceChildren(svg);
+}
+
+function recalc() {
+  const inp = calcInputs();
+  const r = blackScholes(inp);
+
+  $('#out-spot').textContent = inp.spot.toFixed(2);
+  $('#out-strike').textContent = inp.strike.toFixed(2);
+  $('#out-sigma').textContent = `${(inp.sigma * 100).toFixed(1)}%`;
+  $('#out-expiry').textContent = `${inp.expiry.toFixed(2)}y`;
+  $('#out-rate').textContent = `${(inp.rate * 100).toFixed(1)}%`;
+  $('#out-div').textContent = `${(inp.divYield * 100).toFixed(1)}%`;
+
+  $('#out-price').textContent = r.price.toFixed(4);
+
+  const ratio = inp.spot / inp.strike;
+  const moneyness = Math.abs(ratio - 1) < 0.005 ? 'at the money'
+    : (inp.kind === 'call') === (ratio > 1) ? 'in the money' : 'out of the money';
+  $('#out-moneyness').textContent = `${inp.kind} · ${moneyness}`;
+
+  const cells = [
+    ['Delta', r.delta, 'per $1 spot', 4],
+    ['Gamma', r.gamma, 'per $1', 5],
+    ['Vega', r.vega, 'per vol point', 4],
+    ['Theta', r.theta, 'per day', 5],
+    ['Rho', r.rho, 'per 1% rate', 4],
+  ];
+  const box = $('#calc-greeks');
+  box.replaceChildren();
+  cells.forEach(([label, value, unit, dp]) => {
+    const card = el('div', 'stat');
+    card.append(el('div', 'stat-label', label));
+    card.append(el('div', 'stat-value', Number.isFinite(value) ? value.toFixed(dp) : '—'));
+    card.append(el('div', 'stat-unit', unit));
+    box.append(card);
+  });
+
+  renderPayoff(inp, r);
+}
+
+function initCalc(demo) {
+  document.querySelectorAll('.toggle-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.toggle-btn').forEach((b) => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+      $('#in-kind').value = btn.dataset.kind;
+      recalc();
+    });
+  });
+
+  ['in-spot', 'in-strike', 'in-sigma', 'in-expiry', 'in-rate', 'in-div'].forEach((id) => {
+    $(`#${id}`).addEventListener('input', recalc);
+  });
+
+  $('#calc-reset').addEventListener('click', () => {
+    $('#in-spot').value = CALC_DEFAULTS.spot;
+    $('#in-strike').value = CALC_DEFAULTS.strike;
+    $('#in-sigma').value = CALC_DEFAULTS.sigma;
+    $('#in-expiry').value = CALC_DEFAULTS.expiry;
+    $('#in-rate').value = CALC_DEFAULTS.rate;
+    $('#in-div').value = CALC_DEFAULTS.div;
+    $('#in-kind').value = CALC_DEFAULTS.kind;
+    document.querySelectorAll('.toggle-btn').forEach((b) =>
+      b.classList.toggle('is-active', b.dataset.kind === CALC_DEFAULTS.kind));
+    recalc();
+  });
+
+  recalc();
+
+  // State the MEASURED agreement against the engine, not a claimed one.
+  const badge = $('#calc-check');
+  if (!demo) {
+    badge.textContent =
+      'This calculator runs closed-form Black-Scholes in your browser. Monte Carlo, ' +
+      'the PDE solver, exotics and the AAD Greeks all run server-side in the engine.';
+    return;
+  }
+  const check = selfCheck(demo);
+  const ok = check && check.absDiff < 1e-10;
+  badge.classList.add(ok ? 'ok' : 'warn');
+  badge.textContent = check
+    ? `Cross-checked against the engine: pricing the same base case here gives ` +
+      `${check.browser.toPrecision(16)} against the engine's ${check.engine.toPrecision(16)} — ` +
+      `a difference of ${check.absDiff.toExponential(1)}. This calculator covers the closed-form ` +
+      `path only; Monte Carlo, the PDE solver, exotics and the AAD Greeks run server-side.`
+    : 'Closed-form preview — Monte Carlo, PDE, exotics and AAD Greeks run server-side.';
+}
+
 /* ---------- feed ---------- */
 
 let feedItems = [];
@@ -309,8 +492,12 @@ async function load(path) {
 }
 
 (async () => {
+  // The calculator is self-contained, so it must come up even if the committed
+  // engine payload is unreachable — it only needs demo.json for the
+  // cross-check figure.
+  let demo = null;
   try {
-    const demo = await load('data/demo.json');
+    demo = await load('data/demo.json');
     renderShowcase(demo.showcase);
     renderShowcaseNotes(demo.showcase);
     renderGreeks(demo.greeks);
@@ -323,6 +510,13 @@ async function load(path) {
     const box = $('#demo-status');
     box.textContent = `Could not load engine output — ${err.message}`;
     box.classList.add('is-error');
+  }
+
+  try {
+    initCalc(demo);
+  } catch (err) {
+    $('#calc-check').textContent = `Calculator failed to start — ${err.message}`;
+    $('#calc-check').classList.add('warn');
   }
 
   try {
