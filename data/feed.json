@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-26T06:26:58+00:00",
+  "generated": "2026-08-27T09:22:37+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 16,
-    "crypto": 10,
+    "stocks": 12,
+    "crypto": 14,
     "gold": 4
   },
   "sources": [
@@ -11,7 +11,7 @@
       "name": "Yahoo Finance",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 5
     },
     {
       "name": "CNBC Top News",
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 3
+      "items": 8
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
+      "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week",
+      "link": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T09:19:39+00:00",
+      "summary": "BlackRock's head of digital assets shared his outlook for bitcoin after the company's spot BTC ETF, IBIT, hit record volume for a positive week."
+    },
+    {
+      "title": "Nvidia shares surge 8% on earnings beat, lifting technology stocks and bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/08/27/nvidia-shares-surge-8-on-earnings-beat-lifting-technology-stocks-and-bitcoin",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T09:19:26+00:00",
+      "summary": "Nvidia\u2019s earnings beat and strong outlook lifted technology stocks, bitcoin and AI infrastructure companies."
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-27T09:15:00+00:00",
+      "summary": "\u201cThese shares are the only assets in her estate without designated beneficiaries.\u201d"
+    },
+    {
+      "title": "Britain plans new Bank of England objective for stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/08/27/britain-plans-new-bank-of-england-objective-for-stablecoins",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T09:03:23+00:00",
+      "summary": "Financial stability would remain its primary duty, with annual reports to Parliament on the new objective being planned."
+    },
+    {
+      "title": "Live updates: Bitcoin ETF inflows hit eight straight days as August tops $3 billion",
+      "link": "https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T08:51:37+00:00",
+      "summary": "U.S. spot bitcoin funds have taken in $2.8 billion since the run began, and ether ETFs are matching it day for day. Three sessions are left to make August their best month since October 2025."
+    },
+    {
+      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T08:43:20+00:00",
+      "summary": "Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong."
+    },
+    {
+      "title": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
+      "link": "https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-27T08:37:00+00:00",
+      "summary": "While Ozempic maker Novo Nordisk has fallen on tough times, Wall Street analysts have still been reluctant to advise investors to sell the stock, until Deutsche Bank lowered the boom on Thursday."
+    },
+    {
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
+      "link": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T08:33:46+00:00",
+      "summary": "Russia and Ukraine have intensified long-range drone and missile strikes as fears of further escalation grow."
+    },
+    {
+      "title": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump\u2019s Hormuz claim",
+      "link": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T08:22:29+00:00",
+      "summary": "The Prime Minister of U.S.-ally Qatar is in Iran for talks on Thursday as part of efforts to \"de-escalate tensions\" between Tehran and Washington."
+    },
+    {
+      "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
+      "link": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-27T08:05:44+00:00",
+      "summary": "Core Lightning advised operators to use offline mode if they do not install the forthcoming update, keeping their nodes active but disconnected."
+    },
+    {
+      "title": "Treasury yields ease ahead of jobs data and Jackson Hole",
+      "link": "https://www.cnbc.com/2026/08/27/us-bonds-us10y-jackson-hold.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T07:44:20+00:00",
+      "summary": "Treasury yields were slightly lower as investors gear up for an initial jobless claims print and a highly-anticipated speech from Fed Chair Kevin Warsh."
+    },
+    {
+      "title": "Bitcoin researchers propose quantum fix that would not crowd out transactions",
+      "link": "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T07:15:57+00:00",
+      "summary": "The SHRINCS proposal would let bitcoin transactions use larger, quantum-resistant approvals while preserving more network capacity than existing post-quantum signature designs."
+    },
+    {
+      "title": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-27T07:01:19+00:00",
+      "summary": "US spot Bitcoin ETF inflows slowed to $232.1 million as an eight-day streak reached $2.8 billion, while XRP funds posted their biggest inflow since Jan. 5."
+    },
+    {
+      "title": "Lake Victoria Gold Intersects 28.71 g/t Au over 2.75 m and 12.20 g/t Au over 4.50 m in Shallow Area C Drilling at Imwelo",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-intersects-28-070100800.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-27T07:01:00+00:00",
+      "summary": "Targeted whole-core metallurgical program on weathered ore advances clay-handling and final process-design decisions for the planned initial mining areaVancouver, British Columbia--(Newsfile Corp. - August 27, 2026) - Lake Victoria Gold Ltd. (TSXV: LVG) (OTCQB: LVGLF) (FSE: E1K) "
+    },
+    {
+      "title": "Greatland hails 'transformative year' as it eyes further expansion",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097696/greatland-hails-transformative-year-as-it-eyes-further-expansion-1097696.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-27T06:48:00+00:00",
+      "summary": "Greatland Resources Ltd (AIM:GGP, OTC:GRLGF, FRA:G8G, ASX:GGP) described the past financial year as transformative, its first 12 months owning the Telfer gold and copper mine, as it prepares for an ambitious programme of investment and expansion. The dual-listed miner, which boug"
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-08-26T06:04:55+00:00",
+      "published": "2026-08-27T06:47:23+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-      "link": "https://www.coindesk.com/markets/2026/08/26/E",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-26T05:52:53+00:00",
-      "summary": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares."
-    },
-    {
-      "title": "XRP\u2019s 44% rally brings leverage back, raising risk of sharper pullback",
-      "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-26T05:16:32+00:00",
-      "summary": "CryptoQuant data show XRP\u2019s estimated leverage ratio on Binance at its highest since January, with long accounts outnumbering shorts as futures volume runs more than five times spot trading."
-    },
-    {
-      "title": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
-      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-26T04:51:49+00:00",
-      "summary": "The Fear & Greed Index reached 74 on Tuesday after sitting at 27 less than two weeks ago, showing how quickly traders have gone from caution to chasing risk."
-    },
-    {
-      "title": "Oil falls as the U.S. pivots to economic pressure on Iran",
-      "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-26T04:35:22+00:00",
-      "summary": "Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on Iran."
-    },
-    {
-      "title": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-26T04:20:31+00:00",
-      "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google."
-    },
-    {
-      "title": "US banking groups plan nationwide blockchain network for 2027",
-      "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
+      "link": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-08-26T04:17:39+00:00",
-      "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments."
+      "published": "2026-08-27T06:39:02+00:00",
+      "summary": "Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding."
     },
     {
-      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T05:34:13+00:00",
+      "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week."
+    },
+    {
+      "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases \u2018Homer\u2019 and \u2018Marge\u2019 in company meetings",
+      "link": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-08-26T04:13:10+00:00",
-      "summary": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%."
+      "published": "2026-08-27T05:25:28+00:00",
+      "summary": "Yi, who is now the co-CEO of Binance alongside its other chief Richard Teng, still uses the name Marge in meetings and chats."
     },
     {
-      "title": "Gold Bitcoin Rally Together as the Debasement Trade Returns",
-      "link": "http://www.etf.com/sections/features/gold-bitcoin-rally-together-debasement-trade-returns?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "title": "Qantas shares jump after earnings as airline unveils new business-class seats",
+      "link": "https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T05:02:44+00:00",
+      "summary": "Qantas shares jumped 4% after the airline reported full-year earnings and introduced new business-class seats amid strong demand for premium travel."
+    },
+    {
+      "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
+      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T04:35:18+00:00",
+      "summary": "Every major token except solana and BNB is flat or lower over 24 hours, with bitcoin holding a 14% weekly gain and XRP 28%."
+    },
+    {
+      "title": "Gold Is on a Roll. How Much Is Too Much for Retirees?",
+      "link": "https://finance.yahoo.com/m/a09d022a-4566-3c6d-8918-3b521d99a4d2/gold-is-on-a-roll.-how-much.html?.tsrc=rss",
+      "source": "Yahoo GLD",
+      "category": "gold",
+      "published": "2026-08-27T04:30:00+00:00",
+      "summary": "Gold is generally seen as a garnish in retirement portfolios. Its rally has coincided with mounting concerns over America\u2019s $40 trillion in government debt, rising deficits, and \u201cdollar debasement\u201d\u2014the notion that the currency will be worth less as the government prints more mone"
+    },
+    {
+      "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
+      "link": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-27T04:14:48+00:00",
+      "summary": "StarkWare said the experimental transaction demonstrated quantum-resistant Bitcoin spending without a fork, but it cost up to $200 and required direct miner submission."
+    },
+    {
+      "title": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
+      "link": "https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-27T04:02:57+00:00",
+      "summary": "An indicator fundamental to understanding whether capital consistently moved in size to push prices higher is flashing green."
+    },
+    {
+      "title": "Gold Price Holds Above $4,600 Ahead of Warsh's Jackson Hole Speech",
+      "link": "https://beincrypto.com/gold-price-jackson-hole-warsh/?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-08-26T03:23:44+00:00",
-      "summary": "Gold and bitcoin have surged together this month as the Treasury tries to hold down bond yields."
+      "published": "2026-08-27T03:44:00+00:00",
+      "summary": "The gold price consolidates above $4,600 as traders await Fed Chair Kevin Warsh's Jackson Hole speech this week."
     },
     {
-      "title": "Novo Resources highlights near-term drilling and investment plans",
-      "link": "https://finance.yahoo.com/video/novo-resources-highlights-near-term-024731363.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-26T02:47:31+00:00",
-      "summary": "Novo Resources executive chairman Mike Spreadborough talked with Proactive about the company\u2019s discovery-led gold and copper exploration strategy, its portfolio of projects across Australia and the drilling catalysts expected over the coming months. Novo Resources is focused on g"
-    },
-    {
-      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
-      "link": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-26T02:34:28+00:00",
-      "summary": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing."
-    },
-    {
-      "title": "Why Did RUM, MRK, NEM Stocks Jump To 52-Week Highs Today?",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-did-rum-mrk-nem-stocks-jump-to-52-week-highs-today/cZYNhKjRJo8?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-26T02:28:02+00:00",
-      "summary": "Rum Group, Merck, and Newmont shares surged to annual highs amid positive company catalysts, Wall Street optimism, and a rise in gold prices."
-    },
-    {
-      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "link": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-26T02:06:21+00:00",
-      "summary": "Trump last Sunday instructed the Pentagon to cut military drills because they were \"costly\" and send \"inappropriate and hostile\" signals to North Korea."
-    },
-    {
-      "title": "Are older Americans spoiling the economy for everyone else?",
-      "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
+      "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia\u2019s eye",
+      "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-08-26T01:41:00+00:00",
-      "summary": "How to get seniors to spend $12 trillion in home equity."
-    },
-    {
-      "title": "5 cheap U.S. cities to retire in \u2014 if you can deal with this one thing",
-      "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-26T01:35:00+00:00",
-      "summary": "You don\u2019t have to leave the country to find an affordable place that matches your retirement vision."
-    },
-    {
-      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
-      "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-26T01:07:28+00:00",
-      "summary": "Sen. Darline Graham on Tuesday defeated Rep. Ralph Norman, winning the GOP nomination for a South Carolina Senate seat."
-    },
-    {
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "link": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-26T00:34:03+00:00",
-      "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers."
-    },
-    {
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-26T00:30:00+00:00",
-      "summary": "\u201cWe don\u2019t know whether they have signed leases or are renting month to month.\u201d"
+      "published": "2026-08-27T03:17:00+00:00",
+      "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus."
     },
     {
       "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-08-26T00:01:00+00:00",
+      "published": "2026-08-27T02:41:00+00:00",
       "summary": "\u201cI also own my home and an SUV outright, with no outstanding debt.\u201d"
     },
     {
-      "title": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-five-day-gain-235239126.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-25T23:52:39+00:00",
-      "summary": "Gold held a five-day gain, with inflation concerns eased by a drop in US Treasury yields and lower oil prices as Iran and Oman discussed ways to reopen the Strait of Hormuz."
-    },
-    {
-      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-25T23:01:00+00:00",
-      "summary": "\u201cThe property is very old and requires significant ongoing maintenance.\u201d"
-    },
-    {
-      "title": "Dick\u2019s Sporting Goods\u2019 epic drop hits other footwear giants, as shoppers sour on retro sneakers",
-      "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-25T22:57:00+00:00",
-      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed."
-    },
-    {
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-25T22:45:00+00:00",
-      "summary": "\u201cWe are reluctant to pay a financial adviser 2% of assets \u2014 roughly $160,000 per year.\u201d"
-    },
-    {
-      "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-25T21:56:57+00:00",
-      "summary": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized deposits inside the banking system's regulatory sphere."
-    },
-    {
-      "title": "Zerohash back for second effort at OCC trust bank charter",
-      "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-25T21:38:28+00:00",
-      "summary": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort."
-    },
-    {
-      "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-      "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-25T21:26:01+00:00",
-      "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect."
-    },
-    {
-      "title": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-25T21:01:00+00:00",
-      "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium."
-    },
-    {
-      "title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
-      "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-08-25T20:38:59+00:00",
-      "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment."
-    },
-    {
-      "title": "World Liberty Financial launches USD1 natively on Canton Network",
-      "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
+      "link": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-08-25T20:35:10+00:00",
-      "summary": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data."
+      "published": "2026-08-27T01:26:54+00:00",
+      "summary": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here\u2019s everything you need to know."
     },
     {
-      "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-      "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-25T19:40:00+00:00",
-      "summary": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month."
+      "title": "Nvidia wows Wall Street with a strong quarter and an eye-popping sales forecast",
+      "link": "https://www.cnbc.com/2026/08/26/nvidia-wows-wall-street-with-a-strong-quarter-eye-popping-sales-forecast.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-08-27T01:02:43+00:00",
+      "summary": "Nvidia CEO Jensen Huang did it again."
+    },
+    {
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+      "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-27T01:01:00+00:00",
+      "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter."
     }
   ]
 }
