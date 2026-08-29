@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-28T09:24:37+00:00",
+  "generated": "2026-08-29T06:34:17+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 10,
-    "crypto": 13,
-    "gold": 7
+    "stocks": 16,
+    "crypto": 6,
+    "gold": 8
   },
   "sources": [
     {
       "name": "Yahoo Finance",
       "category": "stocks",
       "status": "ok",
-      "items": 5
+      "items": 8
     },
     {
       "name": "CNBC Top News",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 8
+      "items": 5
     }
   ],
   "items": [
     {
-      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-      "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-28T09:20:00+00:00",
-      "summary": "\u201cI specifically rejected Contractor A because of his reputation and chose Contractor B because of his reputation.\u201d"
-    },
-    {
-      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
-      "link": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T09:10:40+00:00",
-      "summary": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24."
-    },
-    {
-      "title": "Live updates: Bitcoin options worth $6.4 billion just expired as prices hover near $80,000",
-      "link": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T09:09:07+00:00",
-      "summary": "The $6.4 billion expiry cleared after bitcoin\u2019s run from roughly $62,000 to $80,000, leaving traders to rebuild positions around a very different price range."
-    },
-    {
-      "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
-      "link": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T09:07:00+00:00",
-      "summary": "Weakening profitability overshadowed a major milestone in IREN\u2019s transformation into an AI cloud provider."
-    },
-    {
-      "title": "Marvell Technology shares slump as investors question Google deal. Here\u2019s what Wall Street is saying.",
-      "link": "https://www.marketwatch.com/story/marvell-technology-shares-slump-as-investors-question-google-deal-heres-what-wall-street-is-saying-d69d8e0c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-28T09:05:00+00:00",
-      "summary": "Strategists at a number of banks noted that investors\u2019 eyes were firmly on news about the company\u2019s recent partnership with Alphabet\u2019s Google, with expectations ultimately left unmet."
-    },
-    {
-      "title": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
-      "link": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-28T08:21:16+00:00",
-      "summary": "OneKey said it reproduced an exploit against an older version of the Ledger app in its lab environment, which Ledger fixed in its Ethereum app 1.22.2, with no user funds lost."
-    },
-    {
-      "title": "Pirate Gold Intersects 30.6 g/t Au over 1.35m and 4.25 g/t Au over 6.65m at Moosehead; Identifies New Gold Structure",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pirate-gold-intersects-30-6-080500775.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-28T08:05:00+00:00",
-      "summary": "Eastern Trend shallow drilling continues to deliver high-grade assay results along its southern extension with 30.6g/t Au over 1.35m including 89.7g/t Au over 0.40m in PGC-26-112Western Trend drilling down plunge of the surface vein exposure yielded 4.25g/t Au over 6.65m includin"
-    },
-    {
-      "title": "Visa works with Upbit parent on stablecoin payments, AI commerce",
-      "link": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-28T07:41:15+00:00",
-      "summary": "Visa and Dunamu will explore stablecoin payments and remittances, with Open Standard\u2019s proposed OUSD among several projects under review."
-    },
-    {
-      "title": "New Strong Sell Stocks for August 28th",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-august-28th-072800160.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-28T07:28:00+00:00",
-      "summary": "AU, APTV and BSX have been added to the Zacks Rank #5 (Strong Sell) List on August 28th, 2026."
-    },
-    {
-      "title": "Iran says return to diplomacy 'isn't impossible' \u2014 but all Mideast wars must end to reopen Hormuz",
-      "link": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+      "title": "Meta\u2019s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+      "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-08-28T07:20:34+00:00",
-      "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria."
+      "published": "2026-08-29T05:00:01+00:00",
+      "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online."
     },
     {
-      "title": "Adelayde Exploration Identifies Multiple Untested Magnetic Targets on George Lake South Antimony/Tungsten Project Adjacent to Past-Producing Lake George Mine",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/adelayde-exploration-identifies-multiple-untested-070100575.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-28T07:01:00+00:00",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - August 28, 2026) - Adelayde Exploration Inc. (CSE: ADDY) (OTCID: SPMTF) (WKN: A41AGV) (\"Adelayde\" or the \"Company\") is pleased to announce results from a newly completed airborne magnetic survey and 3D geophysical inversion over its "
-    },
-    {
-      "title": "Here\u2019s why Warsh\u2019s Jackson Hole speech is a major event for bitcoin and gold",
-      "link": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-08-28T06:30:10+00:00",
-      "summary": "Warsh\u2019s Jackson Hole speech could shape expectations for Fed support of Treasury buybacks, with implications for bitcoin, gold and long-term yields."
+      "published": "2026-08-29T04:30:00+00:00",
+      "summary": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total."
     },
     {
-      "title": "Solana\u2019s faster disinflation plan leads vote as $800K burn proposal trails",
-      "link": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T06:22:10+00:00",
-      "summary": "All three proposals have cleared quorum, but a plan to slow new SOL creation is only narrowly passing while a separate vote to sharply increase token burns remains below the two-thirds support needed."
-    },
-    {
-      "title": "Caledonia Mining Corporation Plc: Maiden Mineral Resource Estimate at Motapa 379,000 oz Measured and Indicated; 131,000 oz Inferred",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/caledonia-mining-corporation-plc-maiden-060500858.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-28T06:05:00+00:00",
-      "summary": "Maiden Mineral Resource Estimate at Motapa379,000 oz Measured and Indicated; 131,000 oz Inferred(NYSE AMERICAN:CMCL)(AIM:CMCL)(VFEX:CMCL)SAINT HELIER, JE / ACCESS Newswire / August 28, 2026 / (\"Caledonia\" or the \"Company\") is pleased to announce a maiden mineral resource estimate"
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-28T05:50:05+00:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-      "link": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-28T05:40:48+00:00",
-      "summary": "Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the project\u2019s treasury, with claims expected to open within two weeks."
-    },
-    {
-      "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T05:02:22+00:00",
-      "summary": "The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000."
-    },
-    {
-      "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
-      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T04:40:52+00:00",
-      "summary": "Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana."
-    },
-    {
-      "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
-      "link": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-28T04:21:22+00:00",
-      "summary": "The SEC cleared the paperwork for Evernorth's merger with a shell company, setting up a Sept. 30 vote and a listing under the ticker XRPN."
-    },
-    {
-      "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
-      "link": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-28T04:17:09+00:00",
-      "summary": "Sheikh Tahnoon\u2019s group reportedly backs a 49% stake in the holding company behind World Liberty\u2019s conditionally approved US trust bank."
-    },
-    {
-      "title": "Judge says Trump administration\u2019s blacklist of Anthropic was illegal",
-      "link": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-28T03:16:00+00:00",
-      "summary": "The Trump administration violated Anthropic\u2019s First Amendment rights when it blacklisted the AI company earlier this year, a federal judge ruled late Thursday."
-    },
-    {
-      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-      "link": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+      "link": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-08-28T02:50:45+00:00",
-      "summary": "The Defense Department had barred the U.S. military from using Anthropic's Claude in March"
+      "published": "2026-08-29T02:43:38+00:00",
+      "summary": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity."
     },
     {
-      "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-      "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+      "title": "Ripple is preparing XRP Ledger for quantum computers before \u2018Q-Day\u2019 arrives",
+      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-29T02:30:00+00:00",
+      "summary": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week."
+    },
+    {
+      "title": "PDI Gold Stock Leads These Fast Growing Insider Backed Commodity Picks",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pdi-gold-stock-leads-fast-021711817.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-29T02:17:11+00:00",
+      "summary": "Global debt markets are back in focus as the US 10 year yield hovers around the mid 4% range ahead of Jackson Hole. Higher yields can punish weaker balance sheets, yet they often highlight companies that still commit their own capital. This is where fast growing stocks with high "
+    },
+    {
+      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+      "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-08-28T01:35:13+00:00",
-      "summary": "U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China."
-    },
-    {
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there\u2019s more to the story",
-      "link": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-28T00:20:00+00:00",
-      "summary": "Analysts are crunching the numbers on Marvell\u2019s recently announced Google deal and how much fresh upside it really offers."
-    },
-    {
-      "title": "Perseus Mining (ASX:PRU) Shares Trade Below Fair Value After Strong Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perseus-mining-asx-pru-shares-001454459.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-28T00:14:54+00:00",
-      "summary": "Perseus Mining has delivered very strong returns over the past five years, yet its broader valuation checks currently lean expensive, which may give some investors pause after the recent share price strength. Perseus Mining has returned 386.7% over five years, which places recent"
-    },
-    {
-      "title": "SpaceX\u2019s $100 billion spaceport plan has investors asking where all the money is coming from",
-      "link": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-28T00:02:00+00:00",
-      "summary": "The company will need to raise a lot of debt in order to fund its ambitions, according to an analyst."
-    },
-    {
-      "title": "Gold Holds Near $4,600 as Investors Focus on Fed Rate-Hike Path",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-600-233418705.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-27T23:34:18+00:00",
-      "summary": "Gold steadied near $4,600 an ounce as investors weighed the outlook for US interest rates ahead of a key speech by Federal Reserve Chairman Kevin Warsh."
-    },
-    {
-      "title": "Endeavour Mining (TSX:EDV) Tops Jefferies Upside List, Does It Look Fully Valued?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/endeavour-mining-tsx-edv-tops-231215170.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-27T23:12:15+00:00",
-      "summary": "A fresh Jefferies report has pushed Endeavour Mining (TSX:EDV) into focus for gold investors, highlighting the company as having the most upside potential among key precious metals miners after a recent sector rally. Endeavour Mining\u2019s momentum has picked up sharply in recent wee"
-    },
-    {
-      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that\u2019s possible.",
-      "link": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-27T23:05:00+00:00",
-      "summary": "Nvidia\u2019s stock soars higher after earnings."
+      "published": "2026-08-28T23:42:26+00:00",
+      "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post."
     },
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
       "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-08-27T23:00:00+00:00",
+      "published": "2026-08-28T23:00:00+00:00",
       "summary": "\u201cThese shares are the only assets in her estate without designated beneficiaries.\u201d"
+    },
+    {
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+      "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T22:15:00+00:00",
+      "summary": "\u201cI\u2019m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.\u201d"
+    },
+    {
+      "title": "Why Goldgroup Mining Tumbled Today",
+      "link": "https://www.fool.com/investing/2026/08/28/why-goldgroup-mining-tumbled-today/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T21:54:20+00:00",
+      "summary": "Few assets connected with the precious metal did well on Friday."
+    },
+    {
+      "title": "Microsoft\u2019s stock seals its longest winning streak of the year as AI software fears fade",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T21:34:00+00:00",
+      "summary": "Microsoft\u2019s software offers capabilities that will be critical for AI, one analyst notes."
+    },
+    {
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T21:31:00+00:00",
+      "summary": "\u201cWe are hurt and confused, but we have also tried to respect the boundaries they have established.\u201d"
+    },
+    {
+      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+      "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-28T21:28:12+00:00",
+      "summary": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter."
+    },
+    {
+      "title": "Churchill Intersects 19.23% Antimony over 1.40 Metres at Frost Cove North and at PC Pond Expands Vein Swarm and Intersects New Prospect Grading 0.78% Copper with 61.2 g/t Silver over 6.22 Metres on the Black Raven Project, Central Newfoundland",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/churchill-intersects-19-23-antimony-210000595.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T21:00:00+00:00",
+      "summary": "TORONTO, ON / ACCESS Newswire / August 28, 2026 / (\"Churchill\" or the \"Company\") (TSXV:CRI.V) is pleased to report final assay results from its Spring 2026 program of core drilling and trenching at the Black Raven Project."
+    },
+    {
+      "title": "Western Gold Provides Exploration and Corporate Update",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/western-gold-provides-exploration-corporate-210000735.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T21:00:00+00:00",
+      "summary": "North Berwick, Scotland--(Newsfile Corp. - August 28, 2026) - WESTERN GOLD EXPLORATION LTD. (TSXV: WGLD) (the \"Company\") is pleased to provide an update on the progress of its Caledonian Gold Project drilling campaign and a general corporate update. The Caledonian Gold Project is"
+    },
+    {
+      "title": "Nvidia\u2019s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+      "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T20:58:00+00:00",
+      "summary": "SpaceX plans to spend tons of money on chips and recently announced it will only buy Nvidia\u2019s. But other high-profile companies need more processing power as well."
+    },
+    {
+      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T20:45:00+00:00",
+      "summary": "\u201cI specifically rejected Contractor A because of his reputation.\u201d"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-28T20:42:54+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Bessent attacks Warren over yen intervention query, offers \u2018Foreign Exchange for Dummies\u2019 lesson",
+      "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-28T20:31:58+00:00",
+      "summary": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren\u2019s requests for details."
+    },
+    {
+      "title": "Dolly Parton\u2019s music, books and theme park see spikes in interest following her death",
+      "link": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T20:21:00+00:00",
+      "summary": "Dolly Parton, musician, actor and literacy advocate, died on Tuesday at the age of 80."
+    },
+    {
+      "title": "Gold Miner Newmont Eclipses Gold's Rally Thanks To A Dual Growth Engine",
+      "link": "https://finance.yahoo.com/m/e66dda6e-0e6b-35d5-a664-f3605e810ff4/gold-miner-newmont-eclipses.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T20:16:21+00:00",
+      "summary": "Newmont stock is outperforming rival gold stocks this year, as demand for gold and copper surges thanks to data centers and electric cars."
+    },
+    {
+      "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
+      "link": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-28T20:10:00+00:00",
+      "summary": "Kevin Warsh passed another big test as a new Federal Reserve chairman on Friday: He said the central bank still has work to do on inflation, and the bond market took him at his word."
+    },
+    {
+      "title": "CEO of buy now, pay later giant Affirm says high gas prices are hitting U.S. shoppers",
+      "link": "https://www.cnbc.com/2026/08/28/affirm-stock-earnings-levchin-gas-prices.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-08-28T20:09:13+00:00",
+      "summary": "The national average price for gas is at $4.09 per gallon and was last below $3 on March 2."
+    },
+    {
+      "title": "Corn and wheat prices jump to highest prices in more than three years",
+      "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-28T20:00:56+00:00",
+      "summary": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different."
+    },
+    {
+      "title": "Solana validators approve proposal to accelerate SOL disinflation",
+      "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-28T19:53:12+00:00",
+      "summary": "The approved proposal doubles Solana\u2019s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged."
+    },
+    {
+      "title": "Barrick Mining (B) Has an IPO Catalyst. Newmont Corporation (NEM) Has the Cash. Which Gold Stock Wins?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-ipo-catalyst-194819707.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T19:48:19+00:00",
+      "summary": "On August 10, gold mining giants Barrick Mining Corporation (NYSE:B) and Newmont Corporation (NYSE:NEM) reached a landmark agreement to resolve all outstanding disputes regarding their Nevada Gold Mines (NGM) joint venture. Under the deal, previously excluded properties, Barrick\u2019"
+    },
+    {
+      "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
+      "link": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-28T19:35:09+00:00",
+      "summary": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1."
+    },
+    {
+      "title": "Warsh's Hawkish Jackson Hole Speech Sends Gold Sharply Lower",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/warshs-hawkish-jackson-hole-speech-191300915.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T19:13:00+00:00",
+      "summary": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impact on gold prices and other key correlated assets\u2014and may continue to in the fut"
+    },
+    {
+      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+      "link": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-28T19:09:34+00:00",
+      "summary": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs."
+    },
+    {
+      "title": "Bitcoin's 90-day correlation with gold tops 50%, study says debt fears are driving it",
+      "link": "https://www.thestreet.com/crypto/markets/bitcoins-90-day-correlation-with-gold-tops-50-study-says-debt-fears-are-driving-it?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-28T18:26:40+00:00",
+      "summary": "For most of 2026, Bitcoin was trading like a tech stock. That changed this month. Grayscale\u2019s head of research says the shift may be structural."
+    },
+    {
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-28T17:46:12+00:00",
+      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea\u2019s upcoming football season."
     }
   ]
 }
