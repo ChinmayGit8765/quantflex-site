@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-30T06:35:17+00:00",
+  "generated": "2026-08-31T06:48:23+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 12,
+    "stocks": 17,
+    "crypto": 10,
     "gold": 3
   },
   "sources": [
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 7
+      "items": 4
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 3
+      "items": 0
     }
   ],
   "items": [
     {
-      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-      "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
+      "link": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-08-29T23:49:17+00:00",
-      "summary": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses."
-    },
-    {
-      "title": "Polygon discloses security flaws fixed in recent hard forks",
-      "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-29T20:28:51+00:00",
-      "summary": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them."
-    },
-    {
-      "title": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy",
-      "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-29T20:22:12+00:00",
-      "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated."
-    },
-    {
-      "title": "Is Aris Mining (TSX:ARIS) Still Cheap After Its 44% Monthly Rally?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aris-mining-tsx-aris-still-201319648.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-29T20:13:19+00:00",
-      "summary": "Aris Mining (TSX:ARIS) drew attention after recent share price moves, with the stock up 44.0% over the past month and 12.8% over the past 3 months, inviting closer scrutiny from investors. Despite the latest share price of CA$28.18 pulling back with a 1-day share price return tha"
-    },
-    {
-      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-      "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-29T19:55:30+00:00",
-      "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam."
-    },
-    {
-      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-      "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-29T19:12:42+00:00",
-      "summary": "Stellar\u2019s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network."
-    },
-    {
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-      "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-29T19:06:22+00:00",
-      "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX\u2019s $60 billion acquisition of the coding startup."
-    },
-    {
-      "title": "Trump administration weighs Yosemite land swap for private developer\u2019s access road",
-      "link": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-29T18:21:49+00:00",
-      "summary": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access."
-    },
-    {
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T16:30:00+00:00",
-      "summary": "\u201cWe are reluctant to pay a financial adviser 2% of assets \u2014 roughly $160,000 per year.\u201d"
-    },
-    {
-      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-      "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-29T16:27:28+00:00",
-      "summary": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month."
-    },
-    {
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-      "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T16:00:00+00:00",
-      "summary": "\u201cThese shares are the only assets in her estate without designated beneficiaries.\u201d"
-    },
-    {
-      "title": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T15:31:00+00:00",
-      "summary": "\u201cHis argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.\u201d"
-    },
-    {
-      "title": "G Mining Ventures (TSX:GMIN) Stock Looks Above Fair Value But Strong On Returns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/g-mining-ventures-tsx-gmin-150717840.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-29T15:07:17+00:00",
-      "summary": "G Mining Ventures has delivered very strong long term share price gains over the past five years, yet the broader valuation checks currently lean toward the stock being expensive rather than a clear bargain. After a sharp run in recent years, investors now face a pricing picture "
-    },
-    {
-      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
-      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-29T15:00:00+00:00",
-      "summary": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers."
-    },
-    {
-      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-      "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-29T15:00:00+00:00",
-      "summary": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead."
-    },
-    {
-      "title": "The next trillion-dollar currency may not be a stablecoin \u2014 it might not even have a name yet",
-      "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-29T15:00:00+00:00",
-      "summary": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet."
-    },
-    {
-      "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
-      "link": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-08-29T13:25:55+00:00",
-      "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations."
-    },
-    {
-      "title": "Why would someone lock up money by rolling it into a 401(k)?",
-      "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T13:00:00+00:00",
-      "summary": "When done right, rollovers can be a great tool."
-    },
-    {
-      "title": "Tokenized assets are busier than the data shows",
-      "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-08-29T13:00:00+00:00",
-      "summary": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana\u2019s Matthew Fisher."
-    },
-    {
-      "title": "5 affordable cities to retire in the U.S. right now",
-      "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T12:50:00+00:00",
-      "summary": "You don\u2019t have to leave the country to find an affordable place that matches your retirement vision."
+      "published": "2026-08-31T06:42:45+00:00",
+      "summary": "Odds of a rate hike in September remain below 60% despite Warsh's hawkish speech on Friday. Observers downplay fears of tightening."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-08-29T12:39:59+00:00",
+      "published": "2026-08-31T05:59:08+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Tim Cook wasn\u2019t a \u2018product guy\u2019 \u2014 so he re-engineered Apple instead",
-      "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T12:30:00+00:00",
-      "summary": "Dismissed as \u201cnot a product guy,\u201d the outgoing CEO proved that supply-chain mastery could take Apple to new heights."
-    },
-    {
-      "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
-      "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
+      "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-08-29T12:08:08+00:00",
-      "summary": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar."
+      "published": "2026-08-31T05:49:48+00:00",
+      "summary": "The last major U.S. strikes on Iran were carried out in late July."
     },
     {
-      "title": "Where are all the new jobs? Hiring slows again \u2014 and it probably won\u2019t speed up soon.",
-      "link": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T12:00:00+00:00",
-      "summary": "The U.S. labor market seemed to be on upswing after a surge in new employment early this year \u2014 but a summer slowdown in hiring and fewer help-wanted ads suggest it won\u2019t get any easier to find a job."
-    },
-    {
-      "title": "I\u2019m managing a pathological liar who never does her work. How do I deal with her?",
-      "link": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-29T12:00:00+00:00",
-      "summary": "\u201cI want to send the message that she\u2019d better keep my name out of her mouth.\u201d"
-    },
-    {
-      "title": "Trump-promoted brand touts GOLD before token collapse",
-      "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
+      "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+      "link": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+      "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-08-29T10:53:41+00:00",
-      "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%."
+      "published": "2026-08-31T05:23:57+00:00",
+      "summary": "Zakura says a new cryptography stack makes mobile proof generation more than 14 times faster, removing one of the biggest delays users face when sending private ZEC."
     },
     {
-      "title": "Bitcoin price holds at $78,000 as \u2018digital gold\u2019 narrative faces fresh test",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-slips-below-78-094914127.html?.tsrc=rss",
+      "title": "Red Mountain Mining (ASX:RMX) Starts Maiden Drilling At 'Premier Province'",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/red-mountain-mining-asx-rmx-051320237.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-08-29T09:49:14+00:00",
-      "summary": "Investing.com -- Bitcoin traded at $78,000 on Saturday after a sharp pullback from this week\u2019s three-month highs, testing renewed claims that the cryptocurrency is increasingly trading like gold rather than a high-beta technology asset."
+      "published": "2026-08-31T05:13:20+00:00",
+      "summary": "Red Mountain announced its maiden drilling program at the Armidale Antimony-Gold project."
     },
     {
-      "title": "Stablecoins not credible for payments at scale, BIS chief says",
-      "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-29T08:01:04+00:00",
-      "summary": "BIS chief Pablo Hern\u00e1ndez de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules."
-    },
-    {
-      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-08-29T06:47:12+00:00",
-      "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion."
-    },
-    {
-      "title": "Meta\u2019s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
-      "link": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+      "title": "France is becoming the \u2018poster child\u2019 of sovereign debt problems as government borrowing costs hit near 2008 highs",
+      "link": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-08-29T05:00:01+00:00",
-      "summary": "\"Meta is seeking to ensure its competitors will face the same rules,\" one business professor told CNBC after Meta called on rivals to protect children online."
+      "published": "2026-08-31T05:08:47+00:00",
+      "summary": "France's debt burden and political gridlock are pushing borrowing costs toward levels not seen since 2008."
+    },
+    {
+      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+      "link": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-31T04:57:24+00:00",
+      "summary": "Chinese President Xi Jinping is expected to make his first visit to India before traveling to the U.S. for a meeting with U.S. President Donald Trump."
+    },
+    {
+      "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+      "link": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-31T04:57:13+00:00",
+      "summary": "An attacker allegedly pushed Tectonic\u2019s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network."
+    },
+    {
+      "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+      "link": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-31T04:29:10+00:00",
+      "summary": "BTC remains August's best-performing asset after the latest escalation in geopolitical tensions."
+    },
+    {
+      "title": "BYD shares slide as fierce China competition dents first-half earnings",
+      "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-31T04:01:47+00:00",
+      "summary": "BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth."
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+      "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-31T03:47:28+00:00",
+      "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September."
+    },
+    {
+      "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+      "link": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-31T03:25:48+00:00",
+      "summary": "Crypto.com CEO Kris Marszalek said the company\u2019s app and exchange were unaffected by the Tectonic breach and continued operating normally."
+    },
+    {
+      "title": "China's factory activity shrinks for second straight month, contracting less than expected",
+      "link": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-31T03:15:01+00:00",
+      "summary": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum."
+    },
+    {
+      "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+      "link": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-31T03:10:53+00:00",
+      "summary": "Dow Jones futures fell slightly while oil prices bounced as the U.S. struck Iran publicly for the first time in a month."
+    },
+    {
+      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh\u2019s Jackson Hole comments",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-31T03:03:00+00:00",
+      "summary": "U.S. stock-index futures declined on Sunday, as investors ponder the likelihood of a fresh interest-rate hike and as new fighting between the U.S. and Iran threatens to reignite the conflict."
+    },
+    {
+      "title": "Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest",
+      "link": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-30T23:36:16+00:00",
+      "summary": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle."
+    },
+    {
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T22:31:00+00:00",
+      "summary": "\u201cThe property is very old and requires significant ongoing maintenance.\u201d"
+    },
+    {
+      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T22:15:00+00:00",
+      "summary": "\u201cI also own my home and an SUV outright, with no outstanding debt.\u201d"
+    },
+    {
+      "title": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T22:15:00+00:00",
+      "summary": "\u201cHis argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.\u201d"
+    },
+    {
+      "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
+      "link": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-30T22:05:32+00:00",
+      "summary": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported."
+    },
+    {
+      "title": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
+      "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-08-30T17:59:00+00:00",
+      "summary": "Michael Saylor\u2019s \u201cWe\u2019re Back\u201d post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet."
+    },
+    {
+      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "link": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-08-30T15:48:10+00:00",
+      "summary": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?"
+    },
+    {
+      "title": "Michael Saylor hints at first bitcoin purchase in two months",
+      "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-30T15:39:55+00:00",
+      "summary": "Bitcoin rebounds from Friday\u2019s low as Strategy\u2019s valuation expands and bitcoin dominance climbs above 60%."
+    },
+    {
+      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "link": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "Finance has spent centuries decoupling wealth from physical transport, but constantly erasing friction creates vectors for increasingly high-tech exploits."
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T14:30:00+00:00",
+      "summary": "\u201cThese shares are the only assets in her estate without designated beneficiaries.\u201d"
+    },
+    {
+      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T14:00:00+00:00",
+      "summary": "\u201cI specifically rejected Contractor A because of his reputation.\u201d"
+    },
+    {
+      "title": "Gold Is on Shining Again. Is It Too Late to Get In?",
+      "link": "https://finance.yahoo.com/m/dad3d59d-baaf-316d-bbea-7096453481a8/gold-is-on-shining-again.-is.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-08-30T13:55:00+00:00",
+      "summary": "Everyday investors shouldn\u2019t be timing gold\u2014or any market. Rather, it\u2019s best to pick an asset allocation you\u2019re comfortable with and hold it long-term. In the Permanent Portfolio, fund manager Michael Cuggino maintains a fixed target percentage of various assets regardless of wha"
+    },
+    {
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+      "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T13:30:00+00:00",
+      "summary": "\u201cI\u2019m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.\u201d"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
+      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-08-30T13:01:00+00:00",
+      "summary": "\u201cWe are reluctant to pay a financial adviser 2% of assets \u2014 roughly $160,000 per year.\u201d"
+    },
+    {
+      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+      "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-08-30T12:00:02+00:00",
+      "summary": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins."
     }
   ]
 }
