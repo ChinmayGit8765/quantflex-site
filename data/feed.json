@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-01T06:41:17+00:00",
+  "generated": "2026-09-02T06:43:59+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 16,
-    "crypto": 9,
-    "gold": 5
+    "stocks": 17,
+    "crypto": 10,
+    "gold": 3
   },
   "sources": [
     {
       "name": "Yahoo Finance",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 6
     },
     {
       "name": "CNBC Top News",
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 3
+      "items": 5
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "title": "Oil major BP completes search for chair after boardroom upheaval",
+      "link": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-01T06:23:21+00:00",
-      "summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities."
+      "published": "2026-09-02T06:39:47+00:00",
+      "summary": "BP on Wednesday formally appointed Ian Tyler as chair after a surprise dismissal of former chairman Albert Manifold sparked boardroom turmoil."
+    },
+    {
+      "title": "AI capital expenditure forecasted to exceed the cost of building railways in both the U.S. and the U.K. \u2014 with the internet added on top",
+      "link": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-02T06:36:00+00:00",
+      "summary": "The accounting giant says the buildout of artificial intelligence differs from the development of railways and the internet because of its scale and spending growth."
+    },
+    {
+      "title": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit",
+      "link": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-02T05:56:11+00:00",
+      "summary": "China's Xi gave Iran's Pezeshkian a brief, low-profile audience at the SCO summit, as Beijing seeks to avoid appearing close to Tehran ahead of a high-stakes summit with Trump."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-01T05:58:48+00:00",
+      "published": "2026-09-02T05:54:06+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-      "link": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-01T05:58:00+00:00",
-      "summary": "Chief Justice John Roberts dissented with three liberal justices, saying, \"That construction is likely unlawful.\""
-    },
-    {
-      "title": "These emerging markets are favored to get 'a wall of money' from carry trades",
-      "link": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-01T05:12:38+00:00",
-      "summary": "Emerging markets could attract more capital as Treasury bond buyback plans weaken the dollar and support carry trades, analysts say."
-    },
-    {
-      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
+      "link": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-01T04:48:47+00:00",
-      "summary": "Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and Solana funds each logged a 10th consecutive positive session."
+      "published": "2026-09-02T05:48:21+00:00",
+      "summary": "The Nasdaq-listed company previously raised $647 million through the facility and accumulated about 29.3 million HYPE tokens."
     },
     {
-      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+      "link": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-02T05:47:59+00:00",
+      "summary": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country."
+    },
+    {
+      "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
+      "link": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-01T04:30:28+00:00",
-      "summary": "Ether, solana, tron and dogecoin all shed ground over 24 hours while HYPE added about 4%, leaving bitcoin flat on the week after August's 24% run."
+      "published": "2026-09-02T05:28:51+00:00",
+      "summary": "Astra is the first OpenAI model to reach its \u201cCritical\u201d cybersecurity threshold, meaning it can find previously unknown vulnerabilities and develop ways to exploit them across hardened systems."
     },
     {
-      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-      "link": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-01T04:19:54+00:00",
-      "summary": "1789 Capital is putting in about $300 million, adding to a roughly $200 million stake, as the prediction market's valuation rises from $15 billion."
+      "published": "2026-09-02T05:01:25+00:00",
+      "summary": "Every large-cap token fell over the past 24 hours, and the high-beta majors gave up roughly triple what bitcoin did."
     },
     {
-      "title": "CME\u2019s share of XRP futures jumps as token rallies 40% in a week",
-      "link": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+      "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-01T03:49:39+00:00",
-      "summary": "Outstanding XRP futures positions outside CME fell by more than 500 million tokens in two weeks, while exposure on the regulated U.S. exchange climbed about 36% as XRP rallied toward $1.40."
+      "published": "2026-09-02T04:40:36+00:00",
+      "summary": "BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold."
     },
     {
-      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-      "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
+      "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-01T03:49:00+00:00",
-      "summary": "Thailand\u2019s SEC seeks comments on rules requiring retail-accessible overseas crypto derivatives to trade on qualifying, centrally cleared exchanges."
+      "published": "2026-09-02T04:15:34+00:00",
+      "summary": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions."
     },
     {
-      "title": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
-      "link": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-01T03:44:19+00:00",
-      "summary": "Shein made its Hong Kong market debut on Tuesday after years of attempts to go public."
-    },
-    {
-      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-      "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-01T03:22:56+00:00",
-      "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues."
-    },
-    {
-      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
-      "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-01T02:05:20+00:00",
-      "summary": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island."
-    },
-    {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "link": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-01T01:56:53+00:00",
-      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says."
-    },
-    {
-      "title": "Bank of America Spots Major Shift in Gold",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bank-america-spots-major-shift-014820983.html?.tsrc=rss",
+      "title": "What to Watch: Jewelry Is Booming Despite Hard Times for Luxury \u2014 and Dizzying Gold Prices",
+      "link": "https://wwd.com/accessories-news/jewelry/jewelry-booming-hard-times-luxury-dizzying-gold-prices-1239176947/?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-01T01:48:20+00:00",
-      "summary": "A broader shift in positioning may be taking hold"
+      "published": "2026-09-02T04:01:00+00:00",
+      "summary": "Luxury consumers of every stripe are pouring their disposable income into fine jewelry as an everyday style statement and an investment in difficult times."
     },
     {
-      "title": "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
-      "link": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
+      "title": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
+      "link": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-01T00:49:51+00:00",
-      "summary": "Oil trading is becoming more accessible to individual investors as smaller futures contracts, ETFs and online brokerages lower longtime barriers to the market."
+      "published": "2026-09-02T02:24:30+00:00",
+      "summary": "Ito En shares surged, bucking a broader sell-off in Japanese stocks following its fiscal first-quarter results."
     },
     {
-      "title": "Amazon\u2019s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-      "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "title": "We're lifting our price target on Palo Alto Networks as AI-driven cyber demand intensifies",
+      "link": "https://www.cnbc.com/2026/09/01/were-lifting-our-price-target-on-palo-alto-networks-as-ai-driven-cyber-demand-intensifies.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-09-02T00:21:40+00:00",
+      "summary": "The stock's muted reaction in extended trading Tuesday is not a reflection of the company's results."
+    },
+    {
+      "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook",
+      "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-08-31T22:24:00+00:00",
-      "summary": "Regulators claim Amazon artificially bumped up floor prices during peak shopping periods, adding surcharges to merchants\u2019 ad spending."
+      "published": "2026-09-02T00:19:00+00:00",
+      "summary": "The company\u2019s backlog has reached $95 billion as demand accelerates for its AI servers"
+    },
+    {
+      "title": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-02T00:18:00+00:00",
+      "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks \u2018durable tailwinds,\u2019 according to CEO Nikesh Arora, but the stock retreated after an earnings beat"
     },
     {
       "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
       "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-08-31T22:00:00+00:00",
+      "published": "2026-09-02T00:00:00+00:00",
       "summary": "\u201cI paid a significant amount into Social Security.\u201d"
     },
     {
-      "title": "The S&P 500 usually falls in September. Why this year should be different.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-31T21:36:00+00:00",
-      "summary": "As U.S. stocks head into September, a key trading level suggests the S&P 500 could dodge a big loss in what is historically a turbulent month."
-    },
-    {
-      "title": "\u2018Neither of us attended college\u2019: At 62, how can we afford to put our granddaughter through college?",
-      "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-31T21:34:00+00:00",
-      "summary": "\u201cHer life was very challenging before we got custody.\u201d"
-    },
-    {
-      "title": "Vanguard\u2019s S&P 500 index fund changed how we invest \u2014 but there may be a smarter way to get into the market",
-      "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-31T21:33:00+00:00",
-      "summary": "When everyone indexes, what is the market?"
-    },
-    {
-      "title": "ETF Investors Chase Higher Yields as Bonds Sell Off",
-      "link": "http://www.etf.com/sections/weekly-etf-flows/etf-investors-chase-higher-yields-bonds-sell?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
-      "source": "Yahoo GLD",
-      "category": "gold",
-      "published": "2026-08-31T21:31:07+00:00",
-      "summary": "Investors added $27.2 billion to ETFs last week, led by international equity and US bond funds."
-    },
-    {
-      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-      "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-31T21:23:00+00:00",
-      "summary": "Access to healthcare, recreation, and low taxes lure retirees, new research says"
-    },
-    {
-      "title": "23 best-performing stocks of August, as the software industry continues its recovery",
-      "link": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-31T21:16:00+00:00",
-      "summary": "The energy and technology sectors did well in August, while Moderna\u2019s stock was the best performer by a wide margin."
-    },
-    {
-      "title": "Tesla\u2019s stock among S&P 500\u2019s top gainers as investors prepare for a Cybercab launch",
-      "link": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-08-31T21:01:00+00:00",
-      "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals."
-    },
-    {
-      "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "link": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-08-31T20:48:40+00:00",
-      "summary": "Blockchain data reviewed by CoinDesk shows wallets tied to North Korea\u2019s Lazarus Group sold more than $30 million in bitcoin on the platform in the last three weeks alone."
+      "published": "2026-09-01T23:55:46+00:00",
+      "summary": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications."
     },
     {
-      "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
-      "link": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-01T23:52:21+00:00",
+      "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions."
+    },
+    {
+      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn\u2019t ready for AI",
+      "link": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-01T23:20:44+00:00",
+      "summary": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn\u2019t equipped for attacks."
+    },
+    {
+      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-01T23:15:00+00:00",
+      "summary": "\u201cI am frustrated and financially exhausted from continuing to invest my own money into these properties.\u201d"
+    },
+    {
+      "title": "These ETFs Generate the Most Revenue",
+      "link": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo GLD",
+      "category": "gold",
+      "published": "2026-09-01T22:24:15+00:00",
+      "summary": "The largest ETFs by assets aren't necessarily the most profitable for issuers."
+    },
+    {
+      "title": "Dow drops below a key chart level, warning of more trouble ahead",
+      "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-01T21:56:00+00:00",
+      "summary": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point."
+    },
+    {
+      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-09-01T21:41:15+00:00",
+      "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools"
+    },
+    {
+      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "link": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-01T21:40:18+00:00",
+      "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double."
+    },
+    {
+      "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+      "link": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-08-31T20:25:25+00:00",
-      "summary": "Ireland\u2019s planned investment accounts will offer tax benefits for stocks, bonds and ETFs, while excluding crypto and derivatives as higher-risk products."
+      "published": "2026-09-01T21:25:27+00:00",
+      "summary": "The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake\u2019s latest attempt to influence the 2026 elections with funds from the crypto industry."
     },
     {
-      "title": "RETRANSMISSION: Gold Runner Exploration Samples Up To 25,306 Grams per Ton Silver With 11.22 Grams per Ton Gold For a Gold Equivalent of 12.7 Ounces per Ton in New 350 Meter Gold Stack Trend on the 100% Controlled Golden Girl Property, Golden Triangle, B.C.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/retransmission-gold-runner-exploration-samples-200500268.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-31T20:05:00+00:00",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - August 31, 2026) - Gold Runner Exploration Inc. (CSE: GRUN) (FSE: CE70) (\"Gold Runner\" or the \"Company\") is pleased to announce initial results for samples assayed up to 25,306 g/t Ag (grams per ton Silver) with 11.2 g/t Au (grams pe"
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+      "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-01T21:02:00+00:00",
+      "summary": "The adoption of artificial intelligence at work has been widespread, but more \u201cshallow\u201d than expected \u2014 for now."
     },
     {
-      "title": "Gold prices surge in August. Will rate hike forecasts rain on gold's parade?",
-      "link": "https://finance.yahoo.com/video/gold-prices-surge-august-rate-200000150.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-31T20:00:00+00:00",
-      "summary": "Gold prices (GC=F) have already surged by over 10% in the month of August. On August's final trading day, Yahoo Finance Senior Business Reporter Ines Ferr\u00e9 examines how this may have been gold's best month since February 2026 while investors anticipate the Federal Reserve to hike"
-    },
-    {
-      "title": "Gold ETF Inflows Reverse Course as Warsh\u2019s Hawkish Speech Crushes GLDM\u2019s Summer Rally",
-      "link": "https://247wallst.com/investing/etf/2026/08/31/gold-etf-inflows-reverse-course-as-warshs-hawkish-speech-crushes-gldms-summer-rally/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-08-31T19:20:53+00:00",
-      "summary": "Kevin Warsh just handed gold's summer rally its worst week in months, but the real question is whether one hawkish speech can undo a structural shift that sent European and Asian investors pouring billions into bullion while American buyers sat on the sidelines."
-    },
-    {
-      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
-      "link": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+      "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-08-31T17:28:19+00:00",
-      "summary": "The brokerage is adding digital assets alongside stocks, ETFs and options as Canadian crypto ownership rises and regulators move toward clearer industry rules."
+      "published": "2026-09-01T20:42:29+00:00",
+      "summary": "The launch gives eligible non-US users access to physically settled options on more than 1,000 US stocks and ETFs through a single Binance account."
+    },
+    {
+      "title": "This could be the 10-year Treasury\u2019s tipping point into the danger zone",
+      "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-01T20:36:00+00:00",
+      "summary": "An unrelenting rout has global bond yields touching their highest levels since 2008, driving up borrowing costs for households, businesses and world governments."
+    },
+    {
+      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-01T20:14:12+00:00",
+      "summary": "UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates\u2019 Court as part of an investigation into Sorare."
+    },
+    {
+      "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In",
+      "link": "https://finance.yahoo.com/energy/articles/u-lithium-miners-finally-shot-200000010.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-01T20:00:00+00:00",
+      "summary": "Lithium prices are climbing and U.S. producers are moving to cash in, but analysts warn the rally may not survive past 2027."
     }
   ]
 }
