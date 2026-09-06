@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-05T06:34:32+00:00",
+  "generated": "2026-09-06T06:35:11+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 9,
-    "gold": 6
+    "stocks": 17,
+    "crypto": 8,
+    "gold": 5
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 7
+      "items": 3
     },
     {
       "name": "CoinDesk",
@@ -58,6 +58,230 @@
   ],
   "items": [
     {
+      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T23:45:00+00:00",
+      "summary": "\u201cIt always baffled me how some people managed to retire with significant wealth.\u201d"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
+      "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T23:07:00+00:00",
+      "summary": "\u201cI\u2019d rather leave my estate to people who spent time with me because they genuinely valued my company.\u201d"
+    },
+    {
+      "title": "LeBron James teases partnership with Polymarket",
+      "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T19:40:11+00:00",
+      "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post."
+    },
+    {
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T19:12:53+00:00",
+      "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks."
+    },
+    {
+      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+      "link": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T18:59:00+00:00",
+      "summary": "You can unlock greater retirement wealth by reading this document that nearly everyone ignores."
+    },
+    {
+      "title": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree.",
+      "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T18:42:00+00:00",
+      "summary": "In recent months, Americans have gotten more vocal about their concerns over data centers and the effects they could have on home values."
+    },
+    {
+      "title": "Why the jobs report will actually be good for bonds",
+      "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T18:26:00+00:00",
+      "summary": "Based on the chatter on Wall Street, you\u2019d think labor has never had it so good. Sadly for working Americans, this isn\u2019t actually the case."
+    },
+    {
+      "title": "7% mortgage rates are already here, some buyers and mortgage experts say",
+      "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T18:09:00+00:00",
+      "summary": "Mortgage rates ticked up to a new high for the year, delivering more bad news for home buyers."
+    },
+    {
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-05T18:05:11+00:00",
+      "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year."
+    },
+    {
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T17:26:00+00:00",
+      "summary": "Access to healthcare, recreation, and low taxes lure retirees, new research says"
+    },
+    {
+      "title": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-05T17:01:00+00:00",
+      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday."
+    },
+    {
+      "title": "We got more defensive last week as Wall Street raised the bar for AI stocks",
+      "link": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-09-05T16:45:14+00:00",
+      "summary": "We initiated positions in defensive stocks to balance our AI exposure amid higher oil prices and Treasury yields."
+    },
+    {
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-05T16:43:13+00:00",
+      "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions."
+    },
+    {
+      "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+      "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T15:43:08+00:00",
+      "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported."
+    },
+    {
+      "title": "Trump\u2019s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+      "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T15:11:03+00:00",
+      "summary": "The deal comes eight months after Washington ousted former President Nicol\u00e1s Maduro in a military raid."
+    },
+    {
+      "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
+      "link": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T14:46:14+00:00",
+      "summary": "Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches, as the nation's largest retailer targets Uber Eats and DoorDash."
+    },
+    {
+      "title": "Billionaire Activist Investor Dan Loeb Bought Gold, Then Dumped It 3 Months Later \u2014 Timing Hasn't Paid Off Yet",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/billionaire-activist-investor-dan-loeb-140011100.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-05T14:00:11+00:00",
+      "summary": "Dan Loeb\u2018s Third Point LLC fully exited a gold position in the second quarter just months after building the stake and ahead of a price rebound in the weeks that followed. $40.87 Million Stake Makes a Full Round-Trip According to..."
+    },
+    {
+      "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+      "link": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T13:33:08+00:00",
+      "summary": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars."
+    },
+    {
+      "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+      "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T12:00:01+00:00",
+      "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight."
+    },
+    {
+      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+      "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-05T12:00:01+00:00",
+      "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses."
+    },
+    {
+      "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-05T12:00:00+00:00",
+      "summary": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users."
+    },
+    {
+      "title": "Buffett\u2019s successor says Americans are \u2018struggling\u2019 after $6.8B housing bet. Turn the \u2018bumpy road\u2019 into real wealth now",
+      "link": "https://finance.yahoo.com/real-estate/articles/buffett-successor-says-americans-struggling-114500118.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-05T11:45:00+00:00",
+      "summary": "Are you ready to \u201cstretch a lot further with that dollar?\u201d"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-05T11:16:19+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-05T10:44:29+00:00",
+      "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy."
+    },
+    {
+      "title": "Ripple CEO Slams $11 Billion Gold Move: Can Crypto Do Better?",
+      "link": "https://beincrypto.com/ripple-ceo-gold-move-crypto-rails/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-05T09:32:24+00:00",
+      "summary": "Ripple CEO Brad Garlinghouse says an $11 billion gold move shows banks still shift value like it is 1940, missing the modern crypto era."
+    },
+    {
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-05T08:03:06+00:00",
+      "summary": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000."
+    },
+    {
+      "title": "QuoMarkets Introduces Weekend XAUUSD Trading as Demand for Continuous Market Access Grows",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/quomarkets-introduces-weekend-xauusd-trading-072700183.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-05T07:27:00+00:00",
+      "summary": "New GOLD247 instrument enables eligible clients to trade gold on weekends, expanding access beyond conventional market hours.Dubai, UAE, Sept. 05, 2026 (GLOBE NEWSWIRE) -- Gold has rarely been more relevant. From inflation and interest rate expectations to geopolitical uncertaint"
+    },
+    {
+      "title": "Gemcorp Joins AIM Congress 2026 as Gold Partner Advancing Investment Across Emerging Markets",
+      "link": "https://finance.yahoo.com/economy/policy/articles/gemcorp-joins-aim-congress-2026-072300897.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-05T07:23:00+00:00",
+      "summary": "DUBAI, United Arab Emirates, Sept. 05, 2026 (GLOBE NEWSWIRE) -- Gemcorp, a financial industrial platform focused on emerging markets, participates as a Gold Partner of AIM Congress 2026, presenting an integrated investment model that combines capital markets expertise with the op"
+    },
+    {
       "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
       "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
       "source": "CoinDesk",
@@ -66,236 +290,12 @@
       "summary": "Daily order-book traders fell about 40% from a year ago while volume rose 79%, as the value held on XRPL climbed above $4 billion."
     },
     {
-      "title": "From Trump\u2019s takeover threats to a \u2018northern neighborhood,\u2019 why the EU chief is going to Greenland",
-      "link": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-05T05:00:01+00:00",
-      "summary": "The visit comes as Trump renews his push for greater U.S. control of the self-governing Danish territory."
-    },
-    {
       "title": "Southeast Asia\u2019s crypto funding rebounds to $680 million as investors focus on mature firms",
       "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
       "source": "CoinDesk",
       "category": "crypto",
       "published": "2026-09-05T05:00:00+00:00",
       "summary": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated in Singapore and a handful of companies."
-    },
-    {
-      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
-      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T21:46:00+00:00",
-      "summary": "Molson Coors Beverage, Builders FirstSource and Trade Desk will be getting the boot from the benchmark index."
-    },
-    {
-      "title": "Trump Threatens to Halt Trade Following News That US Trade Deficit Grew in July",
-      "link": "https://wwd.com/sourcing-journal/trade/trump-us-trade-deficit-july-federal-reserve-tariffs-1239199217/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-04T21:05:54+00:00",
-      "summary": "America\u2019s trade deficit with the rest of the world grew in July to the highest level seen in more than a year, prompting an outraged response from the Commander in Chief."
-    },
-    {
-      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-      "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T20:30:47+00:00",
-      "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month."
-    },
-    {
-      "title": "Bitcoin is trading more like an \u2018amplified version of gold\u2019 again, but the four-year cycle theory threatens further declines",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-trading-more-amplified-version-202925804.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-04T20:29:25+00:00",
-      "summary": "Some analysts warn the four-year cycle set to complete later this year could bring another slide."
-    },
-    {
-      "title": "Mexican Billionaire Says Bitcoin Will Hit $1.86 Million. What\u2019s His Logic?",
-      "link": "https://beincrypto.com/salinas-pliego-bitcoin-million-gold-benchmark/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-04T20:27:50+00:00",
-      "summary": "Billionaire Ricardo Salinas Pliego says Bitcoin would need to reach $1.86 million to match gold's total market value."
-    },
-    {
-      "title": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
-      "link": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-04T20:22:09+00:00",
-      "summary": "President Trump has said damage to the Reflecting Pool was due to vandalism, not to a flawed installation of a new liner as prosecutors say."
-    },
-    {
-      "title": "Tesla\u2019s stock falls as Cybercab launch lands with a thud",
-      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T20:18:00+00:00",
-      "summary": "The company\u2019s Cybercab rollout won\u2019t be as broad as some investors had hoped."
-    },
-    {
-      "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
-      "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-04T20:17:13+00:00",
-      "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks."
-    },
-    {
-      "title": "All That Glitters: How We Traded Gold Stocks Without Chasing",
-      "link": "https://finance.yahoo.com/m/13332d9e-f4b7-34c4-bcf4-2b21ac03e310/all-that-glitters%3A-how-we.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-04T20:12:30+00:00",
-      "summary": "It's no secret that the 1849 gold rush bankrupted far more people than it made rich. It's a lesson that is aptly applied to gold stocks today or any stock for that matter. Chasing stocks puts you in a tough spot between weathering a normal pullback and managing risk with tighter "
-    },
-    {
-      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
-      "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T20:12:00+00:00",
-      "summary": "Micron is reportedly increasing production capacity of a more profitable memory offering that\u2019s in high demand due to AI."
-    },
-    {
-      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-      "link": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-04T20:06:13+00:00",
-      "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors."
-    },
-    {
-      "title": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree.",
-      "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T20:03:00+00:00",
-      "summary": "In recent months, Americans have gotten more vocal about their concerns over data centers and the effects they could have on home values."
-    },
-    {
-      "title": "Here\u2019s what\u2019s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
-      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T20:00:00+00:00",
-      "summary": "Prices are rising again, but a slew of fan-favorite shows \u2014 including Apple\u2019s \u2018Slow Horses,\u2019 Netflix\u2019s \u2018The Gentlemen\u2019 and Paramount\u2019s \u2018MobLand\u2019 \u2014 are returning for new seasons"
-    },
-    {
-      "title": "Why Oracle\u2019s stock looks like a compelling buy ahead of earnings",
-      "link": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T19:59:00+00:00",
-      "summary": "While there are long-term debates around Oracle\u2019s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week."
-    },
-    {
-      "title": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
-      "link": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-04T19:57:35+00:00",
-      "summary": "Trump's pledge would dramatically increase MAGA Inc.\u2019s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines."
-    },
-    {
-      "title": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-      "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T19:52:00+00:00",
-      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday."
-    },
-    {
-      "title": "I\u2019m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-      "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-04T19:52:00+00:00",
-      "summary": "There\u2019s a long checklist when deciding where to live, especially in your retirement years."
-    },
-    {
-      "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-      "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-04T19:48:08+00:00",
-      "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits."
-    },
-    {
-      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-      "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T19:31:38+00:00",
-      "summary": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records."
-    },
-    {
-      "title": "FinCEN ties $13B in crypto scams to non-US operations",
-      "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T19:22:26+00:00",
-      "summary": "The agency reported that \u201ctransnational criminal organizations\u201d based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents."
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T18:31:34+00:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Women accounted for almost all of job gains in August. Here's why",
-      "link": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-04T18:27:39+00:00",
-      "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market."
-    },
-    {
-      "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-      "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T17:22:58+00:00",
-      "summary": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus."
-    },
-    {
-      "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
-      "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T17:09:25+00:00",
-      "summary": "QuFi\u2019s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks."
-    },
-    {
-      "title": "US law enforcement group moves to \u2018neutral\u2019 position on CLARITY Act",
-      "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-04T17:05:34+00:00",
-      "summary": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs\u2019 Association says it will now \u201cstep back and allow the legislative process to proceed.\u201c"
-    },
-    {
-      "title": "Stock Market Midday, Sept. 4: Stocks Edge Lower on Strong Jobs Report as Lululemon Plummets",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-midday-sept-4-stocks-edge-lower-on-strong-jobs-report-as-lululemon-plummets/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-04T16:35:37+00:00",
-      "summary": "On Sept. 4, 2026, a robust August employment beat reignites hawkish Fed expectations, sending investors toward defensive sectors."
-    },
-    {
-      "title": "Lundin Gold Heads These 3 Top Canadian Quality Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lundin-gold-heads-3-top-161644359.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-04T16:16:44+00:00",
-      "summary": "Canada faces softer export demand and choppy trade balances, so investors are paying closer attention to companies with strong finances and high returns on invested capital. Stocks with sturdy balance sheets and a record of high return on equity can sometimes better navigate trad"
     }
   ]
 }
