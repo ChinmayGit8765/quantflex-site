@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-07T06:49:08+00:00",
+  "generated": "2026-09-08T06:39:04+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 14,
-    "crypto": 11,
-    "gold": 5
+    "stocks": 15,
+    "crypto": 14,
+    "gold": 1
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 3
+      "items": 1
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 1
     }
   ],
   "items": [
+    {
+      "title": "Brent crude nears $99 after strikes on Saudi energy sites amid renewed Mideast hostilities",
+      "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-08T06:37:02+00:00",
+      "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend."
+    },
+    {
+      "title": "Crypto traders turn on Hunter Biden\u2019s LAPTOP memecoin before it even launches",
+      "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-08T06:23:53+00:00",
+      "summary": "Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project."
+    },
+    {
+      "title": "Bitcoin\u2019s golden cross is here",
+      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-08T05:56:23+00:00",
+      "summary": "A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead."
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-07T06:29:41+00:00",
+      "published": "2026-09-08T05:52:38+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "China pulls in Big Tobacco to help with smaller-than-expected finance-industry capital injections",
-      "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-07T06:27:53+00:00",
-      "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say."
+      "published": "2026-09-08T05:29:00+00:00",
+      "summary": "Canada had condemned Iran\u2019s \"destabilizing actions\" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran."
     },
     {
-      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-      "link": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-07T05:56:40+00:00",
-      "summary": ""
-    },
-    {
-      "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
-      "link": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-07T05:52:44+00:00",
-      "summary": "A brand new ZCAT token charges a 3% tax whenever the token moves and uses the proceeds to distribute ZEC to holders, creating an unusual link to one of crypto's hottest assets."
-    },
-    {
-      "title": "Bitcoin sidechain Liquid pauses after purported \u2018white hats\u2019 withdraw $320M in BTC",
-      "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
+      "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-07T05:40:05+00:00",
-      "summary": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network."
+      "published": "2026-09-08T05:10:33+00:00",
+      "summary": "AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams."
     },
     {
-      "title": "Israel-Hezbollah clashes deepen threat to fragile truce as Lebanon's president calls for U.S. support",
-      "link": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+      "title": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+      "link": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-07T05:15:44+00:00",
-      "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people."
+      "published": "2026-09-08T05:00:01+00:00",
+      "summary": "Novartis\u2019 failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes."
     },
     {
-      "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
-      "link": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-07T05:00:49+00:00",
-      "summary": "Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum, weeks after an exploit led to plans to discard 109,000 transactions."
+      "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "link": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-08T05:00:01+00:00",
+      "summary": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic."
     },
     {
-      "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
-      "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+      "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-08T04:45:07+00:00",
+      "summary": "China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade."
+    },
+    {
+      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+      "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-07T04:44:16+00:00",
-      "summary": "Bitcoin trades lower by nearly 1% as escalating U.S.-Iran hostilities push oil higher."
+      "published": "2026-09-08T04:41:17+00:00",
+      "summary": "Supposed whitehat hackers behind Sunday\u2019s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding."
     },
     {
-      "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-07T03:43:12+00:00",
-      "summary": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit."
+      "published": "2026-09-08T04:40:57+00:00",
+      "summary": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week."
     },
     {
-      "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
-      "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
+      "title": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
+      "link": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-07T02:01:52+00:00",
-      "summary": "Treasury yields face a test at 4.8%, with a sustained move above that potentially creating \"meaningful problems\" for other asset classes, said Miller Tabak."
+      "published": "2026-09-08T04:02:43+00:00",
+      "summary": "Markets have shrugged off a barrage of shocks in recent years but that resilience may not last forever, according to HSBC."
     },
     {
-      "title": "Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport",
-      "link": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
+      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+      "link": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-07T01:31:03+00:00",
-      "summary": "Mount Anak Krakatau\u2019s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday."
+      "published": "2026-09-08T03:54:54+00:00",
+      "summary": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale"
     },
     {
-      "title": "\u2018White hats\u2019 take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler\u2019s Digest",
-      "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Liquid \u2018white hats\u2019 return $270M in Bitcoin as network prepares restart",
+      "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-07T00:05:02+00:00",
-      "summary": "Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major security breach. The Bitcoin ETFs see the best three weeks of inflows in 2026."
+      "published": "2026-09-08T03:46:17+00:00",
+      "summary": "The actors returned 85% of the Bitcoin withdrawn from Liquid\u2019s federation wallet following the security incident."
     },
     {
-      "title": "Gold Holds Decline as Traders Weigh Prospects for Fed Rate Hike",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-decline-traders-weigh-232846552.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-06T23:28:46+00:00",
-      "summary": "Gold held a decline, after stronger-than-expected US payrolls data raised the prospects for an interest-rate hike as early as next week."
-    },
-    {
-      "title": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
-      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-06T21:30:00+00:00",
-      "summary": "\u201cI\u2019m desperately trying to plan ahead while I\u2019m still able.\u201d"
+      "published": "2026-09-08T03:09:00+00:00",
+      "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs."
     },
     {
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+      "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+      "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-06T21:00:00+00:00",
-      "summary": "\u201cI am frustrated and financially exhausted from continuing to invest my own money into these properties.\u201d"
+      "published": "2026-09-08T02:05:30+00:00",
+      "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods."
     },
     {
-      "title": "South Pit Drilling Continues to Intersect High-Grade Mineralization, Cotabambas Project, Peru",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/south-pit-drilling-continues-intersect-210000900.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-06T21:00:00+00:00",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 6, 2026) - Panoro Minerals Ltd. (TSXV: PML) (BVL: PML) (FSE: PZM) (OTCQB: POROF) (\"Panoro\" or the \"Company\") is pleased to announce assay results from drillholes CB-229 and CB-230 at the Cotabambas Project, Peru. The explor"
-    },
-    {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-06T20:00:00+00:00",
-      "summary": "\u201cWe currently live in a relatively low-cost, lower-tax Northwest state.\u201d"
-    },
-    {
-      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
-      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-06T20:00:00+00:00",
-      "summary": "\u201cIt always baffled me how some people managed to retire with significant wealth.\u201d"
+      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "link": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-07T23:01:00+00:00",
+      "summary": "Simon Gerovich said Metaplanet had not adequately explained the structure, and denied involvement in MMXX Ventures\u2019 trading decisions."
     },
     {
       "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
       "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-06T19:45:00+00:00",
+      "published": "2026-09-07T22:00:00+00:00",
       "summary": "\u201cI\u2019d rather leave my estate to people who spent time with me because they genuinely valued my company.\u201d"
     },
     {
-      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-06T18:30:00+00:00",
-      "summary": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court."
-    },
-    {
-      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
-      "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-06T16:00:00+00:00",
-      "summary": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation."
-    },
-    {
-      "title": "A Couple Diversified Into Gold. Their Adult Children Thought They'd Been Scammed.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/couple-diversified-gold-adult-children-150010034.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-06T15:00:10+00:00",
-      "summary": "A couple, both 60, moved $120,000 from a traditional IRA invested in stocks and mutual funds into a self-directed IRA holding physical gold and silver after deciding they wanted broader diversification in retirement. Their two adult children found out and..."
-    },
-    {
-      "title": "Better and Coinbase\u2019s bitcoin-backed mortgages can reuse borrowers\u2019 collateral",
-      "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-06T14:00:00+00:00",
-      "summary": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced."
-    },
-    {
-      "title": "BofA\u2019s Hartnett maintains commodities and gold position as policy measures affect yields",
-      "link": "https://investorshub.advfn.com/market-news/article/35729/bofas-hartnett-maintains-commodities-and-gold-position-as-policy-measures-affect-yields?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-06T13:20:00+00:00",
-      "summary": "Bank of America strategist Michael Hartnett said investors should maintain long positions in commodities and gold as policy intervention seeks to limit increases in bond yields and support financial markets. \u201cPolicy panic [is] working,\u201d Hartnett and his team wrote, citing the app"
-    },
-    {
-      "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-06T13:15:00+00:00",
-      "summary": "\u201cI paid a significant amount into Social Security.\u201d"
+      "published": "2026-09-07T22:00:00+00:00",
+      "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d"
     },
     {
-      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-      "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ripple CEO blasts $11 billion gold transfer",
+      "link": "https://www.thestreet.com/crypto/markets/ripple-ceo-blasts-11-billion-gold-transfer?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-07T21:17:44+00:00",
+      "summary": "Ripple CEO Brad Garlinghouse slams the global finance system for slow movement of assets like gold."
+    },
+    {
+      "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
+      "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-06T13:03:00+00:00",
-      "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto."
+      "published": "2026-09-07T20:40:17+00:00",
+      "summary": "Companies offering binary options for retail investors have been barred from selling, marketing and distributing products in the UK since 2019 following a directive from the FCA."
     },
     {
-      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-      "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "title": "Ethereum Foundation names 2 \u2018must ship\u2019 EIPs for Hegot\u00e1 upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-07T20:21:31+00:00",
+      "summary": "Ethereum\u2019s Hegot\u00e1 upgrade will center on FOCIL and Frame Transactions as developers weigh dozens of other proposed changes for inclusion."
+    },
+    {
+      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-06T13:00:00+00:00",
-      "summary": "What to know about safe havens and the U.S., as the Netherlands\u2019 central bank follows France in pulling gold out of New York."
+      "published": "2026-09-07T19:30:00+00:00",
+      "summary": "\u201cIt always baffled me how some people managed to retire with significant wealth.\u201d"
+    },
+    {
+      "title": "Joe Biden\u2019s son to launch memecoin, will send to TRUMP holders: WSJ",
+      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-07T18:53:47+00:00",
+      "summary": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump\u2019s memecoin."
+    },
+    {
+      "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+      "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-07T17:58:00+00:00",
+      "summary": "Polish prosecutors charged Romana \u017b. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds."
+    },
+    {
+      "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+      "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-07T17:29:27+00:00",
+      "summary": "Bitcoin\u2019s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus."
     },
     {
       "title": "We\u2019re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
       "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-06T12:55:00+00:00",
+      "published": "2026-09-07T16:30:00+00:00",
       "summary": "\u201cRoth assets would provide our children with tax-free distributions.\u201d"
     },
     {
-      "title": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
-      "link": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-      "source": "CNBC Top News",
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-06T12:00:01+00:00",
-      "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development."
+      "published": "2026-09-07T16:00:00+00:00",
+      "summary": "\u201cWe currently live in a relatively low-cost, lower-tax Northwest state.\u201d"
     },
     {
-      "title": "Bitcoin-Gold Correlation Hits Nearly Six-Year High As BTC Breaks From Tech Stocks",
-      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-gold-correlation-hits-nearly-six-year-high-as-btc-breaks-from-tech-stocks/cZtbLkwRJDH?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-06T10:51:24+00:00",
-      "summary": "Bitwise said that Bitcoin is increasingly trading like gold rather than a tech asset, strengthening its long-running \u201cdigital gold\u201d case."
+      "title": "Chip stock investors beware \u2014 these charts could warn of further weakness ahead",
+      "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-07T16:00:00+00:00",
+      "summary": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks."
+    },
+    {
+      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+      "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-07T15:44:30+00:00",
+      "summary": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes \u2014 including a Democratic win in 2028 \u2014 comes good."
     }
   ]
 }
