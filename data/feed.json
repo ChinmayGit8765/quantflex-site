@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-09T06:39:47+00:00",
+  "generated": "2026-09-10T06:39:19+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 10,
+    "stocks": 16,
+    "crypto": 9,
     "gold": 5
   },
   "sources": [
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 1
+      "items": 2
     }
   ],
   "items": [
     {
-      "title": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
-      "link": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-09T06:20:38+00:00",
-      "summary": "The people building AI earnestly believe that it could kill us all by the end of the decade, Coxon said on X, explaining his resignation."
-    },
-    {
-      "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-      "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+      "link": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-09T05:55:00+00:00",
-      "summary": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends."
+      "published": "2026-09-10T06:23:14+00:00",
+      "summary": "China's crude stockpiling and subsequent pullback on purchases since the war erupted in late February has helped the world avoid a deeper energy crisis."
+    },
+    {
+      "title": "Hunter Biden\u2019s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-10T06:13:45+00:00",
+      "summary": "The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin\u2019s debut."
+    },
+    {
+      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+      "link": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-10T06:02:51+00:00",
+      "summary": "The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-09T05:51:21+00:00",
+      "published": "2026-09-10T05:59:21+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "G10\u2019s \u2018surprise\u2019 currency star could stumble as peers hike interest rates",
-      "link": "https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
+      "title": "World\u2019s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
+      "link": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-09T05:32:16+00:00",
-      "summary": "The British pound has benefited from a resilient economy and rate hike expectations, but the BOE looks increasingly dovish while a crucial budget lies ahead."
+      "published": "2026-09-10T05:47:52+00:00",
+      "summary": "TSMC reported monthly sales revenue for August on Thursday."
     },
     {
-      "title": "Gemini receives Singapore payment license for crypto services",
-      "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
+      "link": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-09T05:27:12+00:00",
-      "summary": "Gemini\u2019s local entity is authorized to provide digital payment token and cross-border money transfer services without standard transaction-volume limits."
+      "published": "2026-09-10T05:34:21+00:00",
+      "summary": "BitBox said multiple Bitcoin companies appeared to have been targeted through a shared newsletter provider, while Trezor confirmed a breach at its email service."
     },
     {
-      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a \u2018grift\u2019",
-      "link": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+      "title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
+      "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-09T05:22:57+00:00",
-      "summary": "Biden says the token is about \u201cresilience, redemption and recovery\u201d and will give coins to nearly one million wallets that lost money on TRUMP."
+      "published": "2026-09-10T05:30:15+00:00",
+      "summary": "Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury yields to their highest since late 2023."
     },
     {
-      "title": "Herbal Dispatch Provides Update on Gold Royalty Interest in Artemis Gold's Blackwater Mine",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/herbal-dispatch-provides-gold-royalty-050100912.html?.tsrc=rss",
+      "title": "Tocvan Confirms Gold Mineralization Along Entire 1,300-Metre El Mezquite Trend at Gran Pilar",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tocvan-confirms-gold-mineralization-along-053000579.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-09T05:01:00+00:00",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Herbal Dispatch Inc. (CSE: HERB) (OTCQB: LUFFF) (FSE: HA9) (\"Herbal Dispatch\" or the \"Company\"), a cannabis commerce and international distribution platform, today provided an update on a gold royalty interest he"
+      "published": "2026-09-10T05:30:00+00:00",
+      "summary": "HERMOSILLO, MX / ACCESS Newswire / September 10, 2026 / (the \"Company\" or \"Tocvan\") (CSE:TOC)(OTCQB:TCVNF)(WKN:TV3/A2PE64) is pleased to announce new drill results from the El Mezquite trend at its 100%-owned Gran Pilar Gold-Silver Project in Sonora, Mexico. The latest drilling c"
     },
     {
-      "title": "The world's highest paid leader is set for a 64% pay rise. Here's how others compare",
-      "link": "https://www.cnbc.com/2026/09/09/singapore-prime-minister-salary-lawrence-wong.html",
+      "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+      "link": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-09T04:58:47+00:00",
-      "summary": "Wong announced ministerial salaries will be adjusted upwards after 15 years, with his annual pay package rising to 3.6 million Singapore dollars"
+      "published": "2026-09-10T05:24:52+00:00",
+      "summary": "Coinbase CEO Brian Armstrong says U.S. crypto regulation could move forward regardless of the outcome of the Clarity Act."
     },
     {
-      "title": "Moonshot\u2019s Kimi rattled markets. U.S. agencies now say it was trained on American models",
-      "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+      "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-09T04:40:54+00:00",
-      "summary": "Moonshot, whose Kimi model rattled markets earlier this year, is among six Chinese AI firms accused of systematically extracting capabilities from U.S. models."
+      "published": "2026-09-10T05:05:41+00:00",
+      "summary": "Coinbase CEO tells CNBC the crypto industry gets regulatory clarity whether or not the Senate passes the bill on Sept. 15."
     },
     {
-      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-09T04:35:55+00:00",
-      "summary": "Bitcoin fell to nearly $77,600 on Tuesday before clawing most of it back, leaving it little changed on the day while zcash gained roughly 43% on the week and Grayscale's new fund crossed half a billion dollars."
+      "title": "An ECB rate hike is \u2018all but certain\u2019 \u2014 but investors divided on what comes next",
+      "link": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-10T05:00:02+00:00",
+      "summary": "The central bank is contending with rising prices, the consequences of the U.S.-Iran war, and surging government borrowing costs."
     },
     {
-      "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
-      "link": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+      "link": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-09T04:09:51+00:00",
-      "summary": "US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins."
+      "published": "2026-09-10T04:05:03+00:00",
+      "summary": "The Justice Department seized Xinbi\u2019s Telegram channels and two wallets as investigators pursued 47 additional wallets across its alleged laundering network."
     },
     {
-      "title": "Titan Minerals extends gold-silver mineralisation at Dynasty",
-      "link": "https://finance.yahoo.com/video/titan-minerals-extends-gold-silver-034038885.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-09T03:40:38+00:00",
-      "summary": "Titan Minerals CEO Melanie Leighton talked with Proactive about the latest drilling results from the company\u2019s Dynasty Gold Project in southern Ecuador, where extensional and infill drilling continues to expand and upgrade the known gold-silver mineralisation. Leighton highlighte"
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and \u2018DOGE\u2019 dividends last year that never came.",
+      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-10T03:00:00+00:00",
+      "summary": "President Trump\u2019s speech at his party\u2019s midterm convention in Dallas comes as many analysts expect losses for Republicans in November\u2019s elections due to voters\u2019 frustrations with high prices."
     },
     {
-      "title": "Krakatoa Resources: Zopkhito drilling extends gold-antimony potential",
-      "link": "https://finance.yahoo.com/video/krakatoa-resources-zopkhito-drilling-extends-031650638.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-09T03:16:50+00:00",
-      "summary": "Krakatoa Resources Ltd CEO Mark Major talked with Proactive about high-grade gold and antimony results from the company\u2019s 2026 drilling program at the Zopkhito Antimony-Gold Project and the work underway to advance the project toward a JORC-compliant resource. Major said the late"
-    },
-    {
-      "title": "How Asia\u2019s ultra-rich are investing and where wealthy Chinese are migrating, according to Maybank Singapore CEO",
-      "link": "https://www.cnbc.com/2026/09/09/asia-ultra-rich-investing-wealthy-chinese-migrating-maybank.html",
+      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+      "link": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-09T03:08:15+00:00",
-      "summary": "Asia's ultra-rich still like gold, but they're branching out to digital assets as well, Maybank Singapore's CEO said."
+      "published": "2026-09-10T02:05:32+00:00",
+      "summary": "Samsung is drawing more iPhone users to its foldables as Apple\u2019s rumored entry threatens to reshape the market."
     },
     {
-      "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
-      "link": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-09T03:07:32+00:00",
-      "summary": "Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand."
-    },
-    {
-      "title": "How to create a \u2018forever paycheck\u2019 without paying for an annuity",
-      "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-09T02:20:00+00:00",
-      "summary": "Jean Chatzky\u2019s new book lays out several strategies for creating steady retirement income."
+      "published": "2026-09-10T02:04:00+00:00",
+      "summary": "Investor appetite for memecoins has clearly not recovered, even as bitcoin prices have crept higher."
     },
     {
-      "title": "HOOD Stock Ticks Up Overnight \u2014 Why This Analyst Sees Upside Of Over 19% From Here",
-      "link": "https://stocktwits.com/news-articles/markets/equity/hood-stock-ticks-up-overnight-why-this-analyst-sees-upside-of-over-19-from-here/cZte8OnRJyg?.tsrc=rss",
+      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-4-400-233318070.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-09T02:18:37+00:00",
-      "summary": "Jefferies raised the price target on Robinhood to $140 from $127 and kept a \u2018Buy\u2019 rating, as per The Fly \u2014 an upside of more than 19% from its last close."
+      "published": "2026-09-09T23:33:18+00:00",
+      "summary": "Gold steadied, as traders awaited US inflation data due later this week for clues to whether the Federal Reserve will hike interest rates."
     },
     {
-      "title": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next.",
-      "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "title": "Diesel prices hit another record high. If you\u2019re shocked, wait until you see your grocery bill.",
+      "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-09T00:17:00+00:00",
-      "summary": "Shares in Bombardier lost altitude Tuesday after President Donald Trump threatened to ban the Canadian aircraft manufacturer unless it makes new commitments to build in the U.S."
+      "published": "2026-09-09T22:51:00+00:00",
+      "summary": "The most important price in America is one most drivers never pay \u2014 and it reaches the CPI, the Fed and the European Central Bank in the same week."
     },
     {
-      "title": "How to invest in a booming stock market that\u2019s way cheaper than the S&P 500",
-      "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-08T22:50:00+00:00",
-      "summary": "Poland\u2019s reclassification as a developed economy from an emerging market opens it up for investment by many more investors."
+      "published": "2026-09-09T22:30:00+00:00",
+      "summary": "\u201cI expect to receive at least $9,000 per month before federal and California state taxes.\u201d"
+    },
+    {
+      "title": "Home-insurance premiums just hit a record high. Here\u2019s where they spiked the most.",
+      "link": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-09T22:21:00+00:00",
+      "summary": "Natural disasters \u2014 from hurricanes to storms to wildfires \u2014 are prompting insurers to rethink pricing as risks evolve."
+    },
+    {
+      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
+      "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-09T22:00:00+00:00",
+      "summary": "\u201cWe have witnessed our parents\u2019 gradual decline in cognitive ability.\u201d"
+    },
+    {
+      "title": "The bull market\u2019s biggest enemy right now could be Bessent\u2019s interventions",
+      "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-09T21:17:00+00:00",
+      "summary": "A stronger yen and higher Treasury yields could become a toxic combination for the bull market in stocks."
     },
     {
       "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
       "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-08T22:00:00+00:00",
+      "published": "2026-09-09T21:16:00+00:00",
       "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d"
     },
     {
-      "title": "Memory chips have come to rule the AI boom. Why Micron\u2019s reign could be here to stay.",
-      "link": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-08T21:51:00+00:00",
-      "summary": "Semiconductor industry revenue is expected to reach $1.5 trillion this year, driven mostly by memory chips."
-    },
-    {
-      "title": "Oracle\u2019s stock gets a boost as the OpenAI ecosystem comes back into favor",
-      "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-08T21:38:00+00:00",
-      "summary": "\u201cIt looks like OpenAI is turning things around,\u201d and that\u2019s seen as good news for Oracle, which has a lot riding on the ChatGPT creator\u2019s success."
-    },
-    {
-      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-      "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-08T21:37:12+00:00",
-      "summary": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies."
-    },
-    {
-      "title": "New York town weighs crypto mining and AI data center ban",
-      "link": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+      "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-08T21:33:49+00:00",
-      "summary": "One of the first towns in the US to ban Bitcoin mining for 18 months is considering another temporary moratorium extending to data centers and other crypto mining operations."
+      "published": "2026-09-09T20:08:09+00:00",
+      "summary": "The expansion gives institutional and automated traders real-time access to Kalshi\u2019s political markets as election betting activity continues to grow."
     },
     {
-      "title": "Qualcomm\u2019s stock climbs as Amazon chip deal offers investors much-needed good news",
-      "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-08T21:32:00+00:00",
-      "summary": "Qualcomm shares have missed out on the chip sector\u2019s rally this year \u2014 but the company is now working on various chip projects with Amazon."
-    },
-    {
-      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
-      "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-08T21:30:00+00:00",
-      "summary": "\u201cI\u2019d rather leave my estate to people who spent time with me because they genuinely valued my company.\u201d"
-    },
-    {
-      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
-      "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-08T21:02:32+00:00",
-      "summary": "Trump's swipe at Bombardier has spurred rebuttals from some Republican in states where Bombardier maintains a presence."
-    },
-    {
-      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
-      "link": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-08T20:59:20+00:00",
-      "summary": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corporate holder of Ethena\u2019s ENA token."
-    },
-    {
-      "title": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/china-adds-650-000-ounces-190000241.html?.tsrc=rss",
+      "title": "If you invested $1,000 in gold & Bitcoin 10 years ago, here's how much money you'd have today",
+      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-10-years-ago-heres-how-much-money-youd-have-today?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-08T19:00:00+00:00",
-      "summary": "China's central bank added 650,000 ounces of gold in August, its biggest monthly buy since 2023, even as rate-hike bets pressure bullion."
+      "published": "2026-09-09T20:02:03+00:00",
+      "summary": "A decade can transform an investment. On September 9, 2016, gold was grinding through a quiet recovery while Bitcoin was still a niche digital asset trading in the low hundreds of dollars."
     },
     {
-      "title": "Bybit launches 24/7 perpetuals for major currency pairs",
-      "link": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
+      "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-09T19:52:11+00:00",
+      "summary": "President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections."
+    },
+    {
+      "title": "Consensys to split into MetaMask and institutional blockchain company",
+      "link": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-08T18:51:08+00:00",
-      "summary": "Bybit added USDT-settled perpetuals tracking EUR/USD, GBP/USD and USD/JPY, with 24/7 trading and leverage of up to 100x."
+      "published": "2026-09-09T18:47:32+00:00",
+      "summary": "The restructuring will separate MetaMask\u2019s consumer business from Consensys\u2019 Ethereum protocols and institutional blockchain infrastructure operations."
+    },
+    {
+      "title": "Pinnacle Silver & Gold extends high-grade gold-silver zone at historic Pinos Cuates Mine",
+      "link": "https://finance.yahoo.com/video/pinnacle-silver-gold-extends-high-175240128.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-09T17:52:40+00:00",
+      "summary": "Pinnacle Silver and Gold CEO Robert Archer joined Steve Darling from Proactive to discuss new drilling results from the company's Potrero Project in Mexico, where ongoing exploration has successfully confirmed and extended high-grade gold and silver mineralization at the historic"
+    },
+    {
+      "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+      "link": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-09T17:43:45+00:00",
+      "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\""
+    },
+    {
+      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+      "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-09T17:30:06+00:00",
+      "summary": "The blockchain intelligence firm said its annual recurring revenue has quadrupled over the past three years as it expands its AI-powered investigations business."
+    },
+    {
+      "title": "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-midday-sept-9-stocks-slide-as-oil-surges-past-usd100-while-meta-gains/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-09T16:58:00+00:00",
+      "summary": "Today, Sept. 9, 2026, Brent crude climbed, reigniting inflation concerns as geopolitical tensions weigh on investor sentiment."
     }
   ]
 }
