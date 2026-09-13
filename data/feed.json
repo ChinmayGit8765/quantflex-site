@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-12T06:35:13+00:00",
+  "generated": "2026-09-13T06:39:55+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 18,
-    "crypto": 7,
-    "gold": 5
+    "stocks": 15,
+    "crypto": 12,
+    "gold": 3
   },
   "sources": [
     {
@@ -53,17 +53,225 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 1
     }
   ],
   "items": [
+    {
+      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T23:20:43+00:00",
+      "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
+    },
+    {
+      "title": "Why OpenAI\u2019s Sam Altman says an IPO isn\u2019t in the cards this year",
+      "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-12T21:50:00+00:00",
+      "summary": "Concerns about AI safety have ramped up, and OpenAI\u2019s CEO says now would be an \u2018ill-advised\u2019 time for the ChatGPT creator to go public"
+    },
+    {
+      "title": "OpenAI IPO won't happen this year, says Sam Altman",
+      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T21:09:31+00:00",
+      "summary": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune."
+    },
+    {
+      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T21:09:06+00:00",
+      "summary": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs."
+    },
+    {
+      "title": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T18:51:04+00:00",
+      "summary": "The combined haul equals the largest individual political donations in U.K. history, sharply scaling up crypto industry backing."
+    },
+    {
+      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
+      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T18:43:33+00:00",
+      "summary": "Anthropic\u2019s Dario Amodei, OpenAI\u2019s Sam Altman and Elon Musk have agreed on an unusual position: frontier AI development may need to slow as systems become capable of helping build their own successors."
+    },
+    {
+      "title": "Elon Musk backs Anthropic\u2019s call to slow down AI progress before rogue bots take over the entire internet",
+      "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-12T17:20:00+00:00",
+      "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development."
+    },
+    {
+      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+      "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T17:14:56+00:00",
+      "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company."
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-12T16:09:41+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
+      "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-12T16:08:29+00:00",
+      "summary": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives."
+    },
+    {
+      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-12T16:01:00+00:00",
+      "summary": "\u201cIt wasn\u2019t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.\u201d"
+    },
+    {
+      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T16:00:00+00:00",
+      "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring RLUSD to Europe under MiCA, the firm's Jack McDonald said."
+    },
+    {
+      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T16:00:00+00:00",
+      "summary": "Bitcoin Suisse says rising AI investment, government debt and weakening stock-bond diversification strengthen the case for adding bitcoin to traditional portfolios."
+    },
+    {
+      "title": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
+      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-12T15:50:14+00:00",
+      "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage\u2019s Reform UK party, matched a day later by Christopher Harborne."
+    },
+    {
+      "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
+      "link": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T15:12:56+00:00",
+      "summary": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping addressed concerns around border dispute and the trade imbalance."
+    },
+    {
+      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+      "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-12T15:12:40+00:00",
+      "summary": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion."
+    },
+    {
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-12T15:00:00+00:00",
+      "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d"
+    },
+    {
+      "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?",
+      "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-12T14:01:00+00:00",
+      "summary": "\u201cOver the years, my mother and I have supplemented his income.\u201d"
+    },
+    {
+      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T14:00:00+00:00",
+      "summary": "The yield-generating asset has a special place in the digital asset investor\u2019s portfolio, argues GlobalStake\u2019s Ryan Haczynski."
+    },
+    {
+      "title": "Bridgewater Founder Dalio Urges Investors to Dump Bonds for Gold Allocation",
+      "link": "https://247wallst.com/investing/2026/09/12/bridgewater-founder-dalio-urges-investors-to-dump-bonds-for-gold-allocation/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-12T13:48:26+00:00",
+      "summary": "Ray Dalio just told millions of LinkedIn readers to rethink the role bonds play in their portfolios, but the advice that sounds like protection from one angle looks like a serious trade-off from another."
+    },
     {
       "title": "Trump's America-first world is pushing other powers to hedge their bets",
       "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-12T06:25:50+00:00",
+      "published": "2026-09-12T13:24:33+00:00",
       "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground."
+    },
+    {
+      "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
+      "link": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T13:20:04+00:00",
+      "summary": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand."
+    },
+    {
+      "title": "Tehran won\u2019t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T13:15:04+00:00",
+      "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace."
+    },
+    {
+      "title": "I want to pay for every customer at my late husband\u2019s favorite restaurant on his birthday. Could this backfire?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-12T13:00:00+00:00",
+      "summary": "\u201cI\u2019m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.\u201d"
+    },
+    {
+      "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
+      "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T12:49:15+00:00",
+      "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%."
+    },
+    {
+      "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+      "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-12T12:40:05+00:00",
+      "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May."
+    },
+    {
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-12T10:11:01+00:00",
+      "summary": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost."
     },
     {
       "title": "How much more gold could central banks buy?",
@@ -88,214 +296,6 @@
       "category": "stocks",
       "published": "2026-09-11T23:54:00+00:00",
       "summary": "Economists note that the Fed historically has not been content to raise rates only once."
-    },
-    {
-      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-11T23:47:51+00:00",
-      "summary": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares."
-    },
-    {
-      "title": "Cramer\u2019s week ahead: Falling oil could help stocks but Fed is the next big test",
-      "link": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-09-11T22:35:09+00:00",
-      "summary": "CNBC\u2019s Jim Cramer said falling oil prices helped fuel Friday\u2019s rebound, but warned next week\u2019s Federal Reserve meeting will be the next test for stocks."
-    },
-    {
-      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
-      "link": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-09-11T22:11:10+00:00",
-      "summary": "Oracle's cloud infrastructure revenue jumped 121% from a year earlier, reflecting demand for AI cloud services."
-    },
-    {
-      "title": "This investment is safe from both Trump and the Democrats \u2014 and it pays 4.7%",
-      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T22:06:00+00:00",
-      "summary": "There\u2019s a safe haven hiding in plain sight."
-    },
-    {
-      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-      "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-11T21:35:14+00:00",
-      "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week."
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-11T21:30:00+00:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Marvell is sitting on an incredibly \u2018sticky\u2019 business that could help it unlock a $30 billion opportunity",
-      "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T21:16:00+00:00",
-      "summary": "Marvell is best known for making custom chips \u2014 but an analyst notes there\u2019s arguably more potential in supporting components and optical networking."
-    },
-    {
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T21:00:00+00:00",
-      "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d"
-    },
-    {
-      "title": "Tesla could transform the trucking business \u2014 and capitalize on high diesel prices",
-      "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T20:49:00+00:00",
-      "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear \u2014 unlocking a potentially huge opportunity, according to Morgan Stanley."
-    },
-    {
-      "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-      "link": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-11T20:48:19+00:00",
-      "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said."
-    },
-    {
-      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
-      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T20:45:00+00:00",
-      "summary": "\u201cSeveral of Oracle\u2019s bear cases were addressed head on\u201d in the latest earnings report, according to an analyst."
-    },
-    {
-      "title": "Salesforce\u2019s stock has been riding a wave of AI optimism. Here\u2019s what Wall Street wants to see next.",
-      "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T20:44:00+00:00",
-      "summary": "Salesforce\u2019s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out."
-    },
-    {
-      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-11T20:30:00+00:00",
-      "summary": "\u201cI expect to receive at least $9,000 per month before federal and California state taxes.\u201d"
-    },
-    {
-      "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
-      "link": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-11T20:21:01+00:00",
-      "summary": "The CEO and chief investment officer at Fred Alger Management survived the attack by chance. He was tasked with reconstruction after 35 staffers died."
-    },
-    {
-      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-      "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-11T19:46:24+00:00",
-      "summary": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews."
-    },
-    {
-      "title": "Hyperliquid\u2019s biggest risk is regulation, says Ran Neuner",
-      "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-11T18:45:15+00:00",
-      "summary": "The Crypto Banter founder said Hyperliquid\u2019s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat."
-    },
-    {
-      "title": "Hot Inflation Revives Fed Hike Bets as Gold Eyes Third Weekly Loss",
-      "link": "https://finance.yahoo.com/economy/policy/articles/hot-inflation-revives-fed-hike-180243090.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-11T18:02:43+00:00",
-      "summary": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impact on gold prices and other key correlated assets\u2014and may continue to in the fut"
-    },
-    {
-      "title": "Is gold really a hedge against inflation?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-a-hedge-against-inflation-174122603.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-11T17:41:22+00:00",
-      "summary": "Is gold a hedge against inflation? Learn how gold may help preserve purchasing power, when it may fall short, and what else can affect gold prices."
-    },
-    {
-      "title": "172-year-old bank sees 400% upside for 'federal bank' token",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
-      "source": "Yahoo Finance",
-      "category": "stocks",
-      "published": "2026-09-11T17:33:49+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart",
-      "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-11T17:14:27+00:00",
-      "summary": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said."
-    },
-    {
-      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-11T17:12:45+00:00",
-      "summary": "The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court."
-    },
-    {
-      "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
-      "link": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-11T17:00:48+00:00",
-      "summary": "Ahead of the midterms, election officials ban certain workers from using prediction markets to reassure the public they are committed to election integrity."
-    },
-    {
-      "title": "I went to Caracas for Venezuela\u2019s new oil deals. Here\u2019s what stood out",
-      "link": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-11T16:59:05+00:00",
-      "summary": "CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy."
-    },
-    {
-      "title": "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/11/stock-market-midday-sept-11-stocks-rise-as-falling-oil-prices-outweigh-sticky-inflation/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-11T16:53:19+00:00",
-      "summary": "On Sept. 11, 2026, oil prices retreated intraday, helping investors look past sticky inflation data and fueling risk-on sentiment."
-    },
-    {
-      "title": "Anchorage Digital adds institutional access to Frgmnt\u2019s fUSD stablecoin",
-      "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-11T16:05:15+00:00",
-      "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt\u2019s fUSD stablecoin through its custody platform."
-    },
-    {
-      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-      "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-11T16:03:37+00:00",
-      "summary": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations."
     }
   ]
 }
