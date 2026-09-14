@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-13T06:39:55+00:00",
+  "generated": "2026-09-14T06:50:17+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
+    "stocks": 16,
     "crypto": 12,
-    "gold": 3
+    "gold": 2
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 5
+      "items": 2
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "title": "U.S. Treasury yields are steady as Fed closes in on 5% ahead of Fed rates decision",
+      "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-12T23:20:43+00:00",
-      "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
+      "published": "2026-09-14T06:44:38+00:00",
+      "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important."
     },
     {
-      "title": "Why OpenAI\u2019s Sam Altman says an IPO isn\u2019t in the cards this year",
-      "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-12T21:50:00+00:00",
-      "summary": "Concerns about AI safety have ramped up, and OpenAI\u2019s CEO says now would be an \u2018ill-advised\u2019 time for the ChatGPT creator to go public"
-    },
-    {
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T21:09:31+00:00",
-      "summary": "\"Given everything happening with safety, right now would be an ill-advised moment to go public,\" OpenAI CEO Sam Altman told Fortune."
-    },
-    {
-      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T21:09:06+00:00",
-      "summary": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs."
-    },
-    {
-      "title": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T18:51:04+00:00",
-      "summary": "The combined haul equals the largest individual political donations in U.K. history, sharply scaling up crypto industry backing."
-    },
-    {
-      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T18:43:33+00:00",
-      "summary": "Anthropic\u2019s Dario Amodei, OpenAI\u2019s Sam Altman and Elon Musk have agreed on an unusual position: frontier AI development may need to slow as systems become capable of helping build their own successors."
-    },
-    {
-      "title": "Elon Musk backs Anthropic\u2019s call to slow down AI progress before rogue bots take over the entire internet",
-      "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-12T17:20:00+00:00",
-      "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development."
-    },
-    {
-      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-      "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-12T17:14:56+00:00",
-      "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company."
+      "title": "Meridian Announces Inclusion in the VanEck Junior Gold Miners ETF (GDXJ)",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/meridian-announces-inclusion-vaneck-junior-060000135.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-14T06:00:00+00:00",
+      "summary": "London, United Kingdom--(Newsfile Corp. - September 14, 2026) - Meridian Mining plc (LSE: MNO) (TSX: MNO) (FSE: N2E0) (Tradegate: N2E0) (OTCQX: MRRDF) (\"Meridian\" or the \"Company\") is pleased to announce its inclusion in the VanEck Junior Gold Miners (\"GDXJ\") Exchange Traded Fund"
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-12T16:09:41+00:00",
+      "published": "2026-09-14T05:31:55+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-      "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-12T16:08:29+00:00",
-      "summary": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives."
-    },
-    {
-      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-12T16:01:00+00:00",
-      "summary": "\u201cIt wasn\u2019t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.\u201d"
-    },
-    {
-      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T16:00:00+00:00",
-      "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring RLUSD to Europe under MiCA, the firm's Jack McDonald said."
-    },
-    {
-      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T16:00:00+00:00",
-      "summary": "Bitcoin Suisse says rising AI investment, government debt and weakening stock-bond diversification strengthen the case for adding bitcoin to traditional portfolios."
-    },
-    {
-      "title": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
-      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-12T15:50:14+00:00",
-      "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage\u2019s Reform UK party, matched a day later by Christopher Harborne."
-    },
-    {
-      "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
-      "link": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
+      "title": "Shein shares fall 10% amid urgent recall of contact-lens cleaner by Australia, New Zealand",
+      "link": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-12T15:12:56+00:00",
-      "summary": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping addressed concerns around border dispute and the trade imbalance."
+      "published": "2026-09-14T05:21:29+00:00",
+      "summary": "Shein's Hong Kong-listed shares fell as much as 10%, amid news that a contact lens product has been recalled urgently due to worries of contamination."
     },
     {
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-      "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-12T15:12:40+00:00",
-      "summary": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion."
+      "published": "2026-09-14T05:16:59+00:00",
+      "summary": "The gathering comes days after Dario Amodei and Sam Altman called for greater restraint at the AI frontier, warning that rapidly improving systems could pose increasingly difficult-to-control risks."
     },
     {
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "LA Clippers owner Steve Ballmer apologizes over team sanctions",
+      "link": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
+      "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-12T15:00:00+00:00",
-      "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d"
+      "published": "2026-09-14T04:58:46+00:00",
+      "summary": "Ballmer said that the team is complying with the penalties, has paid the fines, and is \"moving forward.\""
+    },
+    {
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-14T04:55:28+00:00",
+      "summary": "Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products change shareholder rights or company obligations, but not when they create separate instruments backed by shares."
+    },
+    {
+      "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
+      "link": "https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-14T04:25:17+00:00",
+      "summary": "Mondelez is expanding its chocolate manufacturing operations in Malaysia, with the company also seeing further room for growth across Southeast Asia."
+    },
+    {
+      "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+      "link": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-14T04:01:01+00:00",
+      "summary": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI."
+    },
+    {
+      "title": "Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand",
+      "link": "https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-14T03:27:58+00:00",
+      "summary": "Baker Hughes has yet to see higher borrowing costs slow investment in major energy projects."
+    },
+    {
+      "title": "US Republicans send \u2018final\u2019 CLARITY Act offer to Democrats",
+      "link": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-14T03:22:49+00:00",
+      "summary": "The 635-page revised proposal includes Trump-backed ethics provisions and comes just two days before a key procedural vote."
+    },
+    {
+      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+      "link": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-14T03:03:58+00:00",
+      "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months."
+    },
+    {
+      "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
+      "link": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-14T03:01:13+00:00",
+      "summary": "Trump said revenue from the Venezuela arrangement has \"paid for the war many times.\""
     },
     {
       "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?",
       "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-12T14:01:00+00:00",
+      "published": "2026-09-14T01:30:00+00:00",
       "summary": "\u201cOver the years, my mother and I have supplemented his income.\u201d"
     },
     {
-      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-12T14:00:00+00:00",
-      "summary": "The yield-generating asset has a special place in the digital asset investor\u2019s portfolio, argues GlobalStake\u2019s Ryan Haczynski."
-    },
-    {
-      "title": "Bridgewater Founder Dalio Urges Investors to Dump Bonds for Gold Allocation",
-      "link": "https://247wallst.com/investing/2026/09/12/bridgewater-founder-dalio-urges-investors-to-dump-bonds-for-gold-allocation/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-12T13:48:26+00:00",
-      "summary": "Ray Dalio just told millions of LinkedIn readers to rethink the role bonds play in their portfolios, but the advice that sounds like protection from one angle looks like a serious trade-off from another."
-    },
-    {
-      "title": "Trump's America-first world is pushing other powers to hedge their bets",
-      "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-12T13:24:33+00:00",
-      "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground."
-    },
-    {
-      "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
-      "link": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-12T13:20:04+00:00",
-      "summary": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand."
-    },
-    {
-      "title": "Tehran won\u2019t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-      "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-12T13:15:04+00:00",
-      "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace."
-    },
-    {
-      "title": "I want to pay for every customer at my late husband\u2019s favorite restaurant on his birthday. Could this backfire?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-12T13:00:00+00:00",
-      "summary": "\u201cI\u2019m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.\u201d"
+      "published": "2026-09-14T01:00:00+00:00",
+      "summary": "\u201cIt wasn\u2019t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.\u201d"
     },
     {
-      "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
-      "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-12T12:49:15+00:00",
-      "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%."
-    },
-    {
-      "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-      "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-12T12:40:05+00:00",
-      "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May."
-    },
-    {
-      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "source": "CoinDesk",
+      "title": "Revolut attackers threaten daily customer data leaks",
+      "link": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-12T10:11:01+00:00",
-      "summary": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost."
+      "published": "2026-09-14T00:54:08+00:00",
+      "summary": "Attackers reportedly published identity documents and selfies belonging to Revolut customers and threatened to release more data each day until the fintech pays."
     },
     {
-      "title": "How much more gold could central banks buy?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/much-more-gold-could-central-023013269.html?.tsrc=rss",
+      "title": "Franco-Nevada Announces A$200 Million Follow-on Financing Package with Minerals 260 for the Bullabulling Gold Project",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/franco-nevada-announces-200-million-003800525.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-12T02:30:13+00:00",
-      "summary": "Investing.com -- Central banks could have substantial room to keep buying gold after purchases surged in recent years, with BofA estimating that under-allocated institutions may need more than 20,000 tonnes to reach what it views as an efficient reserve allocation."
+      "published": "2026-09-14T00:38:00+00:00",
+      "summary": "Franco-Nevada Corporation (\"Franco-Nevada\" or the \"Company\") (TSX:FNV) (NYSE:FNV) is pleased to announce that, through a wholly-owned Australian subsidiary, it has entered into an agreement to acquire a A$170 million (approximately $122 million) gross royalty (the \"Royalty\") from"
     },
     {
-      "title": "Will Gold Price Fall Below $4,000 Amid Renewed Economic Risks?",
-      "link": "https://beincrypto.com/gold-price-risk-fed-rate-hike-september-2026/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-12T01:00:00+00:00",
-      "summary": "Gold sits on its head and shoulders neckline as US CPI lands. A confirmed break targets $3,950, almost 9% lower."
+      "title": "Crypto\u2019s biggest week ever? Swarm fears prompt AI slowdown: Hodler\u2019s Digest",
+      "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-14T00:15:37+00:00",
+      "summary": "Crypto\u2019s moment of CLARITY finally arrives with a key Senate vote on Tuesday. AI swarm fears prompt development slowdown, with some predicting big falls in AI stock prices."
     },
     {
-      "title": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test.",
-      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-11T23:54:00+00:00",
-      "summary": "Economists note that the Fed historically has not been content to raise rates only once."
+      "published": "2026-09-13T21:10:00+00:00",
+      "summary": "No amount of wealth can erase retirement worries."
+    },
+    {
+      "title": "I\u2019m locked into a 10-year annuity and now I\u2019m strapped for cash. What are my options?",
+      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-13T20:59:00+00:00",
+      "summary": "A self-described \u201cspender\u201d is concerned about taxes."
+    },
+    {
+      "title": "Your Social Security COLA could go up another $71 per month in 2027. That\u2019s not necessarily good news.",
+      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-13T20:40:00+00:00",
+      "summary": "A higher COLA is a sign that persistent inflation isn\u2019t going anywhere."
+    },
+    {
+      "title": "This simple mistake can give your money to the wrong person when you die. Here\u2019s how to protect your estate.",
+      "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-13T20:30:00+00:00",
+      "summary": "Estate-planning crises usually come down to small oversights."
+    },
+    {
+      "title": "How to trade a well-paying job for more work-life balance \u2014 without going broke",
+      "link": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-13T20:17:00+00:00",
+      "summary": "As caregiving demands rise, many professionals are rethinking what success means to them."
+    },
+    {
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-13T19:56:00+00:00",
+      "summary": "Social Security, once seen as \u201cold-age insurance,\u201d will eventually disappear, this author predicts."
+    },
+    {
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-13T18:45:08+00:00",
+      "summary": "I dunno, flip a coin."
+    },
+    {
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-13T17:00:00+00:00",
+      "summary": "lockchains don\u2019t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel M\u00e9dard. Classic math already gives us the tools."
+    },
+    {
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-13T13:00:00+00:00",
+      "summary": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week."
+    },
+    {
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take \u2018years to build\u2019",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-13T13:00:00+00:00",
+      "summary": "Stablecoins' \u201cnext battleground is in emerging markets,\u201d one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong."
+    },
+    {
+      "title": "Crypto's Clarity Act is a Schr\u00f6dinger's cat in life-death limbo as U.S. Senate returns",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-13T12:00:00+00:00",
+      "summary": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form."
+    },
+    {
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-13T11:09:54+00:00",
+      "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year."
     }
   ]
 }
