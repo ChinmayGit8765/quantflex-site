@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/github/stars/ChinmayGit8765/quantflex-site?style=flat-square" alt="Stars">
 </p>
 
-This repo is **only the page and the data it renders**. The engine itself — Monte Carlo,
-the PDE solver, exotics, AAD Greeks — lives in a separate private repository; its public
-home is [ChinmayGit8765/quantflex](https://github.com/ChinmayGit8765/quantflex), a
-placeholder while the app is built.
+This repo is **only the page and the data it renders**. The engine's public home is
+[ChinmayGit8765/quantflex](https://github.com/ChinmayGit8765/quantflex) — a placeholder
+while that app is built. The Monte Carlo, PDE solver, exotics and AAD Greeks are not
+in this tree.
 
 ## ✨ What it does
 
