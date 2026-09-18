@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-17T06:41:08+00:00",
+  "generated": "2026-09-18T06:39:34+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 16,
-    "crypto": 8,
-    "gold": 6
+    "stocks": 14,
+    "crypto": 13,
+    "gold": 3
   },
   "sources": [
     {
       "name": "Yahoo Finance",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 6
     },
     {
       "name": "CNBC Top News",
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 4
     }
   ],
   "items": [
+    {
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-18T06:16:57+00:00",
+      "summary": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot."
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-17T06:01:31+00:00",
+      "published": "2026-09-18T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
-      "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-17T05:55:18+00:00",
-      "summary": "The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash."
-    },
-    {
-      "title": "OpenAI discloses 6 new cases of \u2018misaligned\u2019 AI behavior",
-      "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-17T05:49:06+00:00",
-      "summary": "The six cases are separate from July\u2019s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation."
-    },
-    {
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-      "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-17T05:42:46+00:00",
-      "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc."
-    },
-    {
-      "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
-      "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-17T05:37:58+00:00",
-      "summary": "Washington's efforts for resuming ceasefire talks appear to have stalled, as Gulf states absorb escalating attacks from Iran and Iran-aligned Houthi militants."
-    },
-    {
-      "title": "Bank of England set to defy Fed\u2019s rate-hike lead, despite rising inflation",
-      "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-17T05:20:23+00:00",
-      "summary": "The Bank of England is expected to keep rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs keep pressure on prices."
-    },
-    {
-      "title": "A stronger dollar and rising yields: How the Fed\u2019s rate hike could hit global markets",
-      "link": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-17T05:03:07+00:00",
-      "summary": "Higher U.S. rates could also keep global bond yields elevated and weigh on equity valuations and economic growth."
-    },
-    {
-      "title": "Putin braces for election stress test as Russians \u2018feel the pain\u2019 of struggling economy",
-      "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-17T05:00:01+00:00",
-      "summary": "Russia\u2019s upcoming election is expected to cement United Russia\u2019s dominance, but voter turnout and its margin of victory could offer clues to public discontent."
-    },
-    {
-      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed\u2019s first hike since 2023",
-      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-17T04:47:27+00:00",
-      "summary": "Bitcoin traded above $76,000 as the Fed projected limited further tightening, while Paradigm\u2019s Matt Huang discussed Zcash\u2019s role as a privacy complement to bitcoin."
+      "published": "2026-09-18T05:43:21+00:00",
+      "summary": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak."
     },
     {
-      "title": "Goldman pivots, now forecasts Fed rate hike in October",
-      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+      "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-17T04:17:55+00:00",
-      "summary": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections."
+      "published": "2026-09-18T05:23:29+00:00",
+      "summary": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia."
     },
     {
-      "title": "Silver One Intersects 472 g/t Silver, 0.6 g/t Gold, plus 0.87% Lead - 1.10% Zinc, Extending Down-Dip Mineralization 400 Metres Beyond Open-Pit Resource",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-one-intersects-472-g-041500931.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-17T04:15:00+00:00",
-      "summary": "Candelaria Project, NevadaVancouver, British Columbia--(Newsfile Corp. - September 17, 2026) - Silver One Resources Inc. (TSXV: SVE) (OTCQX: SLVRF) (FSE: BRK1) (\"Silver One\" or the \"Company\") is pleased to report assay results from the first two drill holes of its 25,000-metre re"
-    },
-    {
-      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-      "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+      "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-17T02:52:08+00:00",
-      "summary": "Bitcoin showed little immediate reaction to the Fed\u2019s first rate increase since 2023, but 16 of 18 officials expect at least one more hike before the end of the year."
+      "published": "2026-09-18T04:51:29+00:00",
+      "summary": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6."
     },
     {
-      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-      "link": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+      "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-18T04:49:17+00:00",
+      "summary": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run."
+    },
+    {
+      "title": "Cardano\u2019s IOG warns users to avoid YouTube channel amid apparent hijack",
+      "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-18T04:11:40+00:00",
+      "summary": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to \u201cdouble your wealth.\u201d"
+    },
+    {
+      "title": "World launches self-custodial \u2018super app\u2019 World Money",
+      "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-18T03:40:28+00:00",
+      "summary": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app."
+    },
+    {
+      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+      "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-17T02:08:02+00:00",
-      "summary": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom\u2019s exports."
+      "published": "2026-09-18T03:31:45+00:00",
+      "summary": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike."
     },
     {
-      "title": "US lawmakers advance bill to lock Trump\u2019s Bitcoin reserve into law",
-      "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-17T00:23:44+00:00",
-      "summary": "The legislation seeks to codify Trump\u2019s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years."
-    },
-    {
-      "title": "IAMGOLD (TSX:IMG) Flags Essakane Risk, Is The 13% Undervalued View Still Intact?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iamgold-tsx-img-flags-essakane-001734650.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-17T00:17:34+00:00",
-      "summary": "Event context and why IAMGOLD matters today IAMGOLD (TSX:IMG) is back in focus after the company highlighted operational risks at its Essakane mine linked to land access and community relations, echoing recent developments at Lake Victoria Gold\u2019s Tembo project. In the short term,"
-    },
-    {
-      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-16T23:51:00+00:00",
-      "summary": "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S."
-    },
-    {
-      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
-      "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "link": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-16T22:32:18+00:00",
-      "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor."
+      "published": "2026-09-18T03:09:22+00:00",
+      "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians."
     },
     {
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-18T03:03:38+00:00",
+      "summary": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years."
+    },
+    {
+      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+      "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-16T22:25:00+00:00",
-      "summary": "The Fed\u2019s policy-making committee was unanimous in its decision to hike, but forward guidance was split."
+      "published": "2026-09-18T01:35:38+00:00",
+      "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears."
     },
     {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-16T22:16:00+00:00",
-      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%."
-    },
-    {
-      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-16T22:15:00+00:00",
-      "summary": "\u201cThey had been married for over 30 years when she passed.\u201d"
-    },
-    {
-      "title": "Heeney Capital Signs Landmark Gold Mining Agreement to Develop Major Gold Project in Venezuela's El Callao District",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/heeney-capital-signs-landmark-gold-220800266.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-16T22:08:00+00:00",
-      "summary": "Heeney Capital (\"Heeney\"), a U.S. private investment firm focused on critical minerals, strategic resources, and industrial supply chains, has signed a milestone mining concession with the Republic of Venezuela and Corporaci\u00f3n Venezolana de Miner\u00eda (\"CVM\") to develop and operate "
-    },
-    {
-      "title": "Generac\u2019s stock soars more than 30% after Amazon deal cements company\u2019s status as an AI power player",
-      "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-16T21:56:00+00:00",
-      "summary": "First deliveries of Generac\u2019s backup power generators are worth $2.4 billion."
-    },
-    {
-      "title": "Newmont Corporation (NEM) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corporation-nem-registers-bigger-215005331.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-16T21:50:05+00:00",
-      "summary": "In the latest trading session, Newmont Corporation (NEM) closed at $121.76, marking a -1.96% move from the previous day."
-    },
-    {
-      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-16T21:40:00+00:00",
-      "summary": "Fed Chair Kevin Warsh has sent investors a message: When it comes to tamping down inflation, he means business."
-    },
-    {
-      "title": "Stock Market Today, Sept. 16: Stocks Slip as Fed Raises Rates",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/16/stock-market-today-sept-16-stocks-slip-as-fed-raises-rates/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-16T21:35:59+00:00",
-      "summary": "Not only did the central bank increase interest rates, but there's also now a higher probability of another hike in October, today, Sept. 16, 2026."
-    },
-    {
-      "title": "Wesdome Intersects 3.1 g/t Gold over 106.5 Metres at Shawkey 10, Significantly Expanding the Mineralized System",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wesdome-intersects-3-1-g-210000721.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-16T21:00:00+00:00",
-      "summary": "Toronto, Ontario--(Newsfile Corp. - September 16, 2026) - Wesdome Gold Mines Ltd. (TSX: WDO) (OTCQX: WDOFF) (\"Wesdome\" or the \"Company\") today provides an update on exploration drilling activities completed at its wholly-owned Kiena mine (\"Kiena\") near Val-d'Or, Quebec (Figure 1)"
-    },
-    {
-      "title": "Why optical stocks Lumentum and Coherent were the day\u2019s biggest S&P 500 gainers",
-      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-16T20:52:00+00:00",
-      "summary": "Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says."
-    },
-    {
-      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US sanctions Iran\u2019s BitBank, saying it processes \u2018Hormuz Safe\u2019 Bitcoin payments",
+      "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-16T20:51:38+00:00",
-      "summary": "Digital Sovereignty Alliance managing director Adrian Wall said senators from both parties are considering another attempt to advance the crypto market structure bill before the current Congress ends."
+      "published": "2026-09-18T01:33:54+00:00",
+      "summary": "US Treasury says the Iranian exchange processed payments received through Iran\u2019s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC."
     },
     {
-      "title": "Here\u2019s a sneaky way to play the Fed\u2019s rate increase",
-      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+      "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-17T23:49:23+00:00",
+      "summary": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations."
+    },
+    {
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+      "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-17T22:22:53+00:00",
+      "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company."
+    },
+    {
+      "title": "Real stocks are finally coming on blockchain. Here\u2019s how the SEC wants it to work",
+      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-17T21:47:22+00:00",
+      "summary": "The SEC is giving tokenized stocks a regulated U.S. pathway, while keeping trading volumes, access and issuer rights tightly controlled."
+    },
+    {
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman\u2019s daughter alleges \u2018dementia\u2019, alcoholism and reckless spending",
+      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-17T21:28:35+00:00",
+      "summary": "The estranged daughter of 77-year-old Kathleen Allman has petitioned a Hawaiian court to establish a limited conservatorship to protect her parents\u2019 share of her brother\u2019s stake in Ondo."
+    },
+    {
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-16T20:38:00+00:00",
-      "summary": "But watch out for the pitfalls."
+      "published": "2026-09-17T21:22:00+00:00",
+      "summary": "\u201cThe higher that yields go \u2014 for at least new money \u2014 it becomes more enticing to think about putting money into bonds,\u201d one strategist notes."
     },
     {
-      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-      "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "source": "CNBC Earnings",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-16T20:00:36+00:00",
-      "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%."
+      "published": "2026-09-17T21:22:00+00:00",
+      "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding."
+    },
+    {
+      "title": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-17T21:09:00+00:00",
+      "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working."
+    },
+    {
+      "title": "Allied Gold Energizes Power Line, Feeds First Ore to the Crushing Circuit as the Kurmuk Mine Progresses Toward Completion of Commissioning and Transitions to Operations",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/allied-gold-energizes-power-line-210000151.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-17T21:00:00+00:00",
+      "summary": "TORONTO, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Allied Gold Corporation (TSX: AAUC; NYSE: AAUC) (\u201cAllied\u201d or the \u201cCompany\u201d) is pleased to provide an update on the Kurmuk Mine (the \u201cKurmuk Mine\u201d) in Ethiopia. As the Kurmuk Mine completes commissioning and transitions toward operations"
+    },
+    {
+      "title": "Bloomberg\u2019s ETF Analyst Says Bitcoin Funds Will Triple Gold Hours After Admitting They Burned Cash",
+      "link": "https://247wallst.com/investing/etf/2026/09/17/bloombergs-etf-analyst-says-bitcoin-funds-will-triple-gold-hours-after-admitting-they-burned-cash/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-17T20:56:58+00:00",
+      "summary": "Bloomberg's top ETF analyst made two posts ninety minutes apart that told very different stories about Bitcoin funds, and the price charts make one of those posts much harder to defend than the other."
+    },
+    {
+      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
+      "link": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-17T20:32:07+00:00",
+      "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts."
+    },
+    {
+      "title": "Tajiri Provides Yono Project IP Survey Update, Extends Expiry of Share Purchase Warrants",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tajiri-provides-yono-project-ip-203000817.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-17T20:30:00+00:00",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 17, 2026) - Tajiri Resources Corp. (TSXV: TAJ) (the \"Company\" or \"Tajiri\") is pleased to report that over the past several weeks it has completed 3D IP Survey coverage over the entirety of the Yono Gold Property on 100 metr"
+    },
+    {
+      "title": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-17T20:23:00+00:00",
+      "summary": "Slower-than-expected robotaxi progress is still a chief concern, according to experts."
+    },
+    {
+      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
+      "link": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-17T20:22:20+00:00",
+      "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress."
+    },
+    {
+      "title": "Pet insurance or savings account: What\u2019s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-17T20:19:00+00:00",
+      "summary": "You want to make sure your pet can receive the care they need when an emergency happens \u2014 but is pet insurance the best way to prepare for that?"
+    },
+    {
+      "title": "Pok\u00e9mon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-17T20:13:00+00:00",
+      "summary": "As people clamored for Pokemon\u2019s 30th-anniversary card set, Mizuho analysts noted long lines and sold-out items at Target stores."
+    },
+    {
+      "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
+      "link": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-17T19:57:41+00:00",
+      "summary": "The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall."
+    },
+    {
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-17T19:52:00+00:00",
+      "summary": "With its East-West pipeline shut down, the Straight of Hormuz is the best avenue available and its spigot has recently opened up. Will it last?"
     }
   ]
 }
