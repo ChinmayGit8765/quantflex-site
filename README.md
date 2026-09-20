@@ -1,8 +1,9 @@
 <p align="center"><img src="docs/assets/hero.svg" alt="quantflex-site — the QuantFlex landing page: real engine output, a pricing preview that runs in your browser, and a market feed rebuilt every morning" width="100%"></p>
 
 <p align="center">
-  <b>The public front page of QuantFlex — a derivatives pricing and risk engine.<br>
-  Move the sliders and it prices in your browser; scroll down and the tables are real engine output, hash by hash.</b>
+  <b>The public front page of QuantFlex — a derivatives pricing and risk workbench.<br>
+  Two ways in (Learn for newcomers, Research for practitioners), a calculator that prices in your browser,
+  a labelled engine snapshot, an honest capability inventory, and a market feed rebuilt every morning.</b>
 </p>
 
 <p align="center">
@@ -14,39 +15,59 @@
   <img src="https://img.shields.io/github/stars/ChinmayGit8765/quantflex-site?style=flat-square" alt="Stars">
 </p>
 
-This repo is **only the page and the data it renders**. The engine's public home is
-[ChinmayGit8765/quantflex](https://github.com/ChinmayGit8765/quantflex) — a placeholder
-while that app is built. The Monte Carlo, PDE solver, exotics and AAD Greeks are not
-in this tree.
+This repo is **only the landing page and the data it renders**. The product itself is the
+live web app at [app.quantflex.dev](https://app.quantflex.dev/) with its API at
+[api.quantflex.dev](https://api.quantflex.dev/docs); the engine's public home is
+[ChinmayGit8765/quantflex](https://github.com/ChinmayGit8765/quantflex). The Monte Carlo,
+PDE solver, exotics and AAD Greeks are not in this tree — this page renders a committed
+snapshot of their output and links to where they run.
 
 ## ✨ What it does
 
+- **Gives two distinct ways in.** *Learn* for newcomers (a guided first calculation, plain-language
+  notes, change one input, keep the result) and *Research* for practitioners (methods, models,
+  Greeks with the cross-check shown, reproducible CSV/JSON export, API). Both CTAs point at
+  routes that exist in the deployed app today (`/` and `/methodology`); the dedicated `/learn`
+  and `/research` entry pages are linked only once they are deployed and verified.
+- **Says what works and what doesn't.** *What works today* lists what is in the live app now.
+  *Coming soon* — Excel workbook download, live Excel refresh, platform-specific code export,
+  daily strategy simulations, the strategy-brief assistant, portfolios & risk — is labelled, not
+  clickable, and promises no dates.
 - **Prices options in the visitor's browser.** Six sliders (spot, strike, vol, expiry, rate,
   dividend yield) plus call/put, and the price, five Greeks and the payoff curve recompute on
-  every move — closed-form Black–Scholes, 132 lines of vanilla JS.
+  every move — closed-form Black–Scholes, 132 lines of vanilla JS — with a plain-language
+  glossary and the Black–Scholes assumptions spelled out underneath.
 - **Reports its own error against the engine.** On load the page prices the engine's committed
   base case in the browser and prints the *measured* gap: right now `5.573526022256964` here
   against `5.573526022256971` from the engine — **a difference of 7.1e-15**, computed live, not
   typed in.
-- **Shows five methods on one book.** Spot 100, strike 100, 20% vol, 5% rate, one year priced
-  by closed form, Monte Carlo (262,144 paths), a Crank–Nicolson PDE, Merton jump-diffusion and
-  Heston — each row carrying the `request_hash` that reproduces it.
-- **Shows Greeks derived three independent ways.** A hand-written reverse-mode AAD tape, JAX,
-  and central finite differences with common random numbers, side by side against a *measured*
-  tolerance (1e-9 for delta, 3e-8 for vega) — all five agree.
+- **Shows five methods on one book — labelled as a snapshot.** Spot 100, strike 100, 20% vol,
+  5% rate, one year priced by closed form, Monte Carlo (262,144 paths), a Crank–Nicolson PDE,
+  Merton jump-diffusion and Heston — each row carrying the `request_hash` that reproduces it.
+  A provenance label above the tables states the source, the recording date, the engine version
+  and the parameters, so the figures cannot be mistaken for live quotes.
+- **Shows Greeks with the cross-check visible.** A hand-written reverse-mode AAD tape, central
+  finite differences with common random numbers and — on the machine that produced the
+  snapshot — JAX, side by side against a *measured* tolerance (1e-9 for delta, 3e-8 for vega).
+  A summary line says how many agree and how many ways each was checked; a disagreeing row is
+  highlighted, never hidden. The live API verifies AAD against finite differences (its JAX
+  column is `n/a`), and the page says so rather than claiming universal triple verification.
 - **Rebuilds a market feed every morning.** A cron'd GitHub Action collects up to 30 headlines
   from 8 public RSS/Atom feeds across stocks, crypto and gold, and commits `data/feed.json`
   only if it changed.
 - **Ships with no build step and no dependencies.** Hand-written HTML, one stylesheet, two
   scripts, two JSON files; the only network calls the page makes are two same-origin fetches.
+- **Works for everyone.** Skip link, landmark regions, labelled controls, `aria-pressed` toggles,
+  a keyboard-operable mobile menu (Escape closes it), visible focus rings, and smooth scrolling
+  only when the visitor has not asked for reduced motion. Checked at 390px and desktop.
 
 ## 🎬 See it
 
 <p align="center"><img src="docs/assets/tour.gif" alt="Scroll-through of the QuantFlex landing page: hero, live calculator, engine output tables, Monte Carlo convergence chart and the daily market feed" width="100%"></p>
 
 <table><tr>
-<td width="60%"><img src="docs/assets/home.png" alt="QuantFlex landing page hero on desktop"><br><sub><b>Desktop</b> — the claim up front: built by hand, checked against an analytic anchor, Greeks derived three ways.</sub></td>
-<td width="40%"><img src="docs/assets/home-mobile.png" alt="QuantFlex landing page hero on a phone viewport"><br><sub><b>Mobile</b> — same page, single column, no separate build.</sub></td>
+<td width="60%"><img src="docs/assets/home.png" alt="QuantFlex landing page hero on desktop: two entry buttons, Start with Learn and Go to Research, beside a labelled engine-snapshot card"><br><sub><b>Desktop</b> — two ways in, and one put priced two ways from the labelled snapshot, with the Greeks agreement count.</sub></td>
+<td width="40%"><img src="docs/assets/home-mobile.png" alt="QuantFlex landing page hero on a phone viewport with full-width entry buttons"><br><sub><b>Mobile (390px)</b> — same page, single column, keyboard-operable menu, no separate build.</sub></td>
 </tr></table>
 
 <table><tr>
@@ -107,21 +128,22 @@ interpolated as HTML.
 | --- | --- | --- |
 | **Try it** — price, Greeks, payoff curve | `assets/bs.js`, closed-form Black–Scholes running in your browser | on every slider move |
 | The cross-check line under the calculator | computed at load: browser price vs the engine's price in `demo.json` | on every page load |
-| **Live engine output** — five methods, Greeks, convergence, implied-vol round-trip | `data/demo.json` — real `price()` / `greeks()` calls in the private engine, each row hashed | only when the engine changes (currently engine `0.1.0`, generated 2026‑08‑24) |
+| **Hero snapshot card** — one put by closed form and Monte Carlo, Greeks agreement count | `data/demo.json`, labelled with its recording date and engine version | only when the engine changes |
+| **Engine snapshot** — five methods, Greeks, convergence, implied-vol round-trip | `data/demo.json` — real `price()` / `greeks()` calls in the engine, each row hashed | only when the engine changes (currently engine `0.1.0`, generated 2026‑08‑24) |
 | **Daily market feed** | `data/feed.json` — 8 public syndication feeds via `scripts/build_feed.py` | 06:15 UTC daily, committed by CI if it changed |
-| **Where it stands** roadmap | hand-written in `index.html` | by hand |
+| **What works today / Coming soon** inventory | hand-written in `index.html`, checked against the deployed app's routes and the API's OpenAPI schema | by hand |
 
 `data/demo.json` is a committed snapshot on purpose, not a scheduled job: the engine is
 deterministic under fixed seeds, so the numbers only change when the engine changes. There is
 nothing to refresh daily, and therefore no cross-repo credential to manage. It is produced by
-`scripts/build_site_demo.py` in the private engine repo; regenerate it by running that script
-and copying the result here. Every figure comes from a real engine call and nothing is
-hand-typed.
+`scripts/build_site_demo.py` in the engine repo; regenerate it by running that script and
+copying the result here. Every figure comes from a real engine call and nothing is hand-typed,
+and the page labels it as a recorded snapshot — never as live output.
 
 <details>
 <summary><b>Provenance the page publishes for the engine snapshot</b></summary>
 
-Under *Live engine output → Provenance*, the page prints what produced the numbers:
+Under *Engine snapshot → Provenance*, the page prints what produced the numbers:
 engine `0.1.0`, Python `3.13.7`, NumPy `2.4.6`, the platform string, kernel fingerprints for
 `exp` / `log` / `ndtr` / `erf`, and the first 12 hex of each row's request hash
 (`european-analytic aba62526c8da…`, `european-mc 78fb2b3ace02…`, `american-pde 421281628658…`,
@@ -151,8 +173,8 @@ It is held honest rather than trusted:
   cross-check.
 
 Scope is deliberately narrow: **closed-form European vanillas under GBM**. Monte Carlo, the PDE
-solver, exotics and the AAD Greeks stay server-side in the real engine — that is what
-"coming soon" refers to.
+solver, exotics and the AAD Greeks stay server-side in the engine, which the live app calls
+over HTTP.
 
 ## 🚀 Quick start
 
@@ -171,7 +193,8 @@ stdlib-only.
 ## 🗂️ Project layout
 
 ```
-index.html                    the whole page — four sections, no framework
+index.html                    the whole page — hero, Learn/Research paths, Try it, Engine snapshot,
+                              What works today / Coming soon, Daily market feed — no framework
 assets/
   style.css                   design tokens shared with the main app
   bs.js                       closed-form Black–Scholes for the browser preview (132 lines)
@@ -195,35 +218,34 @@ docs/assets/                  README banner, screenshots and scroll GIF
 | Feed collector | Python 3.13 stdlib (`urllib` + `xml.etree`) | No `pip install` in CI, no secrets, immune to dependency releases |
 | Automation | GitHub Actions cron, `contents: write`, commit-if-changed | The only write permission this repo needs |
 | Hosting | GitHub Pages on `main` | Static output, zero infrastructure |
-| Engine (elsewhere) | Python + NumPy, JAX for the Greeks cross-check | Kept private; this page renders its committed output |
+| Engine (elsewhere) | Python + NumPy on Cloud Run; JAX available for the Greeks cross-check where installed | Runs behind the live app and API; this page renders a committed snapshot of its output |
 
-## 🗺️ Status & roadmap
+## 🗺️ Status
 
-The page itself is live and does what it says. The status below is the **engine's**, mirrored
-from the *Where it stands* section of the page:
+The page is live and does what it says. The capability inventory it publishes (*What works
+today / Coming soon*) is the source of truth for product status and is kept in step with the
+deployed app and API:
 
-- ✅ **Engine core** — closed-form Black–Scholes, chunked Monte Carlo with standard errors,
-  implied-vol solver, reproducible seeded draws
-- ✅ **Greeks** — hand-rolled AAD tape cross-verified against JAX and finite differences, with a
-  payoff-smoothness registry
-- ✅ **Model breadth** — Merton jump-diffusion and Heston stochastic volatility, anchored on
-  characteristic-function references
-- ✅ **American options** — Crank–Nicolson PDE with Rannacher startup, cross-checked against a
-  Longstaff–Schwartz bias sandwich
-- ✅ **Exotics & baskets** — Asian, barrier and lookback payoffs, variance reduction, correlated
-  multi-asset baskets
-- 🚧 **Public API & web app** — pricing endpoints and the browser front end, in progress. This
-  page is the preview of it.
-- 🔜 **Portfolios & risk** — VaR/CVaR with component risk decomposition
+- **In the app today** — pricing workbench (closed form, Monte Carlo, PDE, Longstaff–Schwartz
+  across GBM, Merton and Heston; European/American exercise; Asian, barrier, lookback, basket
+  and spread payoffs), Greeks panel with the finite-difference cross-check, CSV/JSON export and
+  copyable links, Methodology, Roadmap, Market Intel, Daily Rundown, Planner, and the HTTP API
+  (`/price`, `/greeks`, `/price/grid`) documented with OpenAPI.
+- **Coming soon, labelled as such** — dedicated Learn and Research entry pages, Excel workbook
+  download, live Excel refresh, platform-specific code export, daily strategy simulations, the
+  strategy-brief assistant, portfolios & risk. None of these is presented as a working control
+  and no dates are promised.
 
-Watch [ChinmayGit8765/quantflex](https://github.com/ChinmayGit8765/quantflex) for the engine
-release.
+When the app's `/learn` and `/research` routes are deployed and verified, the two hero CTAs and
+the two path-card buttons in `index.html` are the only hrefs to swap (see the comment above the
+hero CTAs).
 
 ## ⚠️ Not financial advice
 
 QuantFlex is an engineering and mathematics project. Nothing here is a recommendation to buy or
 sell any instrument, and the market headlines are third-party links reproduced from public
-syndication feeds.
+syndication feeds. QuantFlex does not buy, sell or redistribute market data — no OPRA, no
+options-flow feeds.
 
 ## 📄 License
 
