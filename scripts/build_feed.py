@@ -1,4 +1,4 @@
-"""Build the daily finance feed for the QuantFlex coming-soon page.
+"""Build the daily finance feed for the QuantFlex landing page.
 
 Deliberately stdlib-only (urllib + xml.etree) so the scheduled workflow needs no
 `pip install` step and cannot break on a dependency release. Mirrors the source

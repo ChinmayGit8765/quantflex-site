@@ -12,8 +12,8 @@
  * quietly showing wrong numbers.
  *
  * Scope: closed-form European vanillas under GBM. Monte Carlo, the PDE solver,
- * exotics and the AAD Greeks all stay server-side in the real engine — that is
- * exactly what the "coming soon" refers to.
+ * exotics and the AAD Greeks all stay server-side in the engine, which the live
+ * app at app.quantflex.dev calls over HTTP.
  */
 
 'use strict';

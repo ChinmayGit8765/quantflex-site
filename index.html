@@ -3,93 +3,255 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>QuantFlex — derivatives pricing &amp; risk engine</title>
-<meta name="description" content="A hand-built derivatives pricing and risk engine: Monte Carlo, PDE and AAD Greeks, validated against analytic anchors. In development.">
+<title>QuantFlex — price an option and see how the number was made</title>
+<meta name="description" content="QuantFlex is a derivatives pricing and risk workbench. Newcomers start with a guided calculation and plain-language explanations; researchers get full parameters, cross-checked Greeks and reproducible exports. Live app at app.quantflex.dev.">
+<meta name="theme-color" content="#0d1117">
+<meta property="og:title" content="QuantFlex — price an option and see how the number was made">
+<meta property="og:description" content="A derivatives pricing workbench with two entry paths: Learn for newcomers, Research for practitioners. Every price carries its inputs, seed and engine version.">
+<meta property="og:type" content="website">
 <link rel="stylesheet" href="assets/style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📐</text></svg>">
 </head>
 <body>
 
+<a class="skip-link" href="#main">Skip to content</a>
+
 <header class="site-header">
   <div class="wrap header-inner">
-    <div class="brand">
-      <span class="brand-mark">QF</span>
+    <a class="brand" href="#top" aria-label="QuantFlex home">
+      <span class="brand-mark" aria-hidden="true">QF</span>
       <span class="brand-name">QuantFlex</span>
-    </div>
-    <span class="badge badge-warn">In development</span>
+    </a>
+
+    <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="site-nav">
+      <span class="nav-toggle-bars" aria-hidden="true"></span>
+      <span class="nav-toggle-label">Menu</span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="Page sections">
+      <ul class="nav-list">
+        <li><a href="#paths">Learn &amp; Research</a></li>
+        <li><a href="#try">Try it</a></li>
+        <li><a href="#engine">Engine snapshot</a></li>
+        <li><a href="#status">What works today</a></li>
+        <li><a href="#feed">Market feed</a></li>
+      </ul>
+      <a class="btn btn-small btn-primary nav-cta" href="https://app.quantflex.dev/" rel="noopener">Open the app</a>
+    </nav>
   </div>
 </header>
 
-<main class="wrap">
+<main class="wrap" id="main">
 
-  <section class="hero">
-    <h1>A derivatives pricing engine, built by hand and <em>provably</em> correct.</h1>
+  <!-- ============================================================ hero -->
+  <section class="hero" id="top" aria-labelledby="hero-h">
+   <div class="hero-grid">
+   <div class="hero-copy">
+    <p class="eyebrow">Derivatives pricing &amp; risk · live web app · open methodology</p>
+    <h1 id="hero-h">Price an option. <em>See how the number was made.</em></h1>
     <p class="lede">
-      QuantFlex prices European vanillas, American options, path-dependent exotics
-      and multi-asset baskets under Black–Scholes, Merton jump-diffusion and Heston
-      stochastic volatility — via hand-rolled Monte Carlo and finite-difference PDE
-      solvers, with Greeks computed by automatic differentiation.
+      QuantFlex is a pricing workbench built by hand — Monte Carlo, finite-difference PDE
+      and automatic-differentiation Greeks, with no pricing library underneath. Every result
+      carries the exact inputs, seed and engine version that produced it, so you can check it,
+      change one thing, and run it again.
     </p>
     <p class="lede">
-      No pricing library is used for the numerics. Every price is checked against an
-      analytic anchor, and every Greek is derived three independent ways that must agree.
+      New to options? Start with a guided calculation and plain-language explanations.
+      Already pricing derivatives? Go straight to the full parameter set, the method notes
+      and the export.
     </p>
-    <div class="hero-note">
-      The public web app is still being built — this page is a preview of it. The
-      calculator below runs closed-form pricing in your browser; everything under
-      <a href="#demo">Live engine output</a> is real output from the engine itself,
-      produced at build time. Nothing here is a screenshot or hand-typed.
+
+    <!--
+      Two distinct entry paths. Both point at routes that exist in the deployed app today.
+      When the dedicated /learn and /research routes (EXA-53) are verified live, swap the
+      two hrefs below and in the path cards; nothing else needs to change.
+    -->
+    <div class="cta-row">
+      <a class="btn btn-primary btn-large" href="https://app.quantflex.dev/" rel="noopener">
+        Start with Learn
+        <span class="btn-sub">Guided first calculation</span>
+      </a>
+      <a class="btn btn-secondary btn-large" href="https://app.quantflex.dev/methodology" rel="noopener">
+        Go to Research
+        <span class="btn-sub">Methods, parameters, exports</span>
+      </a>
+    </div>
+    <p class="cta-note">
+      Both buttons open the live app at <span class="mono">app.quantflex.dev</span>. Learn
+      currently lands on the pricing workbench with its worked examples; Research lands on the
+      methodology notes. Dedicated <span class="mono">/learn</span> and
+      <span class="mono">/research</span> entry pages are being built and will be linked here
+      once they are deployed and verified — not before.
+    </p>
+   </div>
+
+    <!-- One instrument, two methods, the Greeks check — rendered from the committed
+         snapshot in data/demo.json and labelled as such. Never a live quote. -->
+    <aside class="hero-card" aria-labelledby="hero-card-h">
+      <div class="hero-card-head">
+        <span class="snap-badge">Engine snapshot</span>
+        <span class="hero-card-stamp mono" id="hero-card-stamp">loading…</span>
+      </div>
+      <h2 id="hero-card-h" class="hero-card-title">One put, priced two ways</h2>
+      <p class="hero-card-params mono" id="hero-card-params">spot · strike · σ · r · T</p>
+      <dl class="hero-card-rows" id="hero-card-rows">
+        <div><dt>Closed form</dt><dd class="mono">—</dd></div>
+        <div><dt>Monte Carlo</dt><dd class="mono">—</dd></div>
+      </dl>
+      <p class="hero-card-greeks" id="hero-card-greeks"></p>
+      <p class="hero-card-foot">
+        Recorded output, not a live quote. <a href="#engine">Full snapshot and provenance ↓</a>
+      </p>
+    </aside>
+   </div>
+
+    <ul class="fact-strip" aria-label="Key facts">
+      <li><span class="fact-k">Live app</span><a href="https://app.quantflex.dev/" rel="noopener" class="mono">app.quantflex.dev</a></li>
+      <li><span class="fact-k">Engine</span><span class="mono" id="hero-engine">version from snapshot</span></li>
+      <li><span class="fact-k">Market data</span><span>None sold, none scraped. No OPRA, no options-flow feeds.</span></li>
+      <li><span class="fact-k">Advice</span><span>None. This is an engineering and mathematics project.</span></li>
+    </ul>
+  </section>
+
+  <!-- ============================================================ paths -->
+  <section id="paths" aria-labelledby="paths-h">
+    <div class="section-head">
+      <h2 id="paths-h">Two ways in, one set of numbers</h2>
+      <p class="section-sub">
+        Different starting points, the same transparent calculations underneath. Nothing is
+        simplified away for newcomers — it is explained instead.
+      </p>
+    </div>
+
+    <div class="paths">
+      <article class="path path-learn" aria-labelledby="learn-h">
+        <div class="path-head">
+          <span class="path-tag">Learn</span>
+          <h3 id="learn-h">New to options? Start here.</h3>
+          <p class="path-lede">
+            A first calculation in a few minutes, with every term explained in ordinary words
+            and every assumption stated where you can see it.
+          </p>
+        </div>
+
+        <ol class="steps">
+          <li>
+            <strong>Pick a worked example.</strong>
+            An at-the-money call, a protective put, a short-dated high-vol case — each one
+            preset and priced.
+          </li>
+          <li>
+            <strong>Read what the price means.</strong>
+            What the option gives you, what you pay, and what the model assumes to get there.
+          </li>
+          <li>
+            <strong>Change one input.</strong>
+            Move the volatility or the expiry and watch the price and the Greeks respond.
+            The sliders below do exactly this, right on this page.
+          </li>
+          <li>
+            <strong>Keep the result.</strong>
+            Export CSV or JSON, or copy a link that reopens the same calculation with the
+            same inputs.
+          </li>
+        </ol>
+
+        <div class="path-foot">
+          <a class="btn btn-primary" href="https://app.quantflex.dev/" rel="noopener">Open the Learn path</a>
+          <a class="text-link" href="#try">or try a calculation on this page ↓</a>
+        </div>
+      </article>
+
+      <article class="path path-research" aria-labelledby="research-h">
+        <div class="path-head">
+          <span class="path-tag path-tag-research">Research</span>
+          <h3 id="research-h">Already pricing derivatives?</h3>
+          <p class="path-lede">
+            Full parameter control, method notes, and results you can reproduce
+            bit-for-bit from the export.
+          </p>
+        </div>
+
+        <ul class="feature-list">
+          <li>
+            <strong>Methods</strong> — closed form, Monte Carlo with standard error and 95% CI,
+            Crank–Nicolson PDE, Longstaff–Schwartz.
+          </li>
+          <li>
+            <strong>Models &amp; payoffs</strong> — GBM, Merton jump-diffusion, Heston;
+            European and American exercise; Asian, barrier, lookback, basket and spread payoffs.
+          </li>
+          <li>
+            <strong>Greeks with the check shown</strong> — AAD tape against finite differences,
+            per-Greek tolerance, and the disagreement flagged if it happens.
+          </li>
+          <li>
+            <strong>Reproducibility</strong> — inputs, seed, engine version and request hash
+            travel with every result; CSV/JSON export; copyable links.
+          </li>
+          <li>
+            <strong>API</strong> — the same engine over HTTP, documented with OpenAPI.
+          </li>
+        </ul>
+
+        <div class="path-foot">
+          <a class="btn btn-secondary" href="https://app.quantflex.dev/methodology" rel="noopener">Open the Research path</a>
+          <a class="text-link" href="https://api.quantflex.dev/docs" rel="noopener">API reference</a>
+        </div>
+      </article>
     </div>
   </section>
 
+  <!-- ============================================================ try -->
   <section id="try" aria-labelledby="try-h">
     <div class="section-head">
-      <h2 id="try-h">Try it</h2>
+      <h2 id="try-h">Try it — a first calculation, in your browser</h2>
       <p class="section-sub">
-        A working preview of the pricing surface. Move anything and the price,
-        the Greeks and the payoff all recompute as you go.
+        This is the closed-form Black–Scholes price of a European option. Move anything and
+        the price, the Greeks and the payoff diagram recompute instantly. Nothing is sent
+        anywhere; it runs here.
       </p>
     </div>
 
     <div class="calc">
-      <form class="calc-inputs" id="calc-form" autocomplete="off">
+      <form class="calc-inputs" id="calc-form" autocomplete="off" aria-label="Option inputs">
         <div class="field">
           <label for="in-kind">Option</label>
           <div class="toggle" role="group" aria-label="Option type">
-            <button type="button" class="toggle-btn is-active" data-kind="call">Call</button>
-            <button type="button" class="toggle-btn" data-kind="put">Put</button>
+            <button type="button" class="toggle-btn is-active" data-kind="call" aria-pressed="true">Call</button>
+            <button type="button" class="toggle-btn" data-kind="put" aria-pressed="false">Put</button>
           </div>
           <input type="hidden" id="in-kind" value="call">
         </div>
 
         <div class="field">
-          <label for="in-spot">Spot <output id="out-spot" class="mono"></output></label>
+          <label for="in-spot">Spot <output id="out-spot" class="mono" for="in-spot"></output></label>
           <input type="range" id="in-spot" min="40" max="180" step="0.5" value="100">
         </div>
         <div class="field">
-          <label for="in-strike">Strike <output id="out-strike" class="mono"></output></label>
+          <label for="in-strike">Strike <output id="out-strike" class="mono" for="in-strike"></output></label>
           <input type="range" id="in-strike" min="40" max="180" step="0.5" value="100">
         </div>
         <div class="field">
-          <label for="in-sigma">Volatility <output id="out-sigma" class="mono"></output></label>
+          <label for="in-sigma">Volatility <output id="out-sigma" class="mono" for="in-sigma"></output></label>
           <input type="range" id="in-sigma" min="1" max="120" step="0.5" value="20">
         </div>
         <div class="field">
-          <label for="in-expiry">Time to expiry <output id="out-expiry" class="mono"></output></label>
+          <label for="in-expiry">Time to expiry <output id="out-expiry" class="mono" for="in-expiry"></output></label>
           <input type="range" id="in-expiry" min="0.02" max="3" step="0.01" value="1">
         </div>
         <div class="field">
-          <label for="in-rate">Risk-free rate <output id="out-rate" class="mono"></output></label>
+          <label for="in-rate">Risk-free rate <output id="out-rate" class="mono" for="in-rate"></output></label>
           <input type="range" id="in-rate" min="0" max="12" step="0.1" value="5">
         </div>
         <div class="field">
-          <label for="in-div">Dividend yield <output id="out-div" class="mono"></output></label>
+          <label for="in-div">Dividend yield <output id="out-div" class="mono" for="in-div"></output></label>
           <input type="range" id="in-div" min="0" max="8" step="0.1" value="0">
         </div>
         <button type="button" id="calc-reset" class="chip">Reset to base case</button>
       </form>
 
-      <div class="calc-output">
+      <div class="calc-output" aria-live="polite">
         <div class="price-hero">
           <div class="stat-label">Price</div>
           <div id="out-price" class="price-value mono">—</div>
@@ -102,27 +264,70 @@
     <div id="payoff" class="chart"></div>
 
     <p id="calc-check" class="check-badge"></p>
+
+    <details class="explain">
+      <summary>What am I looking at? Plain-language notes</summary>
+      <div class="explain-body">
+        <dl class="glossary">
+          <dt>Price</dt>
+          <dd>What the model says the option is worth today, per unit of the underlying, in the same currency as spot and strike.</dd>
+          <dt>Spot / Strike</dt>
+          <dd>Spot is the price of the underlying asset now. Strike is the price the option lets you buy (call) or sell (put) at.</dd>
+          <dt>Volatility</dt>
+          <dd>How much the underlying is assumed to move, as an annualised percentage. Higher volatility makes both calls and puts worth more.</dd>
+          <dt>Delta</dt>
+          <dd>How much the option price changes if spot moves by $1.</dd>
+          <dt>Gamma</dt>
+          <dd>How much delta itself changes if spot moves by $1 — the curvature.</dd>
+          <dt>Vega</dt>
+          <dd>How much the price changes if volatility moves by one percentage point.</dd>
+          <dt>Theta</dt>
+          <dd>How much value the option loses per calendar day, all else equal.</dd>
+          <dt>Rho</dt>
+          <dd>How much the price changes if the risk-free rate moves by one percentage point.</dd>
+        </dl>
+        <p class="prose">
+          <strong>Assumptions on this page:</strong> the underlying follows geometric Brownian
+          motion with constant volatility and rates, there are no transaction costs, and the
+          option can only be exercised at expiry (European). Those are the Black–Scholes
+          assumptions; they are convenient, not true. The full app lets you relax them —
+          jump-diffusion, stochastic volatility, early exercise — and see how much the price moves.
+        </p>
+      </div>
+    </details>
   </section>
 
-  <section id="demo" aria-labelledby="demo-h">
+  <!-- ============================================================ engine -->
+  <section id="engine" aria-labelledby="engine-h">
     <div class="section-head">
-      <h2 id="demo-h">Live engine output</h2>
+      <h2 id="engine-h">Engine snapshot — real output, recorded, not live</h2>
       <p class="section-sub">
-        Generated by running the engine itself. Fixed seeds make every figure exactly
-        reproducible; each row carries the request hash that identifies it.
+        The tables below are genuine output from the pricing engine, committed to this site
+        as a fixed snapshot. They are not market data and they do not update on a schedule:
+        the engine is deterministic under fixed seeds, so these figures change only when the
+        engine changes.
       </p>
     </div>
 
-    <div id="demo-status" class="status" role="status">Loading engine output…</div>
+    <dl class="sample-label" id="sample-label" aria-label="Sample provenance">
+      <div><dt>Source</dt><dd>Engine <span class="mono">price()</span> / <span class="mono">greeks()</span> calls, run at build time into <span class="mono">data/demo.json</span></dd></div>
+      <div><dt>Recorded</dt><dd id="sample-recorded" class="mono">loading…</dd></div>
+      <div><dt>Engine version</dt><dd id="sample-engine" class="mono">loading…</dd></div>
+      <div><dt>Parameters</dt><dd id="sample-params" class="mono">loading…</dd></div>
+    </dl>
+
+    <div id="demo-status" class="status" role="status">Loading engine snapshot…</div>
 
     <div id="demo-body" hidden>
       <h3 class="sub">One book, five methods</h3>
       <p class="prose">
-        The same underlying — spot 100, strike 100, 20% vol, 5% rate, one year —
-        priced across the model and method surface the engine supports.
+        The same underlying priced across the model and method surface. Monte Carlo rows carry
+        a standard error and a 95% confidence interval; closed-form and PDE rows are exact for
+        their method.
       </p>
       <div class="table-scroll">
         <table id="showcase">
+          <caption class="visually-hidden">Prices of the base-case option by method and model, with standard error and confidence interval where applicable</caption>
           <thead>
             <tr>
               <th scope="col">Instrument</th>
@@ -137,15 +342,18 @@
       </div>
       <div id="showcase-notes" class="notes"></div>
 
-      <h3 class="sub">Greeks, derived three ways</h3>
+      <h3 class="sub">Greeks, cross-checked</h3>
       <p class="prose">
-        This is the part that is hard to fake. Each Greek is computed by a hand-written
-        reverse-mode AAD tape, independently by JAX, and again by central finite
-        differences with common random numbers. All three must agree to a tolerance that
-        was <em>measured</em> and then locked — never widened to make a test pass.
+        Each Greek is computed by a hand-written reverse-mode AAD tape and independently by
+        central finite differences with common random numbers; on the machine that produced
+        this snapshot a third check by JAX was also available. Each row states the tolerance
+        it was held to. Where a check is unavailable the cell says so, and where the methods
+        disagree the row is flagged rather than hidden.
       </p>
+      <p id="greeks-summary" class="agree-summary" role="status"></p>
       <div class="table-scroll">
         <table id="greeks">
+          <caption class="visually-hidden">Greeks of the base-case put by AAD tape, JAX and finite differences, with tolerance and agreement</caption>
           <thead>
             <tr>
               <th scope="col">Greek</th>
@@ -159,16 +367,22 @@
           <tbody></tbody>
         </table>
       </div>
+      <p class="prose note-inline">
+        In the live API the JAX column is <span class="mono">n/a</span>: server-side verification
+        is AAD against finite differences. The claim is not that every Greek everywhere is checked
+        three ways — it is that whatever checks ran are shown, with their tolerances.
+      </p>
 
       <h3 class="sub">Monte Carlo convergence</h3>
       <p class="prose">
-        Standard error against path count for the European put, with the closed-form
-        Black–Scholes value as the reference line. The shaded band is ±1.96 standard
-        errors — it should narrow as <span class="mono">1/√N</span>.
+        Standard error against path count for the European put, with the closed-form value as
+        the reference line. The shaded band is ±1.96 standard errors — it should narrow as
+        <span class="mono">1/√N</span>.
       </p>
       <div id="convergence" class="chart"></div>
       <div class="table-scroll">
         <table id="convergence-table">
+          <caption class="visually-hidden">Monte Carlo estimate, standard error and error versus closed form at each path count</caption>
           <thead>
             <tr>
               <th scope="col" class="num">Paths</th>
@@ -183,8 +397,8 @@
 
       <h3 class="sub">Implied volatility round-trip</h3>
       <p class="prose">
-        Price → σ → price. The solver recovers the input volatility, and repricing at
-        the recovered σ returns the original price.
+        Price → σ → price. The solver recovers the input volatility, and repricing at the
+        recovered σ returns the original price.
       </p>
       <div id="ivol" class="stat-row"></div>
 
@@ -195,12 +409,116 @@
     </div>
   </section>
 
+  <!-- ============================================================ status -->
+  <section id="status" aria-labelledby="status-h">
+    <div class="section-head">
+      <h2 id="status-h">What works today, and what is coming</h2>
+      <p class="section-sub">
+        An honest inventory. Everything on the left is in the live app now. Everything on the
+        right is planned, not built — nothing there is a button, and no dates are promised.
+      </p>
+    </div>
+
+    <div class="status-grid">
+      <div class="status-col">
+        <h3 class="status-col-h"><span class="dot dot-live" aria-hidden="true"></span>In the app today</h3>
+        <ul class="status-list">
+          <li>
+            <strong>Pricing workbench</strong> — closed form, Monte Carlo, PDE and Longstaff–Schwartz
+            across GBM, Merton and Heston, with worked-example presets.
+            <a href="https://app.quantflex.dev/" rel="noopener">Open</a>
+          </li>
+          <li>
+            <strong>Greeks panel</strong> — AAD values with the finite-difference cross-check and
+            per-Greek tolerance displayed.
+          </li>
+          <li>
+            <strong>Exports &amp; links</strong> — CSV and JSON download of a result with its inputs,
+            seed, engine version and request hash; copyable links that reopen the same calculation.
+          </li>
+          <li>
+            <strong>Methodology &amp; roadmap</strong> — how each method works and what is anchored
+            against what.
+            <a href="https://app.quantflex.dev/methodology" rel="noopener">Methodology</a> ·
+            <a href="https://app.quantflex.dev/roadmap" rel="noopener">Roadmap</a>
+          </li>
+          <li>
+            <strong>Market Intel &amp; Daily Rundown</strong> — a daily digest of public finance
+            headlines and a daily analysis narrative, with an optional weekly email.
+            <a href="https://app.quantflex.dev/intel" rel="noopener">Intel</a> ·
+            <a href="https://app.quantflex.dev/rundown" rel="noopener">Rundown</a>
+          </li>
+          <li>
+            <strong>Planner</strong> — savings and allocation planning with clearly flagged estimates.
+            <a href="https://app.quantflex.dev/planner" rel="noopener">Planner</a>
+          </li>
+          <li>
+            <strong>HTTP API</strong> — <span class="mono">/price</span>, <span class="mono">/greeks</span>
+            and a spot × vol grid, documented with OpenAPI.
+            <a href="https://api.quantflex.dev/docs" rel="noopener">API docs</a>
+          </li>
+          <li>
+            <strong>This page's market feed</strong> — public headlines collected once a day,
+            <a href="#feed">below</a>.
+          </li>
+        </ul>
+      </div>
+
+      <div class="status-col status-col-soon" aria-labelledby="soon-h">
+        <h3 class="status-col-h" id="soon-h"><span class="dot dot-soon" aria-hidden="true"></span>Coming soon — not yet built</h3>
+        <ul class="status-list soon-list">
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Dedicated Learn and Research entry pages</strong> in the app. Until they are
+            deployed, the buttons on this page use the existing pricing and methodology routes.
+          </li>
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Excel workbook download</strong> with Inputs, Results and Provenance sheets.
+            Today's CSV/JSON export is the baseline; a native workbook is a separate deliverable.
+          </li>
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Live Excel refresh</strong> — a read-only data connection from a supported
+            Excel to the API. Distinct from a download, and not started.
+          </li>
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Platform- and firm-specific code export</strong> — reproducible research code
+            first, adapters for named platforms after; no certification claimed.
+          </li>
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Daily strategy simulations</strong> — paper-only, fixed seeds, declared costs,
+            with failed and skipped runs shown alongside results.
+          </li>
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Strategy brief assistant</strong> — turns a plain-language bot idea into a typed,
+            editable specification with a validator. No live orders, no broker credentials.
+          </li>
+          <li>
+            <span class="soon-badge">Coming soon</span>
+            <strong>Portfolios &amp; risk</strong> — VaR/CVaR with component decomposition.
+          </li>
+        </ul>
+        <p class="soon-note">
+          Nothing in this column is interactive on purpose. If a feature is not here yet, this
+          site will not pretend it is.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ feed -->
   <section id="feed" aria-labelledby="feed-h">
     <div class="section-head">
       <h2 id="feed-h">Daily market feed</h2>
       <p class="section-sub">
-        A scheduled job collects headlines from public finance feeds once a day. This is
-        a small preview of the Market Intel pipeline being built into the product.
+        A scheduled job collects headlines from public finance syndication feeds once a day and
+        commits them here. Third-party links, filtered by category — not analysis, not advice.
+        The app's <a href="https://app.quantflex.dev/rundown" rel="noopener">Daily Rundown</a>
+        is where the weekly email digest lives.
       </p>
     </div>
 
@@ -208,10 +526,10 @@
 
     <div id="feed-body" hidden>
       <div class="filters" role="group" aria-label="Filter by category">
-        <button type="button" class="chip is-active" data-cat="all">All</button>
-        <button type="button" class="chip" data-cat="stocks">Stocks</button>
-        <button type="button" class="chip" data-cat="crypto">Crypto</button>
-        <button type="button" class="chip" data-cat="gold">Gold</button>
+        <button type="button" class="chip is-active" data-cat="all" aria-pressed="true">All</button>
+        <button type="button" class="chip" data-cat="stocks" aria-pressed="false">Stocks</button>
+        <button type="button" class="chip" data-cat="crypto" aria-pressed="false">Crypto</button>
+        <button type="button" class="chip" data-cat="gold" aria-pressed="false">Gold</button>
       </div>
       <ul id="feed-list" class="feed-list"></ul>
       <details class="provenance">
@@ -221,32 +539,22 @@
     </div>
   </section>
 
-  <section id="status" aria-labelledby="status-h">
-    <div class="section-head">
-      <h2 id="status-h">Where it stands</h2>
-    </div>
-    <ul class="roadmap">
-      <li class="done"><strong>Engine core</strong> — closed-form Black–Scholes, chunked Monte Carlo with standard errors, implied-vol solver, reproducible seeded draws</li>
-      <li class="done"><strong>Greeks</strong> — hand-rolled AAD tape cross-verified against JAX and finite differences, with a payoff-smoothness registry</li>
-      <li class="done"><strong>Model breadth</strong> — Merton jump-diffusion and Heston stochastic volatility, anchored on characteristic-function references</li>
-      <li class="done"><strong>American options</strong> — Crank–Nicolson PDE with Rannacher startup, cross-checked against a Longstaff–Schwartz bias sandwich</li>
-      <li class="done"><strong>Exotics &amp; baskets</strong> — Asian, barrier and lookback payoffs, variance reduction, correlated multi-asset baskets</li>
-      <li class="wip"><strong>Public API &amp; web app</strong> — pricing endpoints and the browser front end, in progress</li>
-      <li class="next"><strong>Portfolios &amp; risk</strong> — VaR/CVaR with component risk decomposition</li>
-    </ul>
-  </section>
-
 </main>
 
 <footer class="site-footer">
   <div class="wrap">
     <p class="disclaimer">
       <strong>Not financial advice.</strong> QuantFlex is an engineering and mathematics
-      project. Nothing here is a recommendation to buy or sell any instrument, and the
-      market headlines are third-party links reproduced from public syndication feeds.
+      project. Nothing here is a recommendation to buy or sell any instrument. Prices on this
+      page are model outputs for illustrative parameters, not quotes. The market headlines are
+      third-party links reproduced from public syndication feeds. QuantFlex does not buy, sell
+      or redistribute market data — no OPRA, no options-flow feeds.
     </p>
     <p class="colophon">
-      Built by Chinmay Purohit · <span id="footer-engine" class="mono"></span>
+      Built by <a href="https://github.com/ChinmayGit8765" rel="noopener">Chinmay Purohit</a>
+      · <a href="https://github.com/ChinmayGit8765/quantflex-site" rel="noopener">this page's source</a>
+      · <a href="https://github.com/ChinmayGit8765/quantflex" rel="noopener">engine repository</a>
+      · <span id="footer-engine" class="mono"></span>
     </p>
   </div>
 </footer>
