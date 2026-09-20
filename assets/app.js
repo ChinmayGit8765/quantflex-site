@@ -1,12 +1,37 @@
-/* QuantFlex coming-soon page.
-   Renders two committed JSON payloads: data/demo.json (engine output, produced
-   by scripts/build_site_demo.py in the private repo) and data/feed.json
-   (rewritten daily by the scheduled workflow). No dependencies, no network
-   calls beyond those two same-origin fetches. */
+/* QuantFlex landing page.
+   Renders two committed JSON payloads: data/demo.json (a fixed engine-output
+   snapshot, produced by scripts/build_site_demo.py in the engine repo) and
+   data/feed.json (rewritten daily by the scheduled workflow). No dependencies,
+   no network calls beyond those two same-origin fetches. */
 
 'use strict';
 
 const $ = (sel) => document.querySelector(sel);
+
+/* ---------- navigation ---------- */
+
+function initNav() {
+  const toggle = $('#nav-toggle');
+  const nav = $('#site-nav');
+  if (!toggle || !nav) return;
+
+  const setOpen = (open) => {
+    nav.classList.toggle('is-open', open);
+    toggle.setAttribute('aria-expanded', String(open));
+  };
+
+  toggle.addEventListener('click', () => setOpen(!nav.classList.contains('is-open')));
+
+  // Close after choosing a section so the sticky header does not cover it.
+  nav.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setOpen(false)));
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && nav.classList.contains('is-open')) {
+      setOpen(false);
+      toggle.focus();
+    }
+  });
+}
 
 /* ---------- formatting ---------- */
 
@@ -106,8 +131,9 @@ function renderShowcaseNotes(rows) {
 function renderGreeks(greeks) {
   const tbody = $('#greeks tbody');
   tbody.replaceChildren();
-  greeks.verification.forEach((row) => {
-    const tr = el('tr');
+  const rows = greeks.verification;
+  rows.forEach((row) => {
+    const tr = el('tr', row.passed ? '' : 'row-fail');
     tr.append(el('td', 'cell-label', row.greek));
     tr.append(el('td', 'num', fmt(row.aad, 10)));
     tr.append(el('td', 'num ' + (row.jax === null ? 'dim' : ''), row.jax === null ? 'n/a' : fmt(row.jax, 10)));
@@ -116,6 +142,26 @@ function renderGreeks(greeks) {
     tr.append(el('td', row.passed ? 'pass' : 'fail', row.passed ? '✓ agree' : '✗ differ'));
     tbody.append(tr);
   });
+
+  // Say out loud whether the checks agreed, and how many ways each was checked.
+  // Disagreement is the headline, never something to scroll past.
+  const summary = $('#greeks-summary');
+  if (!summary) return;
+  const failed = rows.filter((r) => !r.passed);
+  const withJax = rows.filter((r) => r.jax !== null && r.jax !== undefined).length;
+  const ways = withJax === rows.length ? 'three ways (AAD, JAX, finite differences)'
+    : withJax === 0 ? 'two ways (AAD, finite differences)'
+    : `two ways, ${withJax} of ${rows.length} also by JAX`;
+  if (failed.length) {
+    summary.className = 'agree-summary fail';
+    summary.textContent =
+      `${failed.length} of ${rows.length} Greeks disagree beyond tolerance in this snapshot ` +
+      `(${failed.map((r) => r.greek).join(', ')}) — highlighted below. Checked ${ways}.`;
+  } else {
+    summary.className = 'agree-summary ok';
+    summary.textContent =
+      `All ${rows.length} Greeks in this snapshot agree within their stated tolerances. Checked ${ways}.`;
+  }
 }
 
 function renderConvergence(conv) {
@@ -225,11 +271,84 @@ function renderIvol(iv) {
   });
 }
 
+function humanStamp(iso) {
+  return iso.replace('T', ' ').replace('+00:00', ' UTC');
+}
+
+/* The sample label sits above the tables and states source, date and
+   parameters so the snapshot can never be mistaken for a live quote. */
+function renderSampleLabel(demo) {
+  const b = demo.base_case;
+  const recorded = $('#sample-recorded');
+  const engine = $('#sample-engine');
+  const params = $('#sample-params');
+  if (recorded) recorded.textContent = humanStamp(demo.generated);
+  if (engine) engine.textContent = `${demo.engine_version} · Python ${demo.provenance.python} · NumPy ${demo.provenance.numpy}`;
+  if (params && b) {
+    params.textContent =
+      `spot ${b.spot} · strike ${b.strike} · σ ${(b.sigma * 100).toFixed(0)}% · r ${(b.rate * 100).toFixed(0)}% · ` +
+      `q ${(b.div_yield * 100).toFixed(0)}% · T ${b.expiry}y · seed ${demo.convergence.seed}`;
+  }
+  const heroEngine = $('#hero-engine');
+  if (heroEngine) heroEngine.textContent = `${demo.engine_version} · snapshot ${demo.generated.slice(0, 10)}`;
+}
+
+/* Hero card: the same European put by closed form and Monte Carlo, plus the
+   Greeks agreement count. Everything comes from the snapshot and is labelled
+   with its date; if a check failed, the card says so in red. */
+function renderHeroCard(demo) {
+  const stamp = $('#hero-card-stamp');
+  const params = $('#hero-card-params');
+  const rows = $('#hero-card-rows');
+  const greeks = $('#hero-card-greeks');
+  if (!stamp || !params || !rows || !greeks) return;
+
+  const b = demo.base_case;
+  stamp.textContent = `recorded ${demo.generated.slice(0, 10)} · engine ${demo.engine_version}`;
+  params.textContent =
+    `spot ${b.spot} · strike ${b.strike} · σ ${(b.sigma * 100).toFixed(0)}% · r ${(b.rate * 100).toFixed(0)}% · T ${b.expiry}y`;
+
+  const analytic = demo.showcase.find((r) => r.id === 'european-analytic');
+  const mc = demo.showcase.find((r) => r.id === 'european-mc');
+  rows.replaceChildren();
+
+  const addRow = (label, value, sub) => {
+    const wrap = el('div');
+    wrap.append(el('dt', null, label));
+    wrap.append(el('dd', 'mono', value));
+    if (sub) wrap.append(el('div', 'row-sub', sub));
+    rows.append(wrap);
+  };
+  if (analytic) addRow('Closed form', fmt(analytic.price), 'Black–Scholes · exact');
+  if (mc) {
+    const within = mc.within_anchor;
+    addRow(
+      'Monte Carlo',
+      `${fmt(mc.price)} ± ${fmt(mc.stderr)}`,
+      `${intFmt(mc.n_paths)} paths · seed ${mc.seed} · ${mc.se_distance.toFixed(2)} SE from closed form` +
+      (within ? ` — within the ${mc.anchor_k_se} SE anchor` : ` — OUTSIDE the ${mc.anchor_k_se} SE anchor`)
+    );
+    if (!within) rows.lastElementChild.classList.add('row-fail');
+  }
+
+  const v = demo.greeks.verification;
+  const failed = v.filter((r) => !r.passed).length;
+  const checks = ['AAD', v.every((r) => r.jax !== null) ? 'JAX' : null, 'FD'].filter(Boolean).join(' · ');
+  greeks.replaceChildren();
+  greeks.className = 'hero-card-greeks ' + (failed ? 'fail' : 'ok');
+  greeks.append(el('span', 'greek-letters', 'Δ Γ ν Θ ρ'));
+  greeks.append(document.createTextNode(
+    failed
+      ? `${failed} of ${v.length} Greeks disagree beyond tolerance (${checks})`
+      : `${v.length} of ${v.length} Greeks agree within tolerance (${checks})`
+  ));
+}
+
 function renderProvenance(demo) {
   const p = demo.provenance;
   const dl = el('dl', 'kv');
   const add = (k, v) => { dl.append(el('dt', null, k)); dl.append(el('dd', null, v)); };
-  add('Generated', demo.generated.replace('T', ' ').replace('+00:00', ' UTC'));
+  add('Generated', humanStamp(demo.generated));
   add('Engine', demo.engine_version);
   add('Python', p.python);
   add('NumPy', p.numpy);
@@ -384,12 +503,19 @@ function recalc() {
   renderPayoff(inp, r);
 }
 
+function setKind(kind) {
+  $('#in-kind').value = kind;
+  document.querySelectorAll('.toggle-btn').forEach((b) => {
+    const active = b.dataset.kind === kind;
+    b.classList.toggle('is-active', active);
+    b.setAttribute('aria-pressed', String(active));
+  });
+}
+
 function initCalc(demo) {
   document.querySelectorAll('.toggle-btn').forEach((btn) => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.toggle-btn').forEach((b) => b.classList.remove('is-active'));
-      btn.classList.add('is-active');
-      $('#in-kind').value = btn.dataset.kind;
+      setKind(btn.dataset.kind);
       recalc();
     });
   });
@@ -405,9 +531,7 @@ function initCalc(demo) {
     $('#in-expiry').value = CALC_DEFAULTS.expiry;
     $('#in-rate').value = CALC_DEFAULTS.rate;
     $('#in-div').value = CALC_DEFAULTS.div;
-    $('#in-kind').value = CALC_DEFAULTS.kind;
-    document.querySelectorAll('.toggle-btn').forEach((b) =>
-      b.classList.toggle('is-active', b.dataset.kind === CALC_DEFAULTS.kind));
+    setKind(CALC_DEFAULTS.kind);
     recalc();
   });
 
@@ -492,12 +616,16 @@ async function load(path) {
 }
 
 (async () => {
+  initNav();
+
   // The calculator is self-contained, so it must come up even if the committed
   // engine payload is unreachable — it only needs demo.json for the
   // cross-check figure.
   let demo = null;
   try {
     demo = await load('data/demo.json');
+    renderSampleLabel(demo);
+    renderHeroCard(demo);
     renderShowcase(demo.showcase);
     renderShowcaseNotes(demo.showcase);
     renderGreeks(demo.greeks);
@@ -508,8 +636,13 @@ async function load(path) {
     $('#demo-body').hidden = false;
   } catch (err) {
     const box = $('#demo-status');
-    box.textContent = `Could not load engine output — ${err.message}`;
+    box.textContent = `Could not load the engine snapshot — ${err.message}`;
     box.classList.add('is-error');
+    ['#sample-recorded', '#sample-engine', '#sample-params', '#hero-engine', '#hero-card-stamp', '#hero-card-params']
+      .forEach((sel) => {
+        const node = $(sel);
+        if (node) node.textContent = 'unavailable';
+      });
   }
 
   try {
@@ -527,10 +660,13 @@ async function load(path) {
     $('#feed-status').hidden = true;
     $('#feed-body').hidden = false;
 
-    document.querySelectorAll('.chip').forEach((chip) => {
+    document.querySelectorAll('.chip[data-cat]').forEach((chip) => {
       chip.addEventListener('click', () => {
-        document.querySelectorAll('.chip').forEach((c) => c.classList.remove('is-active'));
-        chip.classList.add('is-active');
+        document.querySelectorAll('.chip[data-cat]').forEach((c) => {
+          const active = c === chip;
+          c.classList.toggle('is-active', active);
+          c.setAttribute('aria-pressed', String(active));
+        });
         renderFeed(chip.dataset.cat);
       });
     });
