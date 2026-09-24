@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-23T06:40:46+00:00",
+  "generated": "2026-09-24T06:41:29+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 14,
-    "crypto": 12,
+    "stocks": 16,
+    "crypto": 10,
     "gold": 4
   },
   "sources": [
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 5
+      "items": 6
     }
   ],
   "items": [
     {
-      "title": "Solstice Minerals CEO speaks with Proactive at the ASX SMIDcaps Conference",
-      "link": "https://finance.yahoo.com/video/solstice-minerals-ceo-speaks-proactive-061618669.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-23T06:16:18+00:00",
-      "summary": "Solstice Minerals (ASX:SLS) CEO Nick Castleden talked with Proactive at the ASX Small and Mid-Cap Conference about the company\u2019s flagship Nanadie Copper-Gold Project. Solstice is a copper and gold explorer led by chairman Matthew Yates and managing director and CEO Nick Castleden"
-    },
-    {
-      "title": "CNBC Daily Open: Nothing artificial about 'Super Intelligence'",
-      "link": "https://www.cnbc.com/2026/09/23/trump-super-intelligence-artificial-intelligence.html",
+      "title": "Tehran criticizes Canada for not condemning Trump's threat to destroy Iran",
+      "link": "https://www.cnbc.com/2026/09/24/us-iran-war-trump-hormuz-canada-carney-bessent.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-23T06:10:07+00:00",
-      "summary": "President Donald Trump seeks to rebrand AI ahead of his meeting with China's Xi Jinping, while rejecting a \"globalist scheme\" to regulate the technology."
+      "published": "2026-09-24T06:39:55+00:00",
+      "summary": "Baqaei said that Carney chose to appease Washington by reframing a threat to \"annihilate\" Iran as merely \"speaking the language of war.\""
     },
     {
-      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege \u2014 not a right'",
-      "link": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-24T06:33:23+00:00",
+      "summary": "Washington is a mulling plan to actively promote USD-backed stablecoins worldwide in a bid to cement the greenback's global reserve status."
+    },
+    {
+      "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+      "link": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-23T05:49:57+00:00",
-      "summary": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House."
+      "published": "2026-09-24T06:22:46+00:00",
+      "summary": "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18."
+    },
+    {
+      "title": "Novo's new strategy hinges on something it can't manufacture: investor trust",
+      "link": "https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-24T06:20:12+00:00",
+      "summary": "Novo has now reached the point where it can broaden its ambitions again, CEO Mike Doustdar told CNBC, but investors remain unconvinced."
+    },
+    {
+      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+      "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-24T05:24:56+00:00",
+      "summary": "StarkWare, which conducted the research, says contest participants using AI tools made the computation about five times faster, though the $66 figure has not yet been demonstrated in another transaction mined on Bitcoin."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-23T05:43:01+00:00",
+      "published": "2026-09-24T05:23:34+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
-      "link": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-23T05:37:48+00:00",
-      "summary": "Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp."
+      "published": "2026-09-24T04:55:59+00:00",
+      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables."
     },
     {
-      "title": "US Treasury secretary emerges as frontrunner for Trump\u2019s AI czar role: Report",
-      "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin\u2019s \u2018last resort\u2019 quantum-safe solution just got 79% cheaper: StarkWare",
+      "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-23T05:34:49+00:00",
-      "summary": "US President Donald Trump previously tapped David Sacks as his AI and crypto czar before Sacks stepped down from the role earlier this year after reaching his service limit as a special government employee."
+      "published": "2026-09-24T04:52:40+00:00",
+      "summary": "A weeklong optimization challenge cut the estimated GPU cost of preparing an experimental quantum-resistant Bitcoin transaction to under $67, potentially making the \u201clast-resort measure\u201d a little easier on the wallet."
     },
     {
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-23T05:22:21+00:00",
-      "summary": "SlowMist said malicious FomoPeek versions distributed through Apple\u2019s App Store used iOS kernel exploits to escape the sandbox and access sensitive data from other apps."
+      "published": "2026-09-24T04:44:12+00:00",
+      "summary": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins."
     },
     {
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-23T05:16:22+00:00",
-      "summary": "Alpenglow would let exchanges, bridges and merchants treat payments as irreversible almost immediately."
-    },
-    {
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-23T05:12:42+00:00",
-      "summary": "Bitcoin\u2019s 10% September gain puts it on track for a rare three-month winning streak last seen in 2012."
-    },
-    {
-      "title": "AI potential to drive crypto demand remains \u2018underappreciated\u2019: BlackRock",
-      "link": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-23T04:33:18+00:00",
-      "summary": "BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized computing capacity could create another opportunity for digital assets."
-    },
-    {
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-23T04:10:08+00:00",
-      "summary": "Falling oil eased inflation worries through the Asian session, while a bill to make the government's bitcoin stockpile permanent moved further through Congress than any before it."
-    },
-    {
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-23T03:33:15+00:00",
-      "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security."
-    },
-    {
-      "title": "In photos: Key takeaways from day one of the UN General Assembly",
-      "link": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+      "title": "OpenAI says agent hacked Australian government website without being told to do so",
+      "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-23T03:13:02+00:00",
-      "summary": "World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI."
+      "published": "2026-09-24T04:34:13+00:00",
+      "summary": "An OpenAI agent gained unauthorized access to an Australian government website while attempting to gather health data."
     },
     {
-      "title": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
-      "link": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-24T04:13:01+00:00",
+      "summary": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses."
+    },
+    {
+      "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'",
+      "link": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-23T03:08:23+00:00",
-      "summary": "South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit."
+      "published": "2026-09-24T03:38:03+00:00",
+      "summary": "A run of new chips and AI models from national champions gives Chinese President Xi Jinping a confidence boost, as the U.S. summit gets underway."
+    },
+    {
+      "title": "Top Wall Street firm resets gold price target for 2030",
+      "link": "https://www.thestreet.com/investing/bernstein-resets-gold-price-target-2030?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-24T01:37:00+00:00",
+      "summary": "The reason this firm just moved its gold forecast is worth paying attention to."
+    },
+    {
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+      "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-24T01:16:34+00:00",
+      "summary": "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong."
+    },
+    {
+      "title": "Kalshi says CFTC hasn\u2019t contacted it over \u2018unusual\u2019 $5B trading activity",
+      "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-24T00:53:09+00:00",
+      "summary": "Kalshi said nearly $5 billion in similarly sized Ether perpetual trades reflected its liquidity incentive programs and rejected allegations that the activity was wash trading."
+    },
+    {
+      "title": "AuMEGA Metals completes maiden drilling at Isle aux Morts as rig shifts to Bunker Hill",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099021/aumega-metals-completes-maiden-drilling-at-isle-aux-morts-as-rig-shifts-to-bunker-hill-1099021.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-24T00:30:00+00:00",
+      "summary": "AuMEGA Metals Ltd (ASX:AAM, TSX:AUM, OTCQB:AUMMF) has completed its first diamond drilling program at the Isle aux Morts Granite and adjoining Cape Ray West target area in Newfoundland and Labrador, Canada, with assays now pending and the drill rig moved to Bunker Hill. The campa"
+    },
+    {
+      "title": "Gold Holds Drop as Higher Oil and Hot US Data Fan Rate-Hike Bets",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-drop-higher-oil-001214217.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-24T00:12:14+00:00",
+      "summary": "Gold held a decline as resurgent energy prices and stronger-than-expected US economic data increased bets the Federal Reserve might again raise interest rates to combat inflation."
     },
     {
       "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-23T02:15:00+00:00",
+      "published": "2026-09-23T23:15:00+00:00",
       "summary": "\u201cI draw from my IRA as needed for household repairs, trips and other larger expenses.\u201d"
     },
     {
-      "title": "\u2018She gave a neighbor $2,000\u2019: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
       "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-23T02:00:00+00:00",
+      "published": "2026-09-23T22:15:00+00:00",
       "summary": "\u201cMy mother has a pension, Social Security, investments and a house probably worth over $1 million.\u201d"
     },
     {
-      "title": "In Switzerland, People Are Long on Franc, Gold, BTC Because of US $40T Debt",
-      "link": "https://beincrypto.com/bitcoin-gold-franc-debasement-trade/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-23T00:59:51+00:00",
-      "summary": "Neoclassic Capital's Bucella says Bitcoin, gold, and the franc are becoming investors' hedge against $40 trillion in US debt."
+      "title": "\u2018I don\u2019t begrudge them their money\u2019: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-23T22:00:00+00:00",
+      "summary": "\u201cA weekend away isn\u2019t a weekend away. It\u2019s a luxury hotel, expensive meals and a last-minute upgrade.\u201d"
     },
     {
-      "title": "CFTC issues warning over risky prediction market \u2018mention\u2019 contracts",
-      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "This test screens for 50 cancers \u2014 but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-23T21:59:00+00:00",
+      "summary": "Grail\u2019s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers."
+    },
+    {
+      "title": "Micron\u2019s stock has become a \u2018battleground\u2019 as the AI narrative shifts",
+      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-23T21:51:00+00:00",
+      "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said."
+    },
+    {
+      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-23T00:18:44+00:00",
-      "summary": "The warning comes weeks after the CFTC fined a former White House teleprompter operator who made more than $107,000 trading prediction contracts tied to President Trump\u2019s speeches."
+      "published": "2026-09-23T21:47:52+00:00",
+      "summary": "SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto companies in early 2025 to avoid potential credibility problems in court."
     },
     {
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-23T00:00:45+00:00",
-      "summary": "The Commodity Futures Trading Commission issued a new advisory to flag the unique dangers of markets based on individuals' behavior."
+      "title": "Is gridlock in Washington actually good for stocks? Here\u2019s what historical market data says.",
+      "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-23T21:44:00+00:00",
+      "summary": "Contrary to widespread belief, the stock market hasn\u2019t performed better during periods of inter-party gridlock in Washington"
     },
     {
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "title": "OpenAI and Anthropic\u2019s CEOs just delivered this message to the U.N. as AI fears swirl",
+      "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-23T21:27:00+00:00",
+      "summary": "Sam Altman and Dario Amodei on Wednesday asked United Nations members to work together on global AI standards."
+    },
+    {
+      "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+      "link": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-22T23:43:48+00:00",
-      "summary": "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections."
+      "published": "2026-09-23T21:25:01+00:00",
+      "summary": "Trump\u2019s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers."
     },
     {
-      "title": "India's Titan On What's Slowing Gold Demand",
-      "link": "https://finance.yahoo.com/video/indias-titan-whats-slowing-gold-232241668.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-22T23:22:41+00:00",
-      "summary": "Titan's Managing Director Ajoy Chawla says gold rate volatility, and not the macros has been the biggest challenge for the company in recent times. He said this in an exclusive conversation with BTV's Menaka Doshi."
-    },
-    {
-      "title": "Gold Slides as Fed Fears Take Over",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-fed-fears-over-221516465.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-22T22:15:16+00:00",
-      "summary": "Higher-for-longer rates are reshaping bullion's investment case"
-    },
-    {
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-22T22:03:33+00:00",
-      "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day."
-    },
-    {
-      "title": "The Nasdaq\u2019s rapid rise to a record is sending a message to investors: Don\u2019t wait for a pullback to buy",
-      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "title": "Inflation could cost Republicans the Senate \u2014 this chart shows how",
+      "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-22T21:44:00+00:00",
-      "summary": "Some analysts say the upbeat data on the Nasdaq\u2019s outlook is backed up by improving fundamentals."
+      "published": "2026-09-23T21:13:00+00:00",
+      "summary": "Fallout from these decisions pushed prices higher and pressured worker pay"
     },
     {
-      "title": "Sandisk\u2019s stock is rising: Why one analyst says AI could help it reach new heights",
-      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-22T21:30:00+00:00",
-      "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said."
-    },
-    {
-      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-22T21:29:05+00:00",
-      "summary": "Senator Cynthia Lummis said the crypto industry should \"pin it on the Democrats\" in her first public remarks after last week's failed Clarity Act vote."
-    },
-    {
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-22T21:27:00+00:00",
-      "summary": "Coming soon is one of the only weeks of the year in which aggressive traders should bet that the highest-beta stocks will beat the lowest ones."
-    },
-    {
-      "title": "Could Meta\u2019s viral Muse app be the company\u2019s ChatGPT moment?",
-      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-22T21:26:00+00:00",
-      "summary": "Meta\u2019s new assistant is topping App Store charts and beating ChatGPT\u2019s early download pace, spurring renewed confidence in the company\u2019s AI strategy"
-    },
-    {
-      "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-      "link": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-22T21:07:21+00:00",
-      "summary": "Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies."
-    },
-    {
-      "title": "Arch Lending eyes tokenized stocks as next collateral market",
-      "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-22T21:06:52+00:00",
-      "summary": "Arch Lending\u2019s Himanshu Sahay said on Cointelegraph\u2019s Chain Reaction podcast that the lender plans to move into tokenized equities as onchain stocks gain traction as collateral."
+      "published": "2026-09-23T20:43:56+00:00",
+      "summary": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC."
+    },
+    {
+      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-23T20:28:34+00:00",
+      "summary": "The case between New Jersey authorities and a prediction market company, if accepted by the Supreme Court, could result in clarity for state and federal officials over sports bets."
+    },
+    {
+      "title": "Asset Portfolio Briefing: First Gold Production at Cui\u00fa Cui\u00fa, Imminent Gold Production at Amulsar, and Other Positive Updates",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/asset-portfolio-briefing-first-gold-200500063.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-23T20:05:00+00:00",
+      "summary": "MONTR\u00c9AL, Sept. 23, 2026 (GLOBE NEWSWIRE) -- OR Royalties Inc. (\u201cOR Royalties,\u201d or the \u201cCompany\u201d) (OR: TSX & NYSE) is pleased to provide the following select producing, development and exploration asset updates. Amounts presented are in United States dollars, except where otherwi"
     }
   ]
 }
