@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-25T06:41:38+00:00",
+  "generated": "2026-09-26T06:37:50+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 16,
-    "crypto": 10,
+    "stocks": 14,
+    "crypto": 12,
     "gold": 4
   },
   "sources": [
@@ -11,7 +11,7 @@
       "name": "Yahoo Finance",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 0
     },
     {
       "name": "CNBC Top News",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 5
+      "items": 6
     }
   ],
   "items": [
     {
-      "title": "Here's who attended the Trump-Xi state dinner",
-      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-25T06:30:06+00:00",
-      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping."
+      "title": "Solana\u2019s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-26T05:00:00+00:00",
+      "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches."
     },
     {
-      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-      "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-25T06:13:35+00:00",
-      "summary": ""
+      "title": "XRP Ledger\u2019s Batch upgrade slips to Oct. 9 after validator support resets",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-26T04:30:00+00:00",
+      "summary": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network\u2019s 80% support threshold restarted its two-week activation clock."
     },
     {
-      "title": "Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
-      "link": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-25T05:59:34+00:00",
-      "summary": "Oxygen Forensics counted numerous U.S. government agencies among its customers but lied for years about who really controlled it, prosecutors allege."
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-26T04:02:13+00:00",
+      "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again."
     },
     {
-      "title": "Iran says it's up to U.S. to end war as China presses for de-escalation",
-      "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-26T00:00:00+00:00",
+      "summary": "\u201cI am a retired senior citizen living check-to-check.\u201d"
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T23:30:00+00:00",
+      "summary": "\u201cHer younger son lives in the condo, but wants to move elsewhere with friends.\u201d"
+    },
+    {
+      "title": "Appeals court rules that states can regulate Kalshi\u2019s sports prediction markets, dealing another legal blow to platforms",
+      "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-25T05:37:21+00:00",
-      "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning."
+      "published": "2026-09-25T23:28:42+00:00",
+      "summary": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts."
+    },
+    {
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD \u2014 and why some are still skeptical",
+      "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-25T22:53:52+00:00",
+      "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends."
+    },
+    {
+      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-25T22:17:38+00:00",
+      "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work."
+    },
+    {
+      "title": "DLP Resources Provides Update on Esperanza Drill Program",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dlp-resources-provides-esperanza-drill-221500184.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-25T22:15:00+00:00",
+      "summary": "Cranbrook, British Columbia--(Newsfile Corp. - September 25, 2026) - DLP Resources Inc. (TSXV: DLP) (OTCQB: DLPRF) (FSE: J8C) (\"DLP\" or the \"Company\") provides an update on its recently commenced maiden drill program at the 100%-owned Esperanza copper-gold-molybdenum project (\"Es"
+    },
+    {
+      "title": "What a $500,000 All Weather Portfolio Actually Looks Like, Built With ETFs",
+      "link": "https://247wallst.com/personal-finance/2026/09/25/what-a-500000-all-weather-portfolio-actually-looks-like-built-with-etfs/?.tsrc=rss",
+      "source": "Yahoo GLD",
+      "category": "gold",
+      "published": "2026-09-25T22:05:28+00:00",
+      "summary": "Ray Dalio's All Weather portfolio promises to survive every economic regime, but the design forces real tradeoffs that most investors never see until they check the five-year returns on their largest sleeve."
+    },
+    {
+      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T22:00:00+00:00",
+      "summary": "\u201cOn each of these weekends away, she\u2019s probably spending $500.\u201d"
+    },
+    {
+      "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T21:57:00+00:00",
+      "summary": "Don\u2019t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that \u201cI am the house now.\u201d"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T21:45:00+00:00",
+      "summary": "\u201cWe have no debt and own our primary home, a vacation home, as well as my mother\u2019s home in another state.\u201d"
+    },
+    {
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-25T21:38:38+00:00",
+      "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington."
+    },
+    {
+      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-25T21:17:30+00:00",
+      "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight."
+    },
+    {
+      "title": "Microsoft\u2019s stock has roared back to life, closing at its highest level of the year",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T21:04:00+00:00",
+      "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company\u2019s AI narrative over the last few months."
+    },
+    {
+      "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+      "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-25T21:02:20+00:00",
+      "summary": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices."
+    },
+    {
+      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-25T20:37:21+00:00",
+      "summary": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks."
+    },
+    {
+      "title": "Apple\u2019s expensive new iPhones could be a double-edged sword for the company",
+      "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T20:37:00+00:00",
+      "summary": "Bernstein analysts suggest Wall Street isn\u2019t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components."
+    },
+    {
+      "title": "Micron investors should get ready for a seesaw ride, analyst says",
+      "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-25T20:36:00+00:00",
+      "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year."
+    },
+    {
+      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-25T20:26:40+00:00",
+      "summary": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator."
+    },
+    {
+      "title": "IAU vs. AAAU: Which Physical Gold ETF Is the Better Buy for Investors?",
+      "link": "https://www.fool.com/coverage/etfs/2026/09/25/iau-vs-aaau-which-physical-gold-etf-is-the-better-buy-for-investors/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-25T20:25:59+00:00",
+      "summary": "Both funds track identical gold bullion with nearly matching five-year returns, but one charges significantly lower fees while the other offers vastly superior liquidity and scale."
+    },
+    {
+      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+      "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-25T20:01:05+00:00",
+      "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle."
+    },
+    {
+      "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
+      "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-25T19:59:45+00:00",
+      "summary": "Flight disruptions were minimal for Saturday as of Friday morning."
+    },
+    {
+      "title": "Is StoneX or Bitwise Right About Bitcoin and Gold?",
+      "link": "https://247wallst.com/investing/cryptocurrency/2026/09/25/is-stonex-or-bitwise-right-about-bitcoin-and-gold/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-25T19:27:07+00:00",
+      "summary": "StoneX sees Bitcoin outrunning gold right now, while Bitwise data reveals the two assets moving in lockstep at a six-year high. Both camps make compelling cases, and the difference between them could reshape how you position your portfolio."
+    },
+    {
+      "title": "Tether says it had \u2018limited\u2019 exposure to bank linked to $84M US seizure",
+      "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-25T18:56:53+00:00",
+      "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-25T05:30:56+00:00",
+      "published": "2026-09-25T18:42:59+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Australian PM warns of AI\u2019s \u2018furious pace\u2019 after agent breached government site",
-      "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Former Hack VC partner Hsin-Ju Chuang\u2019s death ruled a suicide",
+      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-25T05:06:22+00:00",
-      "summary": "Anthony Albanese said governments must help shape AI\u2019s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal."
+      "published": "2026-09-25T18:33:49+00:00",
+      "summary": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC."
     },
     {
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-25T04:41:06+00:00",
-      "summary": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance."
-    },
-    {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-25T04:29:34+00:00",
-      "summary": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X."
-    },
-    {
-      "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-      "link": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-25T04:14:11+00:00",
-      "summary": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts."
+      "published": "2026-09-25T17:19:19+00:00",
+      "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic."
     },
     {
-      "title": "Franco-Nevada (TSX:FNV) Royalty Growth Narrative Keeps Fair Value In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-tsx-fnv-royalty-031249763.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-25T03:12:49+00:00",
-      "summary": "Franco-Nevada (TSX:FNV) is back in focus after recent trading left the stock roughly flat over the past day but mixed over shorter periods, giving investors fresh context for its precious metals royalty exposure. Recent trading has cooled slightly, with a 7 day share price return"
-    },
-    {
-      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-      "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitget clarifies $388M in assets affected by security breach",
+      "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-25T02:00:54+00:00",
-      "summary": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce."
-    },
-    {
-      "title": "Gold steadies near $4,275, set for weekly loss as Fed hike bets rise",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-lower-set-weekly-014215605.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-25T01:42:15+00:00",
-      "summary": "Investing.com -- Gold prices were little changed on Friday, remaining on track for a weekly decline of more than 3%, as elevated energy prices and rising U.S. Treasury yields kept expectations for further Federal Reserve rate hikes in focus."
-    },
-    {
-      "title": "China's Xi urges U.S. to cooperate on AI",
-      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-25T01:22:17+00:00",
-      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House."
-    },
-    {
-      "title": "How Investors Are Reacting To Newmont (NEM) As Fed Signals Hit Gold Prices And Sentiment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-newmont-nem-fed-011553796.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-25T01:15:53+00:00",
-      "summary": "In late September 2026, Newmont Corporation reported weaker trading as gold prices fell below US$4,350 an ounce following hawkish Federal Reserve signals, weighing on sentiment toward the gold producer despite expectations for higher near-term earnings and revenue versus last yea"
-    },
-    {
-      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-      "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-25T01:12:19+00:00",
-      "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive."
-    },
-    {
-      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-25T00:32:46+00:00",
-      "summary": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group."
-    },
-    {
-      "title": "Costco makes progress on a key membership metric. Here's our new price target on the stock",
-      "link": "https://www.cnbc.com/2026/09/24/costco-makes-progress-on-a-key-membership-metric-heres-our-new-price-target-on-the-stock.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-09-25T00:29:48+00:00",
-      "summary": "Costco's membership renewal rates moved in the right direction. But the debate isn't totally settled just yet."
-    },
-    {
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T23:35:00+00:00",
-      "summary": "\u201cShe currently has about 15 sitters, all independent contractors.\u201d"
-    },
-    {
-      "title": "3 things Micron investors need to watch as the stakes get higher",
-      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T23:28:00+00:00",
-      "summary": "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks."
-    },
-    {
-      "title": "Asia dominates Crypto Adoption Index, Bitget\u2019s $352M hack: Asia Express",
-      "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-24T23:27:17+00:00",
-      "summary": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government."
-    },
-    {
-      "title": "The S&P 500\u2019s newest tech stock is now its best performer",
-      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T23:26:00+00:00",
-      "summary": "Shares of data-storage company Everpure were leading S&P 500 gainers on Thursday."
-    },
-    {
-      "title": "Costco\u2019s results beat expectations. Here\u2019s why investors are still cautious.",
-      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T23:23:00+00:00",
-      "summary": "Tariff refunds helped deliver a profit beat during Costco\u2019s fourth quarter."
-    },
-    {
-      "title": "I spend my time and money caring for my aging mother \u2014 yet she gave my brother $100,000. Should I pull back?",
-      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T23:16:00+00:00",
-      "summary": "\u201cMy mother started having more trouble getting around. First a knee replacement, then a fall.\u201d"
-    },
-    {
-      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
-      "link": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-24T23:08:16+00:00",
-      "summary": "The 30-year fixed rate surged to 7.45%, the highest level since April 2024 as bonds sold off and yields rose."
-    },
-    {
-      "title": "Market Chatter: Gold Selloff Is Temporary, Hedge Fund Manager Lamm Says",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-gold-selloff-temporary-230133518.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-09-24T23:01:33+00:00",
-      "summary": "Australian hedge fund manager Raphael Lamm sees the recent decline in gold as temporary, Bloomberg r"
-    },
-    {
-      "title": "\u2018We made a bad, bad decision\u2019: I learned the hard way how to manage my aging father\u2019s money",
-      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T23:00:00+00:00",
-      "summary": "\u201cWhen my father died, his trust was the Bible.\u201d"
-    },
-    {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-24T22:41:44+00:00",
-      "summary": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains."
-    },
-    {
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-24T22:28:49+00:00",
-      "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs."
-    },
-    {
-      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-24T22:10:09+00:00",
-      "summary": "The Fed\u2019s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act."
-    },
-    {
-      "title": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges",
-      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-24T22:03:00+00:00",
-      "summary": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table."
+      "published": "2026-09-25T17:17:45+00:00",
+      "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON."
     }
   ]
 }
