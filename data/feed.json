@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-28T06:55:11+00:00",
+  "generated": "2026-09-29T06:44:02+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 12,
-    "gold": 3
+    "stocks": 14,
+    "crypto": 8,
+    "gold": 8
   },
   "sources": [
     {
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 3
+      "items": 2
     }
   ],
   "items": [
     {
-      "title": "Northern Star shares pop as Australia's largest gold miner rejects $27 billion takeover proposal",
-      "link": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-28T06:51:52+00:00",
-      "summary": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields."
-    },
-    {
-      "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
-      "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-28T06:34:26+00:00",
-      "summary": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions."
-    },
-    {
-      "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
-      "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-28T06:21:52+00:00",
-      "summary": "The California Governor signed AB 2409 as part of an anti-corruption package, framing it as a response to President Trump's $TRUMP fiasco."
+      "published": "2026-09-29T06:23:47+00:00",
+      "summary": "The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers."
     },
     {
-      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-      "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-28T06:21:06+00:00",
-      "summary": "All seven funds attracted money, while Friday\u2019s $87 million intake set a daily record."
-    },
-    {
-      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
-      "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-28T05:42:45+00:00",
-      "summary": "Crypto market making is effectively restricted under South Korea\u2019s manipulation rules, but regulators are reconsidering the approach after a JPYC spiked on Upbit this month."
+      "title": "Seabridge Gold Flags KSM JV Progress, 72-Year Mine Potential at Denver Gold Forum",
+      "link": "https://www.marketbeat.com/instant-alerts/event-seabridge-gold-flags-ksm-jv-progress-72-year-mine-potential-at-denver-gold-forum-2026-09-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-29T06:02:05+00:00",
+      "summary": "Seabridge Gold (NYSE:SA) outlined progress at its KSM development project in British Columbia, ongoing joint-venture discussions and exploration plans for its broader portfolio during a presentation at the Denver Gold Forum. The company described itself as focused on building gol"
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-28T04:57:00+00:00",
+      "published": "2026-09-29T05:37:56+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Vitalik Buterin says Hegot\u00e1 could be Ethereum\u2019s last \u2018normal\u2019 fork",
-      "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-28T04:44:15+00:00",
-      "summary": "Ethereum\u2019s Vitalik Buterin said PeerDAS marked the start of Ethereum\u2019s transition \u201cfrom being just a blockchain to being something much more powerful.\u201d"
-    },
-    {
-      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
-      "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-28T04:12:20+00:00",
-      "summary": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday."
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "link": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-28T04:04:16+00:00",
-      "summary": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition."
-    },
-    {
-      "title": "Bitcoin, Nasdaq futures decline as Trump won\u2019t rule out more Iran strikes",
-      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+      "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
+      "link": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-09-28T03:58:52+00:00",
-      "summary": "Trump on Sunday didn\u2019t rule out additional strikes on Iran before the midterm elections, even as he said the war could end soon."
+      "published": "2026-09-29T05:31:44+00:00",
+      "summary": "Anthropic's prospectus seen by Reuters shows big spending plans despite heavy losses. Still, pre-IPO perps barely moved on cryptocurrency exchanges."
     },
     {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "link": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+      "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-29T05:29:28+00:00",
+      "summary": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran\u2019s shadow banking network."
+    },
+    {
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-09-28T02:49:10+00:00",
-      "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year."
+      "published": "2026-09-29T05:13:03+00:00",
+      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources."
     },
     {
-      "title": "Newsom signs California ban on public officials issuing memecoins",
-      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
+      "link": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-29T05:12:10+00:00",
+      "summary": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups."
+    },
+    {
+      "title": "Australia says more hikes not off the table after raising rates to 15-year high",
+      "link": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-29T05:00:58+00:00",
+      "summary": "The hike of 25 basis points was in line with expectations by economists polled by Reuters."
+    },
+    {
+      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-09-29T04:17:20+00:00",
+      "summary": "Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data."
+    },
+    {
+      "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+      "link": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-29T04:02:47+00:00",
+      "summary": "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high."
+    },
+    {
+      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+      "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-09-28T02:23:42+00:00",
-      "summary": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens issued from Jan. 1, 2027."
+      "published": "2026-09-29T04:02:29+00:00",
+      "summary": "Coinbase joins Kraken in bringing US derivatives infrastructure in-house, after Kraken\u2019s parent acquired Bitnomial and its CFTC-regulated exchange, clearinghouse and brokerage in May."
     },
     {
-      "title": "Gold falls below $4,300 as oil, Fed hike bets keep pressure on bullion",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-below-4-300-014352852.html?.tsrc=rss",
+      "title": "Hudbay Minerals Targets Copper Growth as Snow Lake Gold Reserves Surge 60%",
+      "link": "https://www.marketbeat.com/instant-alerts/event-hudbay-minerals-targets-copper-growth-as-snow-lake-gold-reserves-surge-60-2026-09-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-28T01:43:52+00:00",
-      "summary": "At 01:39 ET (05:39 GMT), XAU/USD fell 2.3% to $4,188.84 an ounce, while Gold Futures dropped 2.3% to $4,221.12. XAG/USD fell 4.1% to $61.65, while XPT/USD declined 3% to $1,727.90. The U.S. Dollar Index rose 0.1% to 101.11."
+      "published": "2026-09-29T04:02:05+00:00",
+      "summary": "HudBay Minerals (NYSE:HBM) outlined expanded gold reserves at its Snow Lake operations in Manitoba, a forthcoming investment decision for its Copper World project and a longer-term plan to build a larger U.S. copper business, according to comments from Chief Executive Officer Pet"
     },
     {
-      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
-      "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-28T01:09:22+00:00",
-      "summary": "The Zano blockchain has been restarted at the block height that came immediately before Hard Fork 6, which introduced Gateway Addresses."
-    },
-    {
-      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler\u2019s Digest",
-      "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-27T23:43:18+00:00",
-      "summary": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer."
-    },
-    {
-      "title": "Montage Gold achieves first gold pour at its Kon\u00e9 mine on budget and ahead of schedule",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/montage-gold-achieves-first-gold-221800961.html?.tsrc=rss",
+      "title": "Is Montage Gold (TSX:MAU) Undervalued Following First Gold Production At Kon\u00e9?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/montage-gold-tsx-mau-undervalued-031317010.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-27T22:18:00+00:00",
-      "summary": "HIGHLIGHTS: First gold pour at the Kon\u00e9 mine achieved on budget and ahead of the initial schedule of Q2-2027+14.1 million hours worked to date with a strong safety recordConstruction of the Kon\u00e9 mine has created approximately 3,600 jobs with over 95% national employment and will "
+      "published": "2026-09-29T03:13:17+00:00",
+      "summary": "Montage Gold (TSX:MAU) has reported first gold production at its Kon\u00e9 mine in C\u00f4te d\u2019Ivoire. The initial pour was completed on budget and ahead of schedule, giving investors a clearer view of project execution. Despite the first gold production milestone, Montage Gold\u2019s share pri"
     },
     {
-      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "title": "Senate advances college sports bill aimed at regulating NIL deals",
+      "link": "https://www.cnbc.com/2026/09/28/college-sports-bill-senate-nil.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-29T02:56:45+00:00",
+      "summary": "The Senate voted Monday on the bill, which would create a national framework for name, image and likeness deals in college athletics."
+    },
+    {
+      "title": "Nvidia unveils AI safety platform to rein in \u2018rogue\u2019 AI agents",
+      "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-29T02:32:36+00:00",
+      "summary": "The launch comes after several AI agents breached their testing environments this year, adding to calls for companies to slow the development of autonomous AI systems."
+    },
+    {
+      "title": "Gold stays near seven-week low after 4% plunge as Fed hike bets rise",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-seven-week-015133051.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-29T01:51:33+00:00",
+      "summary": "Investing.com -- Gold prices edged higher on Tuesday after tumbling 4% in the previous session, but remained near a seven-week low as the standoff between the U.S. and Iran over the Strait of Hormuz kept energy prices elevated and reinforced expectations for further Federal Reser"
+    },
+    {
+      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+      "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-29T01:48:52+00:00",
+      "summary": "Samsung Electronics and its five affiliates are investing $1 billion in KKR-launched Helix as the group expands its push into global AI infrastructure."
+    },
+    {
+      "title": "Anthropic\u2019s potential $2 trillion IPO comes with the following fine print",
+      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-27T22:00:00+00:00",
-      "summary": "\u201cThe only debts were utility and credit-card bills, which we will pay off.\u201d"
+      "published": "2026-09-29T01:31:00+00:00",
+      "summary": "Anthropic\u2019s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing."
+    },
+    {
+      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+      "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-09-29T01:17:49+00:00",
+      "summary": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain\u2019s position that it does not selectively censor transactions."
+    },
+    {
+      "title": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low",
+      "link": "https://www.thestreet.com/crypto/markets/major-gold-holder-suffers-2-65-billion-paper-loss-on-bullion-hitting-7-week-low?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-29T00:50:00+00:00",
+      "summary": "Major gold holder saw an unrealized loss of $2.65 billion on its holdings between Aug. 24 and Sep. 28."
+    },
+    {
+      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-29T00:03:00+00:00",
+      "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist."
+    },
+    {
+      "title": "Fortuna Mining Targets 500,000 Gold Ounces With West Africa Expansion",
+      "link": "https://www.marketbeat.com/instant-alerts/event-fortuna-mining-targets-500000-gold-ounces-with-west-africa-expansion-2026-09-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-29T00:02:07+00:00",
+      "summary": "Fortuna Mining (NYSE:FSM) outlined plans to increase annual gold production from roughly 300,000 ounces to more than 500,000 ounces through the expansion of its S\u00e9gu\u00e9la mine in C\u00f4te d\u2019Ivoire and the development of its Diamba Sud project in Senegal. Jorge Ganoza, the company\u2019s CEO"
+    },
+    {
+      "title": "Entr\u00e9e Resources Ltd. President and CEO Chris Adams Issues Letter to Shareholders",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/entr-e-resources-ltd-president-232400611.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-09-28T23:24:00+00:00",
+      "summary": "VANCOUVER, British Columbia, Sept. 28, 2026 (GLOBE NEWSWIRE) -- Entr\u00e9e Resources Ltd. (TSX:ETG; OTCQB:ERLFF \u2013 the \u201cCompany\u201d or \u201cEntr\u00e9e\u201d) today issued the following letter to shareholders from Chris Adams, President and CEO. Dear Fellow Shareholders, Autumn is off to a very busy s"
+    },
+    {
+      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+      "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-28T23:19:46+00:00",
+      "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development."
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-09-28T23:00:01+00:00",
+      "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said."
     },
     {
       "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-09-27T21:45:00+00:00",
+      "published": "2026-09-28T23:00:00+00:00",
       "summary": "\u201cAs a country, we have grown dangerously comfortable.\u201d"
     },
     {
-      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-      "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-27T21:38:59+00:00",
-      "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity."
-    },
-    {
-      "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
-      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-27T19:21:00+00:00",
-      "summary": "Don\u2019t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that \u201cI am the house now.\u201d"
-    },
-    {
-      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-      "link": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-09-27T19:13:27+00:00",
-      "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent."
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-27T16:45:00+00:00",
-      "summary": "\u201cMy mother has a pension, Social Security, investments and a house probably worth over $1 million.\u201d"
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-27T16:00:00+00:00",
-      "summary": "\u201cWe have no debt and own our primary home, a vacation home, as well as my mother\u2019s home in another state.\u201d"
-    },
-    {
-      "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-27T16:00:00+00:00",
-      "summary": "\u201cI draw from my IRA as needed for household repairs, trips and other larger expenses.\u201d"
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-27T15:15:00+00:00",
-      "summary": "\u201cHer younger son lives in the condo, but wants to move elsewhere with friends.\u201d"
-    },
-    {
-      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-09-27T15:00:00+00:00",
-      "summary": "\u201cI am a retired senior citizen living check-to-check.\u201d"
-    },
-    {
-      "title": "Vitalik Buterin maps Ethereum\u2019s shift beyond a blockchain in sweeping 2030 vision",
-      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-27T14:29:13+00:00",
-      "summary": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations."
-    },
-    {
-      "title": "UBS Forecasts Silver at $80 by September 2027 as Gold and Industrial Demand Provide Support",
-      "link": "https://investorshub.advfn.com/market-news/article/36892/ubs-forecasts-silver-at-80-by-september-2027-as-gold-and-industrial-demand-provide-support?.tsrc=rss",
+      "title": "Stockworks Gold Commences Follow up of High-Grade Gold Stream Sediment Anomalies at the Pirenopolis Project, Brazil",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/stockworks-gold-commences-high-grade-224900630.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-09-27T14:28:21+00:00",
-      "summary": "UBS expects silver prices to remain closely linked to gold and forecasts the metal reaching $80 per ounce by September 2027, citing investment demand, industrial consumption and constraints on supply growth. Strategist Dominic Schnider said silver has continued to move in line wi"
+      "published": "2026-09-28T22:49:00+00:00",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 28, 2026) - Stockworks Gold Inc. (TSXV: STW) (OTCQB: STWGF) (FSE: 4XO1) (\"Stockworks\" or the \"Company\") is pleased to announce it has commenced detailed soil geochemical exploration activities at its 100% owned, road access"
     },
     {
-      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-      "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-09-27T12:46:28+00:00",
-      "summary": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June."
+      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-28T22:45:00+00:00",
+      "summary": "\u201cThe only debts were utility and credit-card bills, which we will pay off.\u201d"
     },
     {
-      "title": "How months of work on the Clarity Act all fell apart",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-09-27T12:00:00+00:00",
-      "summary": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote."
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-28T22:35:00+00:00",
+      "summary": "\u201cWhen my paycheck lands, it takes a detour through bitcoin.\u201d"
+    },
+    {
+      "title": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say",
+      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-09-28T22:03:00+00:00",
+      "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power."
     }
   ]
 }
