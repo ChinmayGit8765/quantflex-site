@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-02T06:43:04+00:00",
+  "generated": "2026-10-03T06:46:58+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 18,
-    "crypto": 9,
-    "gold": 3
+    "stocks": 16,
+    "crypto": 8,
+    "gold": 6
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 5
+      "items": 3
     }
   ],
   "items": [
     {
-      "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
-      "link": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-02T06:36:56+00:00",
-      "summary": "\"As this is a matter concerning the honor of the Republic of Korea's people and nation, we cannot overlook it,\" he said."
-    },
-    {
-      "title": "Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
-      "link": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-02T06:27:58+00:00",
-      "summary": "Pandora is expanding its manufacturing footprint beyond Thailand with a new $150 million Vietnam facility as the Danish jeweler eyes further growth across Asia."
-    },
-    {
-      "title": "Washington\u2019s big crypto bill is stuck. The SEC is pushing ahead anyway",
-      "link": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-02T06:15:49+00:00",
-      "summary": "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients."
-    },
-    {
-      "title": "Is Wheaton Precious Metals (TSX:WPM) A Bargain Or Fully Priced After Its Pullback?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wheaton-precious-metals-tsx-wpm-060705505.html?.tsrc=rss",
+      "title": "Aris Mining (TSX:ARIS) Clears Soto Norte Hurdle, Is The Stock A Bargain?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aris-mining-tsx-aris-clears-060721778.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-02T06:07:05+00:00",
-      "summary": "Wheaton Precious Metals (TSX:WPM) has drawn fresh attention after recent share price moves, with the stock down about 7% over the past week and roughly 6% over the past month. Recent trading has cooled some of that enthusiasm, with the 7 day share price return declining 6.9% and "
+      "published": "2026-10-03T06:07:21+00:00",
+      "summary": "Aris Mining (TSX:ARIS) has just cleared a key permitting hurdle for its Soto Norte gold copper project in Colombia by completing its Environmental and Social Impact Assessment and beginning formal community engagement ahead of an environmental licence application. Recent mileston"
     },
     {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "title": "America\u2019s data center fight is a preview of what's to come for the rest of the world",
+      "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-02T06:03:23+00:00",
-      "summary": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week\u2019s hack, and restored much of its protection fund."
+      "published": "2026-10-03T05:00:01+00:00",
+      "summary": "America\u2019s fight over data centers is going global. Communities across Europe and Asia are pushing back over the rising costs of the AI infrastructure boom."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T06:00:00+00:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T05:53:27+00:00",
-      "summary": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined."
-    },
-    {
-      "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
-      "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-02T05:49:09+00:00",
-      "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off \u2014 but the election's outcome is likely to be felt far beyond the country's borders."
-    },
-    {
-      "title": "Gold steadies as stronger dollar, higher yields weigh; U.S. jobs data awaited",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-stronger-dollar-higher-053651390.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-02T05:36:51+00:00",
-      "summary": "Investing.com-- Gold prices were little changed on Friday as investors awaited U.S. jobs data for clues on the Federal Reserve's interest-rate path, while a stronger dollar and elevated Treasury yields limited the appeal of non-yielding bullion."
-    },
-    {
-      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-      "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T05:08:32+00:00",
-      "summary": "South Korea\u2019s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits."
-    },
-    {
-      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
-      "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T05:02:23+00:00",
-      "summary": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain."
-    },
-    {
-      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here\u2019s what\u2019s at stake",
-      "link": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-02T05:00:01+00:00",
-      "summary": "Britain voted to leave the European Union in 2016."
-    },
-    {
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T04:18:43+00:00",
-      "summary": "Node operators running version 26.06.7 or earlier were told to upgrade immediately."
-    },
-    {
-      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
-      "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-02T04:07:54+00:00",
-      "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil."
-    },
-    {
-      "title": "Ethereum\u2019s zkAPI brings privacy-preserving API payments to mainnet",
-      "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T03:34:25+00:00",
-      "summary": "Ethereum\u2019s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid access."
-    },
-    {
-      "title": "NEAR Intents says it\u2019s identified the hacker, gives 48-hour ultimatum",
-      "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T02:02:13+00:00",
-      "summary": "\u201cWe have identified you, sir,\u201d NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million."
-    },
-    {
-      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
-      "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-02T01:07:08+00:00",
-      "summary": "Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC\u2019s proposal could remove."
-    },
-    {
-      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-02T01:00:00+00:00",
-      "summary": "\u201cGenerally, the advice I\u2019ve read says not to sell because I have a low-interest-rate mortgage.\u201d"
+      "published": "2026-10-03T02:16:00+00:00",
+      "summary": "\u201cI started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).\u201d"
+    },
+    {
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-02T22:42:00+00:00",
+      "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy."
+    },
+    {
+      "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+      "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-02T22:38:49+00:00",
+      "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff."
+    },
+    {
+      "title": "McFarlane Files Updated Mineral Resource Estimate on Juby Gold Project",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mcfarlane-files-updated-mineral-estimate-223700658.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-02T22:37:00+00:00",
+      "summary": "Key Highlights 1.07 million indicated ounces of gold at 0.96 g/t contained in 34.68 million tonnes15.09 million inferred ounces of gold at 0.87 g/t contained in 183.05 million tonnes1This represents a 61% increase in inferred resources and a 6% increase in indicated resources fro"
+    },
+    {
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-02T22:29:00+00:00",
+      "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago."
     },
     {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-02T00:30:00+00:00",
+      "published": "2026-10-02T22:10:00+00:00",
       "summary": "\u201cI have $152,000 in my IRA and Roth accounts.\u201d"
+    },
+    {
+      "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+      "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-02T22:01:17+00:00",
+      "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation."
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-02T21:54:00+00:00",
+      "summary": "Is it time to dust off the financial playbook from that dismal decade?"
+    },
+    {
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-02T21:23:20+00:00",
+      "summary": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority."
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-02T20:46:58+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-02T20:43:00+00:00",
+      "summary": "Data shows that partisan ETFs result in higher fees and lower market returns"
+    },
+    {
+      "title": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
+      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-02T20:40:47+00:00",
+      "summary": "Speaking on Cointelegraph\u2019s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms."
+    },
+    {
+      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-02T20:40:00+00:00",
+      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that \u201calgorithms lack the spark of humanity.\u201d"
     },
     {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-02T00:15:00+00:00",
+      "published": "2026-10-02T20:30:00+00:00",
       "summary": "\u201cFor 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.\u201d"
     },
     {
-      "title": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
-      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-02T00:14:00+00:00",
-      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount."
-    },
-    {
-      "title": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-02T00:13:00+00:00",
-      "summary": "The company has faced struggles in China and in its sneaker business."
-    },
-    {
-      "title": "Accenture stock rallies after earnings beat expectations",
-      "link": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-10-01T21:40:30+00:00",
-      "summary": "Shares of Accenture surged Thursday after the company's fiscal fourth-quarter results beat estimates."
-    },
-    {
-      "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-      "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-10-01T21:34:44+00:00",
-      "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China."
-    },
-    {
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-01T21:27:00+00:00",
-      "summary": "Annuity payout rates are closely tied to interest rates"
-    },
-    {
-      "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
-      "link": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-01T21:14:49+00:00",
-      "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him."
-    },
-    {
-      "title": "Silvercorp Metals Maps Global Growth With Ecuador and Kyrgyzstan Mine Builds",
-      "link": "https://www.marketbeat.com/instant-alerts/event-silvercorp-metals-maps-global-growth-with-ecuador-and-kyrgyzstan-mine-builds-2026-10-01/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "title": "Newmont And 2 Top Gold Mining Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/newmont-2-top-gold-mining-201326555.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-01T21:02:11+00:00",
-      "summary": "Silvercorp Metals (NYSEAMERICAN:SVM) outlined plans to broaden its operating footprint beyond China through mine development projects in Ecuador and Kyrgyzstan, while continuing to expand capacity at its Ying Mining District. The company said its existing Chinese operations remai"
+      "published": "2026-10-02T20:13:26+00:00",
+      "summary": "Energy prices are biting again, with eurozone inflation at 3.8% and energy costs rising fast, which keeps gold firmly on investors\u2019 radar as a potential portfolio shock absorber. The most resilient gold miners tend to be the ones with solid finances and low production costs. This"
     },
     {
-      "title": "The stock market is anything but normal right now \u2014 and these charts show it",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+      "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-01T21:01:00+00:00",
-      "summary": "The S&P 500 is trading just shy of record territory, even as most individual stocks are struggling."
+      "published": "2026-10-02T20:04:42+00:00",
+      "summary": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement."
     },
     {
-      "title": "Here\u2019s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
-      "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+      "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-01T20:58:00+00:00",
-      "summary": "Here\u2019s a breakdown of how much more households items could cost due to a diesel premium"
+      "published": "2026-10-02T19:25:36+00:00",
+      "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe\u2019s economic outlook."
     },
     {
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+      "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-02T19:19:15+00:00",
+      "summary": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings."
+    },
+    {
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-02T18:41:17+00:00",
+      "summary": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether."
+    },
+    {
+      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-02T18:24:05+00:00",
+      "summary": "Once among Ethereum\u2019s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown."
+    },
+    {
+      "title": "Arizona Gold and Silver reports broad gold intercepts at Philadelphia project",
+      "link": "https://finance.yahoo.com/video/arizona-gold-silver-reports-broad-181508034.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-02T18:15:08+00:00",
+      "summary": "Arizona Gold and Silver SVP of Exploration Dr. Lex Lambeck joined Steve Darling from Proactive at a conference in Uath, to announce new assay results from two additional core holes at the company\u2019s Philadelphia Gold-Silver Project in Mohave County, Arizona, with both holes inters"
+    },
+    {
+      "title": "Gold Futures Erase Jobs Report Gains, Sinking Lower",
+      "link": "https://finance.yahoo.com/m/b5bacc7b-ad07-3515-8898-f9a5b32ea065/gold-futures-erase-jobs.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-02T17:41:54+00:00",
+      "summary": "Gold futures popped on a weaker-than-expected jobs report, only to sink midway through the trading day."
+    },
+    {
+      "title": "Men are losing ground in the labor market. Here's why",
+      "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-02T17:38:59+00:00",
+      "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis."
+    },
+    {
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-01T20:20:04+00:00",
-      "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week."
+      "published": "2026-10-02T17:34:40+00:00",
+      "summary": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure."
+    },
+    {
+      "title": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bond-selloff-pressures-gold-soft-173347813.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-02T17:33:47+00:00",
+      "summary": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impact on gold prices and other key correlated assets\u2014and may continue to in the fut"
+    },
+    {
+      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+      "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-02T17:20:33+00:00",
+      "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles."
+    },
+    {
+      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+      "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-02T17:15:35+00:00",
+      "summary": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own."
+    },
+    {
+      "title": "Trump\u2019s potential AI czar, Jay Clayton, helped pioneer the SEC\u2019s crypto crackdown",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-02T17:12:48+00:00",
+      "summary": "The former SEC chairman who may be tapped to oversee the Trump administration's AI work has a potentially divisive history as a watchdog of tech innovation."
     }
   ]
 }
