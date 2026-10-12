@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T06:41:31+00:00",
+  "generated": "2026-10-12T07:01:32+00:00",
   "window_days": 3,
   "counts": {
     "stocks": 14,
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 5
+      "items": 2
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 3
+      "items": 1
     }
   ],
   "items": [
     {
-      "title": "Is Riley Exploration Permian (REPX) Still Undervalued Or Is Its New Mexico Story Priced In?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/riley-exploration-permian-repx-still-051241752.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-11T05:12:41+00:00",
-      "summary": "Riley Exploration Permian (REPX) has drawn fresh attention after its recent share move, with the stock closing at $45.37. Investors are weighing that price against the company\u2019s current financial profile and recent return history. That recent move in Riley Exploration Permian\u2019s s"
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-12T06:30:21+00:00",
+      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards."
     },
     {
-      "title": "Top 3 British Defensive Stocks To Watch In October 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-british-defensive-stocks-041647490.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-11T04:16:47+00:00",
-      "summary": "Bond markets across Europe are pushing governments to rein in deficits, and that kind of pressure often rewards companies with strong finances of their own. Solid balance sheets can matter more when borrowing costs bite and policy shifts grab headlines. This is where low risk lea"
-    },
-    {
-      "title": "3 Canadian Quality Stocks With ROE Over 29%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-quality-stocks-roe-211307294.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-10T21:13:07+00:00",
-      "summary": "High bond yields are pressuring weaker balance sheets, which puts well capitalised Canadian companies in a stronger position. When borrowing costs bite, businesses with healthy finances and solid returns can keep funding growth without relying heavily on expensive debt. That crea"
-    },
-    {
-      "title": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
-      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-10T20:59:28+00:00",
-      "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development."
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "Risk comes in many forms, even with \u201csafe\u201d investments."
-    },
-    {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "Parental controls aren\u2019t just for kids anymore"
-    },
-    {
-      "title": "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019ll spend decades in debt or retire comfortably",
-      "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "Don\u2019t just focus on stock picks when you\u2019re thinking of building retirement wealth"
-    },
-    {
-      "title": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
-      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "Seven tips for painlessly moving in retirement."
-    },
-    {
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact."
-    },
-    {
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
-      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes."
-    },
-    {
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "It doesn\u2019t matter if you are a Republican or Democrat. Math is math."
-    },
-    {
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-10T19:44:00+00:00",
-      "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026."
-    },
-    {
-      "title": "Veteran Trader Gives Critical Warning for Gold Price",
-      "link": "https://beincrypto.com/peter-brandt-gold-price-warning/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-10T18:37:35+00:00",
-      "summary": "Peter Brandt flags a gold price head-and-shoulders pattern with a possible $2,890 target as China keeps buying."
-    },
-    {
-      "title": "3 Gold Stocks To Own In October 2026",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/3-gold-stocks-own-october-171143496.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-10T17:11:43+00:00",
-      "summary": "Surging energy prices and worries about government debt have pushed many investors toward assets that feel more tangible. Gold sits right in that conversation. Established miners with low costs and solid finances can potentially navigate higher rates while still participating if "
-    },
-    {
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here\u2019s what the visa data shows",
-      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-10T14:22:23+00:00",
-      "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows."
-    },
-    {
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-10T13:42:36+00:00",
-      "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices."
-    },
-    {
-      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-      "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-10T13:00:01+00:00",
-      "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans."
+      "published": "2026-10-12T05:57:29+00:00",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said in a post on social media that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\""
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-10T12:30:00+00:00",
+      "published": "2026-10-12T05:55:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T12:00:00+00:00",
-      "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak."
-    },
-    {
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T12:00:00+00:00",
-      "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test."
-    },
-    {
-      "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
-      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "DATA Network to migrate to Sui, retire own chain",
+      "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-10T11:52:14+00:00",
-      "summary": "\u201cWe\u2019re ready to bring quantum resistance to mainnet at any time,\u201d Sun said in a post on X."
+      "published": "2026-10-12T05:15:43+00:00",
+      "summary": "The migration is backed by a $30 million investment from Sui Foundation."
     },
     {
-      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-      "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-12T04:49:30+00:00",
+      "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week."
+    },
+    {
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+      "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-12T04:45:15+00:00",
+      "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets."
+    },
+    {
+      "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+      "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-10T11:00:01+00:00",
-      "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year."
+      "published": "2026-10-12T04:24:33+00:00",
+      "summary": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted."
     },
     {
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T11:00:00+00:00",
-      "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain."
-    },
-    {
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-10T08:41:06+00:00",
-      "summary": "There are global concerns following incidents at OpenAI \u200cand Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
-    },
-    {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-10T07:10:43+00:00",
-      "summary": "The round follows increased international demand for Meanwhile\u2019s Bitcoin life insurance policies amid broader macro instability."
-    },
-    {
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T05:43:00+00:00",
-      "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market."
-    },
-    {
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T04:44:35+00:00",
-      "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps."
-    },
-    {
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T04:20:07+00:00",
-      "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release."
-    },
-    {
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-10T03:00:00+00:00",
-      "summary": "Visa\u2019s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work."
-    },
-    {
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-10T02:09:00+00:00",
-      "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\""
+      "published": "2026-10-12T02:28:54+00:00",
+      "summary": "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election."
+    },
+    {
+      "title": "Gold edges higher near $4,200 as traders weigh energy truce, Mideast risks",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-near-4-014728122.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-12T01:47:28+00:00",
+      "summary": "Investing.com -- Gold prices edged higher on Monday as traders assessed U.S. President Donald Trump\u2019s claim of an immediate energy ceasefire between Russia and Ukraine against renewed attacks in the Middle East that threatened to intensify inflation pressures."
+    },
+    {
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-12T01:21:29+00:00",
+      "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators."
+    },
+    {
+      "title": "Why China is importing a record amount of gold \u2014 and what it means for prices",
+      "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-12T00:51:10+00:00",
+      "summary": "Beijing\u2019s push to diversify away from the dollar and Chinese households\u2019 search for a safe place to put their savings has fueled China\u2019s record gold buying."
+    },
+    {
+      "title": "Which Precious Metals ETF Is the Better Buy: abrdn\u2019s Silver SIVR or VanEck\u2019s Gold Miners GDX?",
+      "link": "https://www.fool.com/coverage/etfs/2026/10/11/which-precious-metals-etf-is-the-better-buy-abrdn-s-silver-sivr-or-vaneck-s-gold-miners-gdx/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-11T23:04:09+00:00",
+      "summary": "Physical silver offers lower costs and no dividend, while gold miners provide equity diversification and income. Which metals strategy fits your portfolio?"
+    },
+    {
+      "title": "Ledger attack spreads to EU, AI finds \u201918 trillion XRP\u2019 bug: Hodler\u2019s Digest",
+      "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-11T22:57:53+00:00",
+      "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a \u201c$94 billion\u201d XRP bug \u2014 but receive just a $250K bounty."
+    },
+    {
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-11T21:30:45+00:00",
+      "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said."
+    },
+    {
+      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+      "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-11T20:18:38+00:00",
+      "summary": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act."
+    },
+    {
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T20:15:00+00:00",
+      "summary": "\u201cThe house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.\u201d"
+    },
+    {
+      "title": "Jim Cramer Returns to His Favorite Gold Miner as the Outlook Shifts",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/jim-cramer-returns-favorite-gold-200144345.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-11T20:01:44+00:00",
+      "summary": "During the October 8 episode of Mad Money, Jim Cramer talked about Agnico Eagle Mines Limited (NYSE:AEM) after discussing a more bullish technical outlook for gold earlier in the week. He said: On Monday, we ran off the charts segment featuring work from Carley Garner, who, for t"
+    },
+    {
+      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T20:00:00+00:00",
+      "summary": "\u201cI presume these are sophisticated investors taking a profit.\u201d"
+    },
+    {
+      "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+      "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-11T19:33:51+00:00",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington."
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T19:32:00+00:00",
+      "summary": "\u201cBoth properties will be solely in his name.\u201d"
+    },
+    {
+      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T19:32:00+00:00",
+      "summary": "\u201cI also have $310,000 in an IRA and $46,000 in savings. My house is paid off.\u201d"
+    },
+    {
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-11T18:30:00+00:00",
+      "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal."
+    },
+    {
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-11T17:11:00+00:00",
+      "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October."
+    },
+    {
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T16:35:00+00:00",
+      "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026."
+    },
+    {
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-11T16:00:00+00:00",
+      "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved."
+    },
+    {
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-11T15:40:47+00:00",
+      "summary": "\"Ukraine supports the ceasefire, and it is important that Russia support it as well,\" said Ukrainian President Zelensky."
+    },
+    {
+      "title": "A Record $31 Billion Gold Rush Is Sending Investors a Strange Warning About the Bond Market",
+      "link": "https://247wallst.com/investing/2026/10/11/a-record-31-billion-gold-rush-is-sending-investors-a-strange-warning-about-the-bond-market/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-11T14:41:23+00:00",
+      "summary": "Investors poured billions into gold funds during a month when the metal was falling fast, and the reason they kept buying points to something unsettling happening in the bond market."
+    },
+    {
+      "title": "We\u2019re about to get a huge read on whether earnings can keep propping up the stock market",
+      "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T14:00:00+00:00",
+      "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices \u2014 but one expert warns markets have gotten \u201cextremely complacent.\u201d"
+    },
+    {
+      "title": "Horizon Gold hits 44 metres at 5.08 g/t gold at Gum Creek",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099930/horizon-gold-hits-44-metres-at-5-08-g-t-gold-at-gum-creek-1099930.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-11T13:28:00+00:00",
+      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF, FRA:HO0) has returned a standout 44 metres at 5.08 g/t gold from 145 metres at the Snook prospect within its 100%-owned Gum Creek Gold Project in Western Australia, strengthening the case for a larger open pit and potential underground develo"
+    },
+    {
+      "title": "The bull market is turning 4 years old \u2014 but yields could crash the party",
+      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-11T13:00:00+00:00",
+      "summary": "For four years, tech has been the answer to almost every question about this bull market."
     }
   ]
 }
