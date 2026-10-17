@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-16T06:40:15+00:00",
+  "generated": "2026-10-17T06:36:00+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
+    "stocks": 16,
     "crypto": 9,
-    "gold": 6
+    "gold": 5
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
+      "title": "Does Nine Month Earnings Change The Bull Case For Zhaojin Mining Industry Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/does-nine-month-earnings-change-060941500.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-17T06:09:41+00:00",
+      "summary": "Zhaojin Mining Industry reported unaudited results for the nine months ended September 30, 2026, with sales of CNY 13,510.27 million and net income of CNY 1,969.51 million, compared with CNY 12,429.81 million and CNY 2,117.33 million, respectively, a year earlier. The combination"
+    },
+    {
+      "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine",
+      "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-17T05:46:20+00:00",
+      "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves."
+    },
+    {
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-17T05:00:01+00:00",
+      "summary": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts."
+    },
+    {
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",
+      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-17T02:30:00+00:00",
+      "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
+    },
+    {
+      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-16T22:34:29+00:00",
+      "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year."
+    },
+    {
+      "title": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-16T22:31:26+00:00",
+      "summary": "Apple\u2019s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue."
+    },
+    {
+      "title": "This TSX stock could see nearly 32% upside after a huge India deal, analyst says",
+      "link": "https://financialpost.com/investing/this-tsx-stock-could-see-nearly-32-upside-after-a-huge-india-deal-analyst-says?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-16T22:16:43+00:00",
+      "summary": "The Week in Stocks: What CIBC's picks are to navigate volatile gold and silver prices, which are TD's energy infrastructure picks and more"
+    },
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T21:59:00+00:00",
+      "summary": "The software and semiconductor sectors haven\u2019t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market."
+    },
+    {
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T21:43:00+00:00",
+      "summary": "Money is pouring in and funding intense, negative ads: \u201cIt\u2019s everywhere, and you can\u2019t escape it.\u201d"
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T21:35:00+00:00",
+      "summary": "Anthropic and New York City\u2019s comptroller have opened a line of communication to discuss \u201cexistential risks\u201d posed by AI and what that could mean for the company\u2019s future stock."
+    },
+    {
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T21:30:00+00:00",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors."
+    },
+    {
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-16T21:26:15+00:00",
+      "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam."
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T21:21:00+00:00",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors."
+    },
+    {
+      "title": "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T21:15:00+00:00",
+      "summary": "\u201cMy plan is to continue working as long as I\u2019m able to do so and invest my Social Security benefits while I\u2019m still earning a paycheck.\u201d"
+    },
+    {
+      "title": "Don\u2019t buy this dip: Several signs suggest there\u2019s more pain ahead for tech stocks",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T20:58:00+00:00",
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite\u2019s technical outlook suggests don\u2019t do it \u2014 at least not yet."
+    },
+    {
+      "title": "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-16T20:05:00+00:00",
+      "summary": "Investors aren\u2019t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues."
+    },
+    {
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-16T20:02:21+00:00",
+      "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week."
+    },
+    {
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-16T19:28:10+00:00",
+      "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-16T06:21:30+00:00",
+      "published": "2026-10-16T19:17:04+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-      "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
+      "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-16T06:18:12+00:00",
-      "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation."
+      "published": "2026-10-16T17:55:05+00:00",
+      "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map."
     },
     {
-      "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-16T06:11:35+00:00",
-      "summary": "Russia\u2019s return to the G20 table has tested how far Washington\u2019s outreach to Moscow will strain ties with European allies."
+      "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/hot-inflation-hits-gold-safe-174205122.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-16T17:42:05+00:00",
+      "summary": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impact on gold prices and other key correlated assets\u2014and may continue to in the fut"
     },
     {
-      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-      "link": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-16T06:11:22+00:00",
-      "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary."
+      "published": "2026-10-16T17:30:09+00:00",
+      "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown\u2019s return to the Senate."
     },
     {
-      "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-      "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-16T05:56:28+00:00",
-      "summary": "Singapore vessels are set to continue navigating the perilous Strait of Hormuz despite attacks on two container ships, said maritime experts."
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-16T17:21:45+00:00",
+      "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires."
     },
     {
-      "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
-      "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+      "title": "Stock Market Midday, Oct. 16: Tech Stocks Slide as Investors Rotate Into Defensive Sectors",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-midday-oct-16-tech-stocks-slide-as-investors-rotate-into-defensive-sectors/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-16T16:35:43+00:00",
+      "summary": "Chipmakers face selling pressure while healthcare and financial stocks gain ground, today, Oct. 16, 2026."
+    },
+    {
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-16T15:52:28+00:00",
+      "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins."
+    },
+    {
+      "title": "Bitcoin price steadies around $82K after Fed\u2019s Warsh avoids rate-hike hints",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-16T15:45:43+00:00",
+      "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike."
+    },
+    {
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-16T05:53:58+00:00",
-      "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders."
+      "published": "2026-10-16T14:58:22+00:00",
+      "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center."
     },
     {
-      "title": "Balaji\u2019s \u2018Singapore of social media\u2019 begins with a wave of bans",
-      "link": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
+      "link": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-16T05:16:11+00:00",
-      "summary": "Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first."
+      "published": "2026-10-16T14:11:03+00:00",
+      "summary": "Strategy conditionally declared daily dividends on STRC, which continued to hover below its $100 par value."
     },
     {
-      "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
-      "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-16T05:00:01+00:00",
-      "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued."
-    },
-    {
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-16T04:29:19+00:00",
-      "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
-    },
-    {
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-16T04:14:22+00:00",
-      "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April."
-    },
-    {
-      "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-      "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-16T03:53:48+00:00",
-      "summary": "BTS' world tour and rising global demand for newer K-pop acts are fueling earnings expectations, sending Hybe shares soaring."
-    },
-    {
-      "title": "Montage Gold (TSX:MAU) Stock May Be 39% Undervalued As Africa Expansion Plans Unfold",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/montage-gold-tsx-mau-stock-031242669.html?.tsrc=rss",
+      "title": "BC-Gold Futures",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-140056418.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-16T03:12:42+00:00",
-      "summary": "Montage Gold has delivered an exceptionally strong share price run in recent years, which naturally raises a sharper question for new and existing holders. Is the current price still aligned with what the business can realistically generate in cash flows over time, based on a Dis"
+      "published": "2026-10-16T14:00:56+00:00",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 4:30:00 PM Friday, October 16.Contract Open High Low Last Change Today's Volume Thursday's Volume Oct 26 4169."
     },
     {
-      "title": "Tesla finally delivers on its promise to create a flying car",
-      "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-16T02:42:00+00:00",
-      "summary": "Tesla\u2019s demonstration of a levitating Roadster sports car was \u201can engineering flex with no commercial value beyond embarrassing traditional car makers.\u201d"
-    },
-    {
-      "title": "Gold steadies as bond rally supports bullion, weaker dollar offers further support",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-4-160-015611640.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-16T01:56:11+00:00",
-      "summary": "Investing.com -- Gold prices edged higher on Friday after rising to a two-week high in the previous session, as concerns over the artificial intelligence investment boom weighed on equities and drove investors toward bonds, pushing U.S. Treasury yields lower."
-    },
-    {
-      "title": "UPDATE: Golconda Gold Releases Q3 2026 Production Update at Galaxy",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/golconda-gold-releases-q3-2026-013000114.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-16T01:30:00+00:00",
-      "summary": "This update is being published as the wire service misspelled the company\u2019s name in the title of the original version of this release. No other changes have been made to this release. TORONTO, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Golconda Gold Ltd. (\u201cGolconda Gold\u201d or the \u201cCompany\u201d)"
-    },
-    {
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "link": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says",
+      "link": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-16T00:48:20+00:00",
-      "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11."
-    },
-    {
-      "title": "Wesdome Gold Mines (TSX:WDO) Reports Lower Gold Production, Does The Valuation Still Look Cheap?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wesdome-gold-mines-tsx-wdo-001655395.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-16T00:16:55+00:00",
-      "summary": "Wesdome Gold Mines (TSX:WDO) has drawn fresh attention after reporting third quarter gold production of 41,287 ounces, compared with 50,465 ounces a year earlier, with nine month output also lower than the prior period. Wesdome Gold Mines shares have swung sharply around the late"
-    },
-    {
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-15T23:34:19+00:00",
-      "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028."
-    },
-    {
-      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-      "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T23:29:00+00:00",
-      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi."
-    },
-    {
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-15T23:00:01+00:00",
-      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said."
-    },
-    {
-      "title": "ORVANA REPORTS FOURTH QUARTER AND FISCAL 2026 PRODUCTION RESULTS - Spain Annual Gold Production Exceeds Guidance",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/orvana-reports-fourth-quarter-fiscal-230000732.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-15T23:00:00+00:00",
-      "summary": "Orvana Minerals Corp. (TSX: ORV) (OTCQX: ORVMF) (\"Orvana\" or the \"Company\") is pleased to report production results for the fourth quarter and full fiscal year 2026, ended September 30, 2026 (\"Q4 FY2026\" and \"FY2026\", respectively), and to provide an update on the Oxides Stockpil"
-    },
-    {
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-15T22:42:58+00:00",
-      "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges."
-    },
-    {
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T22:31:00+00:00",
-      "summary": "\u201dI earn $110,000 a year.\u201d"
-    },
-    {
-      "title": "Inflation Comes in Hotter Than Expected at 3.7%, Keeping Fed Hike Bets Alive (UPDATED)",
-      "link": "https://finance.yahoo.com/economy/policy/articles/inflation-comes-hotter-expected-3-223009336.html?.tsrc=rss",
-      "source": "Yahoo GLD",
-      "category": "gold",
-      "published": "2026-10-15T22:30:09+00:00",
-      "summary": "Editor\u2019s Note: This article has been updated with additional content. Consumer prices rose from 3.4% to 3.7% year-ove-year in September, above the 3.6% economists expected, according to the Bureau of Labor Statistics report released Wednesday. On a monthly basis, the..."
-    },
-    {
-      "title": "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T22:15:00+00:00",
-      "summary": "\u201cI have some reservations about the long-term stability of my younger son\u2019s marriage.\u201d"
-    },
-    {
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T21:56:00+00:00",
-      "summary": "Popular AI names are under pressure again this week \u2014 but the pain could worsen after the Nov. 3 election."
-    },
-    {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-15T21:33:24+00:00",
-      "summary": "Signs of distressed deepened in CoreWeave on Thursday."
-    },
-    {
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T21:23:00+00:00",
-      "summary": "Reported details about Anthropic\u2019s financial progress are adding to concerns about the health of the AI ecosystem."
-    },
-    {
-      "title": "Don\u2019t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T21:21:00+00:00",
-      "summary": "Investors have a \u2018love-hate relationship\u2019 with tech stocks now \u2014 and experts recommend selectively hunting for bargains while also betting on the major cloud companies."
-    },
-    {
-      "title": "CoreWeave\u2019s polarizing stock rebounds as Wall Street squares off about AI spending",
-      "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-15T21:03:00+00:00",
-      "summary": "Wall Street\u2019s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies."
+      "published": "2026-10-16T13:51:35+00:00",
+      "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpel\u00e8s questioning its response."
     }
   ]
 }
