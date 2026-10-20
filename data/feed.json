@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-19T06:52:06+00:00",
+  "generated": "2026-10-20T06:39:47+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 12,
-    "crypto": 13,
-    "gold": 5
+    "stocks": 17,
+    "crypto": 7,
+    "gold": 6
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 0
+      "items": 2
     }
   ],
   "items": [
     {
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-19T06:23:16+00:00",
-      "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently."
-    },
-    {
-      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
-      "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+      "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-19T06:06:58+00:00",
-      "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco."
+      "published": "2026-10-20T06:25:26+00:00",
+      "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems."
     },
     {
-      "title": "Capitan Expands High-Grade Silver Mineralization to 600 Metres Down-Dip and Announces New CRD Discovery at Cruz De Plata",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/capitan-expands-high-grade-silver-060000195.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-19T06:00:00+00:00",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 19, 2026) - Capitan Silver Corp. (TSXV: CAPT) (OTCQX: CAPTF) (\"Capitan\" or \"the Company\") is pleased to report additional results from its 60,000-metre drill program at its Cruz de Plata silver-gold project, located in Durang"
+      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+      "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-20T05:57:34+00:00",
+      "summary": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. stockpiles."
     },
     {
-      "title": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
-      "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-19T05:55:44+00:00",
-      "summary": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud."
+      "published": "2026-10-20T05:39:20+00:00",
+      "summary": "BlackRock\u2019s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-20T05:27:53+00:00",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
+    },
+    {
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-19T05:48:07+00:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "published": "2026-10-20T05:14:11+00:00",
+      "summary": "In June, Sophon\u2019s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base."
     },
     {
-      "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-      "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+      "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+      "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-19T05:29:51+00:00",
-      "summary": "The prime minister denied that her policies were responsible for the yen\u2019s weakness or rising JGB yields."
+      "published": "2026-10-20T04:48:52+00:00",
+      "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze."
     },
     {
-      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-19T05:23:02+00:00",
-      "summary": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR\u2019s public chain can\u2019t expose a user\u2019s wider payment history."
-    },
-    {
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-19T05:14:06+00:00",
-      "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax\u2019s start date back two years."
+      "published": "2026-10-20T04:07:58+00:00",
+      "summary": "The restrictions extend earlier bans within US defense and security agencies, amid concerns that DeepSeek could expose federal information to China."
     },
     {
-      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-      "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-19T04:54:31+00:00",
-      "summary": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval."
-    },
-    {
-      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-      "source": "CNBC Top News",
+      "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+      "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "source": "CNBC Earnings",
       "category": "stocks",
-      "published": "2026-10-19T04:36:39+00:00",
-      "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand."
+      "published": "2026-10-20T04:01:01+00:00",
+      "summary": "GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and adjusted EPS of $2.80."
     },
     {
-      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
-      "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-19T03:56:03+00:00",
-      "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer."
-    },
-    {
-      "title": "Bitcoin, Korea\u2019s Kospi and Nasdaq futures rally as China GDP beats estimates",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-19T03:36:58+00:00",
-      "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite."
-    },
-    {
-      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-      "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-19T03:18:51+00:00",
-      "summary": "France\u2019s worst unrest in years saw thousands arrested, prompting President Macron to vow an \u201cuncompromising\u201d response ahead of a critical budget vote."
-    },
-    {
-      "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
-      "link": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-19T03:00:33+00:00",
-      "summary": "Indonesia's benchmark stock index plunged to its lowest level in six years."
-    },
-    {
-      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-19T02:00:00+00:00",
-      "summary": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients\u2019 wallets and private keys."
-    },
-    {
-      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-      "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-19T01:56:34+00:00",
-      "summary": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026."
-    },
-    {
-      "title": "Gold rises as Warsh remarks temper Fed hike bets, futures top $4,200",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-warsh-remarks-curb-013418779.html?.tsrc=rss",
+      "title": "Gold dips as oil prices fuel inflation fears, Fed outlook in focus",
+      "link": "https://finance.yahoo.com/economy/policy/articles/gold-dips-oil-prices-fuel-030209379.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-19T01:34:18+00:00",
-      "summary": "At 00:51 ET (04:51 GMT), spot gold rose 0.4% to $4,180.29 an ounce, while U.S. gold futures gained 0.5% to $4,200.92. Silver advanced 1.3% to $57.7300 an ounce, while platinum also climbed 1.3% to $1,655.53. Spot palladium rose 1.5% to $1,132.74. The U.S. Dollar Index was little "
+      "published": "2026-10-20T03:02:09+00:00",
+      "summary": "Investing.com-- Gold prices edged lower on Tuesday, extending losses for a third session, as elevated oil prices fuelled inflation concerns and clouded the outlook for U.S. monetary policy ahead of the Federal Reserve's meeting next week."
     },
     {
-      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-      "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+      "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-20T02:44:35+00:00",
+      "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms."
+    },
+    {
+      "title": "Horizon Gold DFS: Eyes 2028 production at Gum Creek",
+      "link": "https://finance.yahoo.com/video/horizon-gold-dfs-eyes-2028-021838922.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-20T02:18:38+00:00",
+      "summary": "Horizon Gold Limited managing director Scott Williamson talked with Proactive about its definitive feasibility study (DFS) for the company\u2019s 100%-owned Gum Creek Gold Project in Western Australia. Williamson outlined the history of Gum Creek, which operated as a gold mine through"
+    },
+    {
+      "title": "\u2018Open your doors for AI\u2019: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+      "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-20T02:16:25+00:00",
+      "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin."
+    },
+    {
+      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-20T01:53:34+00:00",
+      "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he\u2019s \u201cnot getting involved in Israeli elections\u201d a week before Israelis vote."
+    },
+    {
+      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "link": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-19T01:03:27+00:00",
-      "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan."
+      "published": "2026-10-20T01:35:00+00:00",
+      "summary": "\u201cA return to last year\u2019s indiscriminate capital raising looks unlikely,\u201d said Bitfinex head of derivatives Jag Kooner."
     },
     {
-      "title": "NewPeak Metals begins Phase 2 drilling at Las Ope\u00f1as Gold Project in Argentina",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100268/newpeak-metals-readies-phase-2-drilling-at-las-openas-gold-project-in-argentina-1100268.html?.tsrc=rss",
+      "title": "Alkane Resources extends Nagambie gold-antimony system",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100344/alkane-resources-extends-nagambie-gold-antimony-system-1100344.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-19T00:30:00+00:00",
-      "summary": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF) has started a minimum 1,000-metre Phase 2 diamond drilling program at its Las Ope\u00f1as Gold Project in Argentina, targeting a potentially higher-grade gold zone west of its recent discovery holes at the project. A drill rig has been secured a"
+      "published": "2026-10-19T23:24:00+00:00",
+      "summary": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has confirmed and extended gold-antimony mineralisation at the Nagambie Project in Victoria, including high-grade results outside the existing Inferred Mineral Resource. Initial assays from three diamond holes have confirmed continuity ac"
     },
     {
-      "title": "Europe sent its gold to the U.S. for safe keeping during World War II. Central banks are now reshuffling their reserves for a new era of uncertainty",
-      "link": "https://finance.yahoo.com/economy/policy/articles/europe-sent-gold-u-safe-232939141.html?.tsrc=rss",
+      "title": "Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund",
+      "link": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-18T23:29:39+00:00",
-      "summary": "\"Central banks are increasingly optimizing across three considerations: custody risk, physical accessibility and market liquidity.\""
+      "published": "2026-10-19T22:47:32+00:00",
+      "summary": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine print."
     },
     {
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-18T23:28:06+00:00",
-      "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC\u2019s framework."
+      "title": "Blood clots are \u2018incredibly common,\u2019 even for pro athletes like Jalen Hurts. Here\u2019s what to know.",
+      "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:58:00+00:00",
+      "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism."
     },
     {
-      "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
-      "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Video - CEO Clips: Altamira Gold: Unlocking a Growing Porphyry Gold District in Brazil",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/video-ceo-clips-altamira-gold-215500784.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-19T21:55:00+00:00",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 19, 2026) - Altamira Gold Corp. (TSXV: ALTA) is exploring and developing gold projects in Brazil's highly prospective and under explored Alta Floresta Gold Belt. Its flagship Cajueiro Gold District hosts more than 2 million o"
+    },
+    {
+      "title": "When should you dump your target-date funds?",
+      "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:37:00+00:00",
+      "summary": "Target-date funds aren\u2019t necessarily built to handle many of the decisions retirees face."
+    },
+    {
+      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:36:00+00:00",
+      "summary": "Credit markets are sending unusually mixed messages to investors right now, and it\u2019s making some people nervous."
+    },
+    {
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s I\u2019m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:30:00+00:00",
+      "summary": "\u201cIll-timed circumstances can change our financial future in unexpected ways.\u201d"
+    },
+    {
+      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:15:00+00:00",
+      "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d"
+    },
+    {
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:06:00+00:00",
+      "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings."
+    },
+    {
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-18T22:58:17+00:00",
-      "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring."
+      "published": "2026-10-19T21:04:34+00:00",
+      "summary": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
     },
     {
-      "title": "Small Caps Watch: Friday\u2019s 2.2% rebound trims five-day losses",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100262/small-caps-watch-friday-s-2-2-rebound-trims-five-day-losses-1100262.html?.tsrc=rss",
+      "title": "SpaceX earnings will be all about AI \u2014 for better or for worse",
+      "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:02:00+00:00",
+      "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost."
+    },
+    {
+      "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+      "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-19T21:00:02+00:00",
+      "summary": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S."
+    },
+    {
+      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-19T21:00:00+00:00",
+      "summary": "Intel\u2019s manufacturing and chip design have improved, according to a J.P. Morgan analyst."
+    },
+    {
+      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+      "link": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-19T20:22:41+00:00",
+      "summary": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district."
+    },
+    {
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-19T20:21:13+00:00",
+      "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran."
+    },
+    {
+      "title": "Investors Should Sort Portfolios by Liquidity, Not Just Asset Class",
+      "link": "https://finance.yahoo.com/m/0b80de37-c84a-35e6-89cb-d25801dd6a63/investors-should-sort.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-18T22:26:00+00:00",
-      "summary": "Australian small-cap stocks rebounded on Friday, with the S&P/ASX Small Ordinaries Index gaining 68.80 points, or 2.20%, to 3,189.20. The advance recovered some lost ground, although the index remained down 111.90 points, or 3.39%, over the past five trading days. It's been a bri"
-    },
-    {
-      "title": "The White House's crypto chief departs: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-18T18:30:00+00:00",
-      "summary": "Patrick Witt announced his departure from the White House last week."
-    },
-    {
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-18T17:00:00+00:00",
-      "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d"
-    },
-    {
-      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-18T16:33:00+00:00",
-      "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same."
-    },
-    {
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-18T16:15:00+00:00",
-      "summary": "\u201dI earn $110,000 a year.\u201d"
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-18T16:00:00+00:00",
-      "summary": "\u201cThe house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.\u201d"
-    },
-    {
-      "title": "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-18T15:15:00+00:00",
-      "summary": "\u201cI have some reservations about the long-term stability of my younger son\u2019s marriage.\u201d"
-    },
-    {
-      "title": "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-18T15:00:00+00:00",
-      "summary": "\u201cMy plan is to continue working as long as I\u2019m able to do so and invest my Social Security benefits while I\u2019m still earning a paycheck.\u201d"
+      "published": "2026-10-19T20:13:00+00:00",
+      "summary": "What matters most to clients is how fast they can get their cash back when they need it, writes this entrepreneur and family office executive."
     }
   ]
 }
