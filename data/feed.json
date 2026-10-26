@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-25T06:37:05+00:00",
+  "generated": "2026-10-26T06:52:36+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 14,
-    "crypto": 8,
-    "gold": 8
+    "stocks": 13,
+    "crypto": 10,
+    "gold": 7
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 3
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 3
     }
   ],
   "items": [
     {
-      "title": "Gold prices break $4,000 as investors brace for crucial test",
-      "link": "https://www.thestreet.com/investing/gold-prices-4000-support-break?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-25T02:17:00+00:00",
-      "summary": "A familiar safe haven faces another uncomfortable question."
-    },
-    {
-      "title": "Bitcoin or Gold: Which Is the Better Inflation Hedge With Prices Up 3.7%?",
-      "link": "https://247wallst.com/investing/cryptocurrency/2026/10/24/bitcoin-or-gold-which-is-the-better-inflation-hedge-with-prices-up-3-7/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-24T21:48:40+00:00",
-      "summary": "Gold and Bitcoin have both stumbled in 2026 even as consumer prices keep climbing, but the two assets tell very different stories about which one actually holds its value when inflation bites."
-    },
-    {
-      "title": "3 Gold Mining Stocks Retail Investors May Watch as Inflation Heats Up",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/3-gold-mining-stocks-retail-210748654.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-24T21:07:48+00:00",
-      "summary": "Inflation is heating up again, the Fed has just raised rates for the first time since 2023, and real wages are shrinking, which is a tough mix for most assets but a potential turning point for a small corner of the market. Some gold and precious metals miners in our screener appe"
-    },
-    {
-      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-      "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
+      "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-24T20:38:30+00:00",
-      "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions."
+      "published": "2026-10-26T06:00:01+00:00",
+      "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024."
     },
     {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T20:15:00+00:00",
-      "summary": "\u201cNothing has been set aside for his needs.\u201d"
-    },
-    {
-      "title": "3 Gold Stocks With Net Margins Over 34%",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/3-gold-stocks-net-margins-201233919.html?.tsrc=rss",
+      "title": "Precious Metals Buffeted By Higher Interest Rates, Deficits and Geopolitics",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/precious-metals-buffeted-higher-interest-060000368.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-24T20:12:33+00:00",
-      "summary": "Gold briefly trading above $5,000 earlier this year reminded everyone how quickly this metal can move when fear and inflation worries flare up. The most resilient way to play that theme is often through miners that keep costs tight and balance sheets clean, so they can stay stand"
+      "published": "2026-10-26T06:00:00+00:00",
+      "summary": "Precious metal prices are well off their peaks amid a confluence of factors including higher interest rates."
+    },
+    {
+      "title": "Resolution Minerals eyes larger Golden Gate gold play",
+      "link": "https://finance.yahoo.com/video/resolution-minerals-eyes-larger-golden-054822227.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-26T05:48:22+00:00",
+      "summary": "Resolution Minerals Ltd US operations chief executive Craig Lindsay talked with Proactive about the latest drilling results from the company\u2019s 100%-owned Horse Heaven Project in Idaho, where Golden Gate North has developed into a broad gold-mineralised system extending for at lea"
+    },
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-26T05:44:44+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-26T05:39:17+00:00",
+      "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss."
+    },
+    {
+      "title": "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
+      "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-26T05:22:30+00:00",
+      "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances."
+    },
+    {
+      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-26T05:18:01+00:00",
+      "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand."
+    },
+    {
+      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-26T05:15:20+00:00",
+      "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
+    },
+    {
+      "title": "Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019",
+      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-26T05:13:33+00:00",
+      "summary": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030."
+    },
+    {
+      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-26T04:56:16+00:00",
+      "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers."
+    },
+    {
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-26T04:37:02+00:00",
+      "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
+    },
+    {
+      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-26T04:09:41+00:00",
+      "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round."
+    },
+    {
+      "title": "Gold steadies near 3-mth low as elevated oil prices weigh; Fed meet eyed",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-3-mth-033045255.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-26T03:30:45+00:00",
+      "summary": "Investing.com-- Gold prices held largely steady in Asian trading on Monday after falling more than 4% last week, as investors assessed the impact of elevated energy prices on inflation and monetary policy ahead of the Federal Reserve's meeting this week."
+    },
+    {
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-26T03:21:26+00:00",
+      "summary": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
+    },
+    {
+      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-26T03:11:39+00:00",
+      "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers."
+    },
+    {
+      "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-26T02:24:04+00:00",
+      "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
+    },
+    {
+      "title": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T01:50:00+00:00",
+      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips."
+    },
+    {
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-26T00:37:51+00:00",
+      "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs."
+    },
+    {
+      "title": "Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin",
+      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-26T00:13:29+00:00",
+      "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
+    },
+    {
+      "title": "Riversgold to begin exploration across 12-kilometre Tambourah gold-copper trend",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100640/riversgold-to-begin-exploration-across-12-kilometre-tambourah-gold-copper-trend-1100640.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-25T23:57:00+00:00",
+      "summary": "Riversgold Ltd (ASX:RGL, OTC:RVSGF) will begin a surface sampling program at its 100%-owned Tambourah Project in Western Australia\u2019s Pilbara region, targeting gold and copper mineralisation across a 12-kilometre trend. Exploration consultant Apex Geoscience is scheduled to mobili"
+    },
+    {
+      "title": "Bitcoin and Gold Hit a Historic First in 2026. The Two \u201cSafe Havens\u201d Are Now the Worst Assets",
+      "link": "https://beincrypto.com/bitcoin-gold-worst-assets-2026/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-25T23:40:00+00:00",
+      "summary": "Bitcoin and gold rank as the worst major assets of 2026, a first in Charlie Bilello's data. See why oil and the Fed hurt both."
+    },
+    {
+      "title": "Resolution Minerals confirms 500-metre gold zone at Golden Gate North in Idaho",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100639/resolution-minerals-confirms-500-metre-gold-zone-at-golden-gate-north-in-idaho-1100639.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-25T23:32:00+00:00",
+      "summary": "Resolution Minerals Ltd (ASX:RML, OTCQB:RLMLF) has confirmed a large gold-mineralised zone extending for at least 500 metres at Golden Gate North within its 100%-owned Horse Heaven Project in Idaho, United States. Assays from the first three holes reported from the 2026 program r"
+    },
+    {
+      "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-25T22:48:40+00:00",
+      "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. \u2018Steal My Bitcoin\u2019 site successfully hacked."
+    },
+    {
+      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-25T20:28:55+00:00",
+      "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan."
     },
     {
       "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
       "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-24T20:00:00+00:00",
+      "published": "2026-10-25T20:15:00+00:00",
       "summary": "\u201cMy late father bought our house for $250,000 in the 1990s.\u201d"
     },
     {
-      "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
-      "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-24T19:57:24+00:00",
-      "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska."
-    },
-    {
-      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T19:45:00+00:00",
-      "summary": "\u201cHe wants to buy something for $600,000 now that we are empty-nesters.\u201d"
-    },
-    {
-      "title": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T18:45:00+00:00",
-      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things."
-    },
-    {
-      "title": "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
-      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T18:03:00+00:00",
-      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect"
-    },
-    {
-      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T17:39:00+00:00",
-      "summary": "\u201cI\u2019m 32 years old and feel like I should know how to do this stuff by now.\u201d"
-    },
-    {
-      "title": "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
-      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T17:23:00+00:00",
-      "summary": "Nearly half of Americans haven\u2019t calculated what they\u2019ll need in retirement."
-    },
-    {
-      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
-      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-24T16:59:00+00:00",
-      "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality."
-    },
-    {
-      "title": "Wall Street Assets Take Nearly A Quarter Of Crypto Perpetual Trading: Glassnode Report",
-      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/wall-street-assets-take-nearly-a-quarter-of-crypto-perpetual-trading-glassnode-report/cZUGsgwRBUS?.tsrc=rss",
+      "title": "Selling $300,000 of GLD Bought Five Years Ago Means a $162,713 Gain Taxed as a Collectible, Not a Stock",
+      "link": "https://247wallst.com/investing/etf/2026/10/25/selling-300000-of-gld-bought-five-years-ago-means-a-162713-gain-taxed-as-a-collectible-not-a-stock/?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-24T16:14:32+00:00",
-      "summary": "Bitcoin's correlation with gold peaked in September at its highest level since the data began in 2018."
+      "published": "2026-10-25T20:03:31+00:00",
+      "summary": "GLD trades like a stock but the IRS does not treat it like one, and the difference in your tax bill when you finally sell could be far larger than you expect."
     },
     {
-      "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-      "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-      "source": "CNBC Earnings",
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-24T16:14:00+00:00",
-      "summary": "The rotation out of AI stocks benefited several defensive Club stocks."
+      "published": "2026-10-25T20:00:00+00:00",
+      "summary": "\u201cI married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.\u201d"
     },
     {
-      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T16:00:00+00:00",
-      "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-25T19:30:00+00:00",
+      "summary": "\u201cLast summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.\u201d"
     },
     {
-      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T15:21:06+00:00",
-      "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children\u2019s education."
-    },
-    {
-      "title": "Why popular airplanes are getting scrapped years early",
-      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "title": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
+      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-24T15:18:30+00:00",
-      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply."
+      "published": "2026-10-25T18:18:49+00:00",
+      "summary": "Ukraine challenged Musk\u2019s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use."
     },
     {
-      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T15:11:24+00:00",
-      "summary": "Bitcoin has sunk to its weakest level in more than one month."
-    },
-    {
-      "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-      "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-      "source": "CNBC Top News",
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-24T15:00:01+00:00",
-      "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds."
-    },
-    {
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T15:00:00+00:00",
-      "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
-    },
-    {
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T14:38:47+00:00",
-      "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
-    },
-    {
-      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-      "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-24T14:30:01+00:00",
-      "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca."
-    },
-    {
-      "title": "Will gold hit $5,000 again? What experts expect for 2027",
-      "link": "https://www.usatoday.com/story/money/money-management/investing/2026/10/24/will-gold-hit-5000/90667077007/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-24T14:15:45+00:00",
-      "summary": "Gold may not hit $5,000 this year, but experts see a possible path back in 2027. Here\u2019s what could drive the next move, and if now is the time to buy."
-    },
-    {
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T14:06:24+00:00",
-      "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22."
-    },
-    {
-      "title": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T14:00:00+00:00",
-      "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
-    },
-    {
-      "title": "Gold Just Fell Below $4,000 After Its Worst Week in Five Months",
-      "link": "https://247wallst.com/investing/2026/10/24/gold-just-fell-below-4000-after-its-worst-week-in-five-months/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-24T12:27:36+00:00",
-      "summary": "Gold cracked a key psychological level for the second time this year as margin calls, soaring oil prices, and rising rate-hike odds turned the classic safe haven into a liability. Now two events in the next week will decide whether buyers can hold the line."
-    },
-    {
-      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
-      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-24T12:00:00+00:00",
-      "summary": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East."
-    },
-    {
-      "title": "Peter Schiff Says Buy Gold Near $4000 As Prices Sink From January High, Warns Of Currency Crisis Worse Than 2008",
-      "link": "https://stocktwits.com/news-articles/markets/equity/peter-schiff-says-buy-gold-near-4000-as-prices-sink-from-january-high-warns-of-currency-crisis-worse-than-2008/cZUGZIZRBUi?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-24T11:46:04+00:00",
-      "summary": "Rising interest rates are a major headwind for gold, as higher yields make the non-interest-bearing metal less attractive, Schiff said."
+      "published": "2026-10-25T18:00:00+00:00",
+      "summary": "\u201cNothing has been set aside for his needs.\u201d"
     }
   ]
 }
