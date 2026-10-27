@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-26T06:52:36+00:00",
+  "generated": "2026-10-27T06:41:59+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 13,
-    "crypto": 10,
-    "gold": 7
+    "stocks": 16,
+    "crypto": 6,
+    "gold": 8
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 3
+      "items": 2
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-      "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-26T06:00:01+00:00",
-      "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024."
-    },
-    {
-      "title": "Precious Metals Buffeted By Higher Interest Rates, Deficits and Geopolitics",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/precious-metals-buffeted-higher-interest-060000368.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-26T06:00:00+00:00",
-      "summary": "Precious metal prices are well off their peaks amid a confluence of factors including higher interest rates."
-    },
-    {
-      "title": "Resolution Minerals eyes larger Golden Gate gold play",
-      "link": "https://finance.yahoo.com/video/resolution-minerals-eyes-larger-golden-054822227.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-26T05:48:22+00:00",
-      "summary": "Resolution Minerals Ltd US operations chief executive Craig Lindsay talked with Proactive about the latest drilling results from the company\u2019s 100%-owned Horse Heaven Project in Idaho, where Golden Gate North has developed into a broad gold-mineralised system extending for at lea"
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-27T06:14:41+00:00",
+      "summary": "Sean Bowe\u2019s proposal would send the committee\u2019s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-26T05:44:44+00:00",
+      "published": "2026-10-27T06:08:28+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+      "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-27T05:30:10+00:00",
+      "summary": "HSBC announced its third-quarter earnings on Tuesday."
+    },
+    {
+      "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+      "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-27T05:09:59+00:00",
+      "summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower"
+    },
+    {
+      "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+      "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-27T04:40:30+00:00",
+      "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress."
+    },
+    {
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-26T05:39:17+00:00",
-      "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss."
+      "published": "2026-10-27T04:28:49+00:00",
+      "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
     },
     {
-      "title": "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
-      "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-26T05:22:30+00:00",
-      "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances."
-    },
-    {
-      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-26T05:18:01+00:00",
-      "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand."
-    },
-    {
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-26T05:15:20+00:00",
-      "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
-    },
-    {
-      "title": "Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019",
-      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "link": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-26T05:13:33+00:00",
-      "summary": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030."
+      "published": "2026-10-27T04:26:51+00:00",
+      "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed."
     },
     {
-      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-      "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-27T04:01:00+00:00",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win."
+    },
+    {
+      "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+      "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-26T04:56:16+00:00",
-      "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers."
+      "published": "2026-10-27T03:34:08+00:00",
+      "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers."
     },
     {
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-26T04:37:02+00:00",
-      "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
-    },
-    {
-      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "title": "DOJ charges ex-FBI Director James Comey in new case",
+      "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-26T04:09:41+00:00",
-      "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round."
+      "published": "2026-10-27T03:30:04+00:00",
+      "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017."
     },
     {
-      "title": "Gold steadies near 3-mth low as elevated oil prices weigh; Fed meet eyed",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-3-mth-033045255.html?.tsrc=rss",
+      "title": "Bitcoin and gold are 2026\u2019s worst-performing assets, and history offers no precedent",
+      "link": "https://www.thestreet.com/crypto/markets/bitcoin-and-gold-are-2026s-worst-performing-assets-and-history-offers-no-precedent?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-26T03:30:45+00:00",
-      "summary": "Investing.com-- Gold prices held largely steady in Asian trading on Monday after falling more than 4% last week, as investors assessed the impact of elevated energy prices on inflation and monetary policy ahead of the Federal Reserve's meeting this week."
+      "published": "2026-10-27T02:30:00+00:00",
+      "summary": "The two assets investors often turn to for protection are trailing stocks, bonds and even cash this year."
     },
     {
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-26T03:21:26+00:00",
-      "summary": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
+      "published": "2026-10-27T01:55:03+00:00",
+      "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks."
     },
     {
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-26T03:11:39+00:00",
-      "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers."
+      "title": "Gold slips near $4,010 as traders await Fed decision, Iran diplomacy offers hope",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-010-013656079.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-27T01:36:56+00:00",
+      "summary": "Investing.com -- Gold prices edged lower on Tuesday as investors awaited the Federal Reserve\u2019s policy decision this week, with diplomatic efforts to ease the U.S.-Iran conflict offering some relief to energy markets even as inflation concerns and uncertainty over interest rates c"
     },
     {
-      "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",
-      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-26T02:24:04+00:00",
-      "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
-    },
-    {
-      "title": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals",
-      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-26T01:50:00+00:00",
-      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips."
-    },
-    {
-      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-26T00:37:51+00:00",
-      "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs."
+      "published": "2026-10-27T01:05:06+00:00",
+      "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency."
     },
     {
-      "title": "Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin",
-      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-26T00:13:29+00:00",
-      "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
-    },
-    {
-      "title": "Riversgold to begin exploration across 12-kilometre Tambourah gold-copper trend",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100640/riversgold-to-begin-exploration-across-12-kilometre-tambourah-gold-copper-trend-1100640.html?.tsrc=rss",
+      "title": "Gold Price Crashed 25%, But Investors are Still Buying",
+      "link": "https://beincrypto.com/gold-price-falls-etfs-rally-investors-keep-buying/?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-25T23:57:00+00:00",
-      "summary": "Riversgold Ltd (ASX:RGL, OTC:RVSGF) will begin a surface sampling program at its 100%-owned Tambourah Project in Western Australia\u2019s Pilbara region, targeting gold and copper mineralisation across a 12-kilometre trend. Exploration consultant Apex Geoscience is scheduled to mobili"
+      "published": "2026-10-27T00:46:42+00:00",
+      "summary": "Gold fell 25% since the Iran war began, yet gold ETF holdings hit a record. See who is buying, who is selling, and why."
     },
     {
-      "title": "Bitcoin and Gold Hit a Historic First in 2026. The Two \u201cSafe Havens\u201d Are Now the Worst Assets",
-      "link": "https://beincrypto.com/bitcoin-gold-worst-assets-2026/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-25T23:40:00+00:00",
-      "summary": "Bitcoin and gold rank as the worst major assets of 2026, a first in Charlie Bilello's data. See why oil and the Fed hurt both."
-    },
-    {
-      "title": "Resolution Minerals confirms 500-metre gold zone at Golden Gate North in Idaho",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100639/resolution-minerals-confirms-500-metre-gold-zone-at-golden-gate-north-in-idaho-1100639.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-25T23:32:00+00:00",
-      "summary": "Resolution Minerals Ltd (ASX:RML, OTCQB:RLMLF) has confirmed a large gold-mineralised zone extending for at least 500 metres at Golden Gate North within its 100%-owned Horse Heaven Project in Idaho, United States. Assays from the first three holes reported from the 2026 program r"
-    },
-    {
-      "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-25T22:48:40+00:00",
-      "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. \u2018Steal My Bitcoin\u2019 site successfully hacked."
-    },
-    {
-      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+      "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey",
+      "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-25T20:28:55+00:00",
-      "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan."
+      "published": "2026-10-27T00:17:44+00:00",
+      "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise."
     },
     {
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-25T20:15:00+00:00",
-      "summary": "\u201cMy late father bought our house for $250,000 in the 1990s.\u201d"
+      "title": "Ripple wins final US approval for national trust bank",
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-27T00:06:41+00:00",
+      "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
     },
     {
-      "title": "Selling $300,000 of GLD Bought Five Years Ago Means a $162,713 Gain Taxed as a Collectible, Not a Stock",
-      "link": "https://247wallst.com/investing/etf/2026/10/25/selling-300000-of-gld-bought-five-years-ago-means-a-162713-gain-taxed-as-a-collectible-not-a-stock/?.tsrc=rss",
+      "title": "30 September 2026 Quarterly Activities Report",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/30-september-2026-quarterly-activities-000000031.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-25T20:03:31+00:00",
-      "summary": "GLD trades like a stock but the IRS does not treat it like one, and the difference in your tax bill when you finally sell could be far larger than you expect."
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "2m cash and >250,000L strategic diesel reserve on handADELAIDE, AU / ACCESS Newswire / October 26, 2026 / Barton Gold Holdings Ltd (Barton or the Company)ACN: 633 442 618 ABN: 36 633 442 618 Level 22, 30 Pirie Street Adelaide SA 5000 T: +61 8 8379 7166 E: contact@bartongold.auSto"
     },
     {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-25T20:00:00+00:00",
-      "summary": "\u201cI married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.\u201d"
+      "title": "FireFly Metals makes high-grade copper-gold discovery at Mount Joy",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100716/firefly-metals-makes-high-grade-copper-gold-discovery-at-mount-joy-1100716.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-26T23:18:00+00:00",
+      "summary": "FireFly Metals Ltd (ASX:FFM, TSX:FFM, OTC:FFMFF) has made a high-grade copper-gold discovery at the Mount Joy prospect within its Green Bay Copper-Gold Project in Newfoundland, Canada, with initial drilling returning 22.5 metres at 2.5% copper equivalent from 109 metres. The disc"
     },
     {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-25T19:30:00+00:00",
-      "summary": "\u201cLast summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.\u201d"
+      "title": "FireFly makes another significant high-grade copper-gold VMS discovery",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/firefly-makes-another-significant-high-225200002.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-26T22:52:00+00:00",
+      "summary": "Green Bay Copper-Gold Project, Canada The greenfields discovery, just 35km from the flagship Ming Mine, highlights the exploration potential of numerous targets to be tested at Green Bay KEY POINTS Regional exploration drilling at the Green Bay Copper-Gold Project has discovered "
     },
     {
-      "title": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
-      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-25T18:18:49+00:00",
-      "summary": "Ukraine challenged Musk\u2019s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use."
+      "published": "2026-10-26T22:50:07+00:00",
+      "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance."
     },
     {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "title": "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-25T18:00:00+00:00",
-      "summary": "\u201cNothing has been set aside for his needs.\u201d"
+      "published": "2026-10-26T22:30:00+00:00",
+      "summary": "\u201cConsider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.\u201d"
+    },
+    {
+      "title": "Could High Grade Apollo Drill Results Change The Bull Case For Collective Mining Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/could-high-grade-apollo-drill-221303632.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-26T22:13:03+00:00",
+      "summary": "Collective Mining reported new assay results from the Apollo deposit at Guayabales, including high-grade gold, silver, copper and tungsten across both the Ramp Zone and Shallow Halo Zone, with several intervals sitting outside the current Mineral Resource block model. The discove"
+    },
+    {
+      "title": "Dividend stocks are having an excellent October as tech sector struggles",
+      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T22:10:00+00:00",
+      "summary": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026."
+    },
+    {
+      "title": "Options traders are seizing control of the S&P 500",
+      "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T22:03:00+00:00",
+      "summary": "There\u2019s a reason the index hasn\u2019t moved much since June, according to a team at UBS."
+    },
+    {
+      "title": "TikTok parent ByteDance\u2019s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T22:00:00+00:00",
+      "summary": "Consumers in China are starting to wonder \u2014 for good reason \u2014 whether the emerging AI travel agents have a hidden agenda."
+    },
+    {
+      "title": "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
+      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T21:55:00+00:00",
+      "summary": "Nearly half of Americans haven\u2019t calculated what they\u2019ll need in retirement."
+    },
+    {
+      "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+      "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T21:46:00+00:00",
+      "summary": "The Wall Street Journal reports that DoorDash was in \u2018advanced talks\u2019 to buy Instacart in a deal that would value Instacart at roughly $17 billion"
+    },
+    {
+      "title": "Perpetua Resources Awarded Up to $40 Million in U.S. Army Funding to Advance Domestic Tungsten Supply for American Defense",
+      "link": "https://finance.yahoo.com/news/perpetua-resources-awarded-40-million-214500543.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-26T21:45:00+00:00",
+      "summary": "Perpetua Resources Corp. (Nasdaq: PPTA) (TSX: PPTA) (\"Perpetua Resources\" or \"Perpetua\" or the \"Company\") today announced a new 36-month, $40 million award through the U.S. Army's Defense Ordnance Technology Consortium (\"DOTC\") from the Portfolio Acquisition Executive Agile Susta"
+    },
+    {
+      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-26T21:44:00+00:00",
+      "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year."
     }
   ]
 }
