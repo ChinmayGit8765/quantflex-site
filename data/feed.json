@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-28T06:30:34+00:00",
+  "generated": "2026-10-29T06:30:42+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 10,
-    "gold": 5
+    "stocks": 17,
+    "crypto": 9,
+    "gold": 4
   },
   "sources": [
     {
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 1
     }
   ],
   "items": [
-    {
-      "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-      "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-28T06:08:16+00:00",
-      "summary": ""
-    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-28T06:00:00+00:00",
+      "published": "2026-10-29T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
-      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-28T05:54:33+00:00",
-      "summary": "Shares of South Korean chipmaker SK Hynix soared over 10% on Wednesday as third-quarter profit sharply beats estimates."
-    },
-    {
-      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-      "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-28T05:52:51+00:00",
-      "summary": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East."
-    },
-    {
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can\u2019t access its BTC",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-28T05:28:13+00:00",
-      "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn."
+      "published": "2026-10-29T05:54:39+00:00",
+      "summary": "Three flaws a language-model scan dug up are the first disclosed under Core\u2019s new rules for bugs that are easy to find."
     },
     {
-      "title": "Meta- and Google-backed Jio Platforms\u2019 shares soar over 21% on trading debut after record IPO",
-      "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-28T05:16:41+00:00",
-      "summary": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO."
-    },
-    {
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-28T05:10:36+00:00",
-      "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed."
+      "published": "2026-10-29T05:30:34+00:00",
+      "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren\u2019t exposed."
     },
     {
-      "title": "Does Quarterly Production Update Change The Bull Case For MMG (SEHK:1208)?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-quarterly-production-change-bull-044320971.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-28T04:43:20+00:00",
-      "summary": "MMG Limited reported third quarter 2026 production, including 111,780 tonnes of copper in concentrate, 19,435 tonnes of copper cathode, 55,914 tonnes of zinc, and meaningful volumes of lead, gold, silver, molybdenum, and cobalt. Year to date output to 30 September 2026 shows MMG "
-    },
-    {
-      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
-      "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-28T04:29:20+00:00",
-      "summary": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms."
-    },
-    {
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "title": "Utah charges predictions platform Kalshi with illegal gambling",
+      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-28T04:15:20+00:00",
-      "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb."
+      "published": "2026-10-29T05:02:37+00:00",
+      "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders."
     },
     {
-      "title": "Robinhood\u2019s Tenev warns US tokenization uncertainty deters \u2018serious assets\u2019",
-      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+      "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-29T04:55:17+00:00",
+      "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years."
+    },
+    {
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-28T03:55:57+00:00",
-      "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US."
+      "published": "2026-10-29T04:39:49+00:00",
+      "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
     },
     {
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+      "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-29T04:29:32+00:00",
+      "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states."
+    },
+    {
+      "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+      "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-29T04:00:51+00:00",
+      "summary": "The EPA projects Trump\u2019s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%."
+    },
+    {
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-10-28T03:11:14+00:00",
-      "summary": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached."
+      "published": "2026-10-29T03:32:43+00:00",
+      "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations."
     },
     {
-      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-      "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-28T03:02:44+00:00",
-      "summary": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion."
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-29T03:21:24+00:00",
+      "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it."
     },
     {
-      "title": "Bithumb discloses data leak after internal system breach: Report",
-      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-28T02:18:47+00:00",
-      "summary": "The breach impacted its in-house mobile system, used by employees for work and information sharing."
+      "published": "2026-10-29T03:16:32+00:00",
+      "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public."
     },
     {
-      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-28T02:15:55+00:00",
-      "summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority."
+      "published": "2026-10-29T02:49:39+00:00",
+      "summary": "Samsung Electronics reported third-quarter earnings on Thursday."
     },
     {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "title": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-28T02:15:00+00:00",
-      "summary": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further."
+      "published": "2026-10-29T01:58:00+00:00",
+      "summary": "A doubling of cloud revenue wasn\u2019t enough to appease Wall Street as investors grew more concerned that AI is hurting the company\u2019s ability to make money off search queries."
     },
     {
-      "title": "Gold falls toward $4,040 as dollar edges higher ahead of Fed decision",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-above-4-000-012707891.html?.tsrc=rss",
+      "title": "Gold falls toward $4,040 as Fed outlook leaves traders awaiting inflation data",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-fed-holds-rates-015115459.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-28T01:27:07+00:00",
-      "summary": "Investing.com -- Gold prices fell on Wednesday as investors awaited the Federal Reserve\u2019s interest-rate decision, with a slightly higher U.S. dollar adding pressure to bullion despite bargain buying and hopes that easing oil prices could temper inflation risks."
+      "published": "2026-10-29T01:51:15+00:00",
+      "summary": "Investing.com -- Gold prices fell on Thursday after the Federal Reserve held interest rates steady but offered limited clarity on its next move, leaving investors uncertain about further tightening before year-end as they awaited fresh inflation data."
     },
     {
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "What Is The One Risk Every Newmont Investor Should Know?",
+      "link": "https://www.trefis.com/stock/nem/articles/620959/what-is-the-one-risk-every-newmont-investor-should-know/2026-10-28?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-29T01:21:43+00:00",
+      "summary": "For questions about this article or underlying research, email help@trefis.com."
+    },
+    {
+      "title": "Fed\u2019s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-28T00:47:04+00:00",
-      "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns."
+      "published": "2026-10-29T01:12:01+00:00",
+      "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin\u2019s next move."
     },
     {
-      "title": "Novo Resources clears Tibooburra drilling and forms 70:30 gold joint venture",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100795/novo-resources-clears-tibooburra-drilling-and-forms-70-30-gold-joint-venture-1100795.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-27T23:44:00+00:00",
-      "summary": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO) has received the approvals required to begin a 2,700-metre reverse circulation (RC) drilling program at the Tibooburra Gold Project in New South Wales and formed a 70:30 joint venture with Manhattan Gold Corporation Ltd. Drillin"
-    },
-    {
-      "title": "Small Cap watch: Nova Minerals clears antimony permits and gold explorers gear up",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100793/small-cap-watch-nova-minerals-clears-antimony-permits-and-gold-explorers-gear-up-1100793.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-27T23:28:00+00:00",
-      "summary": "The S&P/ASX Small Ordinaries Index (XSO) finished at 3,159.80, gaining 12.90 points or 0.41% in the latest session as investors weighed fresh developments across resources, technology and industrial stocks. Small-cap companies have had a solid start this morning, with plenty of n"
-    },
-    {
-      "title": "Retail traders buy the dip on chip stocks \u2014 but Robinhood gets burned by the crypto market",
-      "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-27T22:51:00+00:00",
-      "summary": "Robinhood CFO says market volatility didn\u2019t scare traders away from buying chip stocks \u201cthat they had really done research on.\u201d"
-    },
-    {
-      "title": "Where Cramer stands on two beaten-down aerospace stocks \u2014 and the one to buy",
-      "link": "https://www.cnbc.com/2026/10/27/cramer-ge-aerospace-boeing-stock-selloff.html",
+      "title": "Our next steps for Alphabet stock after earnings disappoint at nearly every turn",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/our-next-steps-for-alphabet-stock-after-earnings-disappoint-at-nearly-every-turn.html",
       "source": "CNBC Earnings",
       "category": "stocks",
-      "published": "2026-10-27T22:49:08+00:00",
-      "summary": "CNBC\u2019s Jim Cramer likes this beaten-down aerospace stock after a post-earnings pullback."
+      "published": "2026-10-29T01:11:10+00:00",
+      "summary": "Alphabet whiffed."
     },
     {
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "title": "FedEx's soft holiday-quarter outlook doesn't change our view on the stock",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/fedexs-soft-holiday-quarter-outlook-doesnt-change-our-view-on-the-stock.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-10-29T00:58:50+00:00",
+      "summary": "CEO Raj Subramaniam's transformation is making progress."
+    },
+    {
+      "title": "Microsoft\u2019s strong quarter backs up its stock rebound. Here's our new price target",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-10-29T00:32:02+00:00",
+      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory."
+    },
+    {
+      "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-27T22:18:00+00:00",
-      "summary": "\u201cMy late father bought our house for $250,000 in the 1990s.\u201d"
+      "published": "2026-10-29T00:20:00+00:00",
+      "summary": "An agreement between the companies could come next week, Bloomberg reported"
     },
     {
-      "title": "CoreWeave and other AI stocks rise as Anthropic restores the market\u2019s faith in sustained spending",
-      "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+      "title": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-27T21:41:00+00:00",
-      "summary": "Now that investors have been able to dive further into Anthropic\u2019s IPO filing, they\u2019re seeing the same sorts of trends that helped buoy AI stocks for much of this year."
+      "published": "2026-10-29T00:15:00+00:00",
+      "summary": "\u201cConsider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.\u201d"
     },
     {
-      "title": "As Trump touts energy companies\u2019 fortunes, U.S. consumers face the most expensive year for gas prices ever",
-      "link": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
+      "title": "The major reason Microsoft\u2019s stock is heading higher after earnings",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-27T21:29:00+00:00",
-      "summary": "President Donald Trump can\u2019t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week\u2019s midterm elections."
+      "published": "2026-10-29T00:10:00+00:00",
+      "summary": "Microsoft showed investors that it\u2019s able to grow rapidly while keeping spending in check."
     },
     {
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-27T21:28:22+00:00",
-      "summary": "VanEck\u2019s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
-    },
-    {
-      "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "link": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-27T21:28:00+00:00",
-      "summary": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher."
-    },
-    {
-      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-      "link": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-10-27T21:26:41+00:00",
-      "summary": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out."
-    },
-    {
-      "title": "Airborne Magnetic Survey Generates 22 Priority Gold Exploration Targets",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/airborne-magnetic-survey-generates-22-211500941.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-27T21:15:00+00:00",
-      "summary": "Phase I Exploration Program CompletedMarine Survey to Explore Priority Magnetic TargetsToronto, Ontario--(Newsfile Corp. - October 27, 2026) - GoldCoast Resource Corp. (CSE: GCR) (OTC: GCRFF) (FSE: EKW) (\"GoldCoast\" or the \"Company\") is pleased to announce the results of the inte"
-    },
-    {
-      "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-      "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+      "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+      "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-27T21:12:55+00:00",
-      "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation."
+      "published": "2026-10-28T23:53:58+00:00",
+      "summary": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter."
+    },
+    {
+      "title": "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-28T23:18:00+00:00",
+      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet\u2019s business segments."
+    },
+    {
+      "title": "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-28T23:02:00+00:00",
+      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow\u2019s earnings results weren\u2019t enough to win over software skeptics."
+    },
+    {
+      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+      "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-10-28T23:00:27+00:00",
+      "summary": "CNBC\u2019s Jim Cramer said SK Hynix\u2019s blockbuster earnings showed that AI stocks can still rally."
+    },
+    {
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-28T22:41:00+00:00",
+      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here\u2019s what it could cost you."
+    },
+    {
+      "title": "Kinross Gold (KGC) Beats Q3 Earnings Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-kgc-beats-q3-223008585.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-28T22:30:08+00:00",
+      "summary": "Kinross Gold (KGC) delivered earnings and revenue surprises of +8.70% and -14.71%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+      "title": "Agnico Eagle Mines (AEM) Q3 Earnings and Revenues Beat Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-q3-223003714.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-28T22:30:03+00:00",
+      "summary": "Agnico (AEM) delivered earnings and revenue surprises of +5.67% and +0.89%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-10-28T22:27:00+00:00",
+      "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year."
     }
   ]
 }
