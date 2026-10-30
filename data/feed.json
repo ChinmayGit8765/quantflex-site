@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-29T06:30:42+00:00",
+  "generated": "2026-10-30T06:30:24+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 17,
-    "crypto": 9,
-    "gold": 4
+    "stocks": 12,
+    "crypto": 13,
+    "gold": 5
   },
   "sources": [
     {
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T06:22:00+00:00",
+      "summary": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers."
+    },
+    {
+      "title": "What Alamos Gold (AGI) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-alamos-gold-agi-said-on-its-q3-earnings-call-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-30T06:14:14+00:00",
+      "summary": "Alamos Gold (NYSE:AGI) reported third-quarter 2026 gold production of 119,000 ounces, with record output from the Island Gold District offsetting lower planned production at Young-Davidson. The company said it expects a 26% increase in consolidated production in the fourth quarte"
+    },
+    {
+      "title": "What Agnico Eagle Mines (AEM) Said on Its Q3 Earnings Call",
+      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-agnico-eagle-mines-aem-said-on-its-q3-earnings-call-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-30T06:14:12+00:00",
+      "summary": "Agnico Eagle Mines (NYSE:AEM) reported third-quarter 2026 gold production of 814,000 ounces and free cash flow of $852 million, while reaffirming that it expects to meet the lower end of its annual production guidance and the upper end of its cost guidance. President and CEO Amma"
+    },
+    {
+      "title": "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
+      "link": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-30T06:00:01+00:00",
+      "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-29T06:00:00+00:00",
+      "published": "2026-10-30T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-29T05:54:39+00:00",
-      "summary": "Three flaws a language-model scan dug up are the first disclosed under Core\u2019s new rules for bugs that are easy to find."
-    },
-    {
-      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-29T05:30:34+00:00",
-      "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren\u2019t exposed."
-    },
-    {
-      "title": "Utah charges predictions platform Kalshi with illegal gambling",
-      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-29T05:02:37+00:00",
-      "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders."
-    },
-    {
-      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-      "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-29T04:55:17+00:00",
-      "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years."
-    },
-    {
-      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-29T04:39:49+00:00",
-      "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
+      "published": "2026-10-30T05:53:07+00:00",
+      "summary": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
     },
     {
-      "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-      "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-29T04:29:32+00:00",
-      "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states."
-    },
-    {
-      "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-      "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-10-29T04:00:51+00:00",
-      "summary": "The EPA projects Trump\u2019s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%."
-    },
-    {
-      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-29T03:32:43+00:00",
-      "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations."
-    },
-    {
-      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
-      "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-10-29T03:21:24+00:00",
-      "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it."
-    },
-    {
-      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "North Korea\u2019s TraderTraitor linked to $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-29T03:16:32+00:00",
-      "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public."
+      "published": "2026-10-30T05:51:41+00:00",
+      "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
     },
     {
-      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T05:45:27+00:00",
+      "summary": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
+    },
+    {
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T05:43:07+00:00",
+      "summary": "CoinDCX has restricted new futures positions after Binance\u2019s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said."
+    },
+    {
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T04:50:42+00:00",
+      "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows."
+    },
+    {
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-29T02:49:39+00:00",
-      "summary": "Samsung Electronics reported third-quarter earnings on Thursday."
+      "published": "2026-10-30T04:40:17+00:00",
+      "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses."
     },
     {
-      "title": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
-      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+      "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+      "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-29T01:58:00+00:00",
-      "summary": "A doubling of cloud revenue wasn\u2019t enough to appease Wall Street as investors grew more concerned that AI is hurting the company\u2019s ability to make money off search queries."
+      "published": "2026-10-30T04:19:38+00:00",
+      "summary": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013."
     },
     {
-      "title": "Gold falls toward $4,040 as Fed outlook leaves traders awaiting inflation data",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-fed-holds-rates-015115459.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-29T01:51:15+00:00",
-      "summary": "Investing.com -- Gold prices fell on Thursday after the Federal Reserve held interest rates steady but offered limited clarity on its next move, leaving investors uncertain about further tightening before year-end as they awaited fresh inflation data."
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T04:00:43+00:00",
+      "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base."
     },
     {
-      "title": "What Is The One Risk Every Newmont Investor Should Know?",
-      "link": "https://www.trefis.com/stock/nem/articles/620959/what-is-the-one-risk-every-newmont-investor-should-know/2026-10-28?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-29T01:21:43+00:00",
-      "summary": "For questions about this article or underlying research, email help@trefis.com."
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T03:56:40+00:00",
+      "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance."
     },
     {
-      "title": "Fed\u2019s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+      "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-10-29T01:12:01+00:00",
-      "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin\u2019s next move."
+      "published": "2026-10-30T03:47:01+00:00",
+      "summary": "Standard Chartered\u2019s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap\u2019s UNI token reaching $100 by 2030."
     },
     {
-      "title": "Our next steps for Alphabet stock after earnings disappoint at nearly every turn",
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/our-next-steps-for-alphabet-stock-after-earnings-disappoint-at-nearly-every-turn.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-10-29T01:11:10+00:00",
-      "summary": "Alphabet whiffed."
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T03:36:11+00:00",
+      "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange."
     },
     {
-      "title": "FedEx's soft holiday-quarter outlook doesn't change our view on the stock",
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/fedexs-soft-holiday-quarter-outlook-doesnt-change-our-view-on-the-stock.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-10-29T00:58:50+00:00",
-      "summary": "CEO Raj Subramaniam's transformation is making progress."
-    },
-    {
-      "title": "Microsoft\u2019s strong quarter backs up its stock rebound. Here's our new price target",
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-10-29T00:32:02+00:00",
-      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory."
-    },
-    {
-      "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
-      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-29T00:20:00+00:00",
-      "summary": "An agreement between the companies could come next week, Bloomberg reported"
-    },
-    {
-      "title": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-29T00:15:00+00:00",
-      "summary": "\u201cConsider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.\u201d"
-    },
-    {
-      "title": "The major reason Microsoft\u2019s stock is heading higher after earnings",
-      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-29T00:10:00+00:00",
-      "summary": "Microsoft showed investors that it\u2019s able to grow rapidly while keeping spending in check."
-    },
-    {
-      "title": "As Waymo expands overseas, it remains a niche cash-burning business",
-      "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+      "title": "Israel faces weeks of coalition haggling as Netanyahu\u2019s party claims election 'stolen'",
+      "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-10-28T23:53:58+00:00",
-      "summary": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter."
+      "published": "2026-10-30T03:28:10+00:00",
+      "summary": "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government."
     },
     {
-      "title": "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
-      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-10-28T23:18:00+00:00",
-      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet\u2019s business segments."
+      "published": "2026-10-30T03:16:00+00:00",
+      "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win."
     },
     {
-      "title": "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-28T23:02:00+00:00",
-      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow\u2019s earnings results weren\u2019t enough to win over software skeptics."
-    },
-    {
-      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
-      "link": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-10-28T23:00:27+00:00",
-      "summary": "CNBC\u2019s Jim Cramer said SK Hynix\u2019s blockbuster earnings showed that AI stocks can still rally."
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-10-28T22:41:00+00:00",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here\u2019s what it could cost you."
-    },
-    {
-      "title": "Kinross Gold (KGC) Beats Q3 Earnings Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-kgc-beats-q3-223008585.html?.tsrc=rss",
+      "title": "Gold falls below $4,000 as inflation concerns keep bullion under pressure",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-hovers-near-4-000-014613798.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-10-28T22:30:08+00:00",
-      "summary": "Kinross Gold (KGC) delivered earnings and revenue surprises of +8.70% and -14.71%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+      "published": "2026-10-30T01:46:13+00:00",
+      "summary": "Gold fell more than 3% in October as renewed fighting in the Middle East kept energy prices elevated and fuelled inflation concerns. Oil prices rose on signs that Washington could resume military strikes against Iran after next week\u2019s U.S. midterm elections."
     },
     {
-      "title": "Agnico Eagle Mines (AEM) Q3 Earnings and Revenues Beat Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-q3-223003714.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-10-28T22:30:03+00:00",
-      "summary": "Agnico (AEM) delivered earnings and revenue surprises of +5.67% and +0.89%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
-    },
-    {
-      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "title": "Intel plunges on a major guidance miss. What went wrong \u2014 and how to proceed",
+      "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
       "source": "CNBC Earnings",
       "category": "stocks",
-      "published": "2026-10-28T22:27:00+00:00",
-      "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year."
+      "published": "2026-10-30T01:06:07+00:00",
+      "summary": "Further downside is certainly possible, but selling now won't erase the losses we've taken."
+    },
+    {
+      "title": "Commodity Prices Can Rise While PDBC Lags. Blame the Futures Roll",
+      "link": "https://247wallst.com/investing/etf/2026/10/29/commodity-prices-can-rise-while-pdbc-lags-blame-the-futures-roll/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-30T01:03:09+00:00",
+      "summary": "Commodity prices can surge while your commodity ETF quietly loses ground, and the culprit never shows up in the fee table. Understanding the mechanics of the futures roll reveals a hidden cost that separates the price chart from the return you actually pocket."
+    },
+    {
+      "title": "Buenaventura Announces Third Quarter and Nine-Month 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buenaventura-announces-third-quarter-nine-004500394.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-10-30T00:45:00+00:00",
+      "summary": "LIMA, Peru, October 30, 2026--Compa\u00f1\u00eda de Minas Buenaventura S.A.A. (\"Buenaventura\" or \"the Company\") (NYSE: BVN; Lima Stock Exchange: BUE.LM), Peru\u2019s largest publicly-traded precious metals mining company, today announced results for the third quarter (3Q26) and nine months ende"
+    },
+    {
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-30T00:39:52+00:00",
+      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market."
+    },
+    {
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-10-30T00:38:13+00:00",
+      "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon."
+    },
+    {
+      "title": "FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now",
+      "link": "https://www.cnbc.com/investingclub/2026/10/29/fedex-freight-delivers-a-much-needed-quarterly-beat-where-we-stand-on-shares-now.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-10-30T00:29:50+00:00",
+      "summary": "Shares have struggled since their June debut. But this is a nice step forward."
+    },
+    {
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-10-30T00:17:10+00:00",
+      "summary": "Binance\u2019s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen."
+    },
+    {
+      "title": "Amazon\u2019s stock drops \u2014 even in the face of a bold new cloud forecast",
+      "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-30T00:15:00+00:00",
+      "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon\u2019s third-quarter earnings"
+    },
+    {
+      "title": "A Starbucks turnaround is brewing \u2014 but perhaps not quickly enough for investors",
+      "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-30T00:14:00+00:00",
+      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower."
+    },
+    {
+      "title": "Binance points to engineer\u2019s hacked laptop in $6.3B breach",
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-10-30T00:11:26+00:00",
+      "summary": "Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure."
+    },
+    {
+      "title": "Sandisk sees revenue nearly quintuple \u2014 and a stock split is on the way",
+      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-10-30T00:06:00+00:00",
+      "summary": "Sandisk\u2019s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago \u2014 and it has one of the highest prices in the S&P 500."
     }
   ]
 }
