@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-02T06:33:54+00:00",
+  "generated": "2026-11-03T06:26:56+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 10,
-    "gold": 5
+    "stocks": 13,
+    "crypto": 11,
+    "gold": 6
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 6
+      "items": 5
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
-      "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-02T06:02:03+00:00",
-      "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers."
-    },
-    {
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-02T05:34:02+00:00",
-      "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets."
+      "published": "2026-11-03T06:00:00+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Strangers are begging the Binance hacker for bitcoin, one \u2018help me bro\u2019 at a time",
-      "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "title": "Krait Critical Minerals Enters Into Option Agreement to Acquire 100% Interest in Historic Dixon Tungsten-Manganese Project in Nevada",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/krait-critical-minerals-enters-option-060000542.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-03T06:00:00+00:00",
+      "summary": "Historical USGS samples reported 0.21% and 0.39% WO\u2083, and 11.57% and 24.78% MnOVancouver, British Columbia--(Newsfile Corp. - November 3, 2026) - Krait Critical Minerals Corp. (CSE: KRIT) (FSE: U0S) (the \"Company\" or \"Krait\") announces that it has entered into a mineral property "
+    },
+    {
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-02T05:18:12+00:00",
-      "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill."
+      "published": "2026-11-03T05:36:56+00:00",
+      "summary": "The user protection fund now sits below the $800 million level that Binance\u2019s own rules say triggers a top-up, and the exchange hasn\u2019t said when it will refill it."
     },
     {
-      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-02T05:09:45+00:00",
-      "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets."
-    },
-    {
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "title": "Arbitrum\u2019s council moved $30 million of Binance hack funds without the hacker\u2019s key",
+      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-02T04:42:22+00:00",
-      "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
+      "published": "2026-11-03T05:25:12+00:00",
+      "summary": "A 12-person committee briefly rewrote one of Arbitrum\u2019s core contracts to spend from an address it held no key for, then put the code back. It\u2019s the second time this year."
     },
     {
-      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-      "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-02T04:41:16+00:00",
-      "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2."
-    },
-    {
-      "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-      "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-02T04:09:34+00:00",
-      "summary": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests."
-    },
-    {
-      "title": "Bank of Korea probes financial firms\u2019 exposure to crypto risks",
-      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-02T03:55:50+00:00",
-      "summary": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations."
+      "published": "2026-11-03T05:10:19+00:00",
+      "summary": "Crypto.com will discontinue its consumer app services in Hong Kong in February next year."
     },
     {
-      "title": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
-      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-02T03:23:00+00:00",
-      "summary": "How to manage \u201cgiving while living\u201d without endangering your own retirement."
-    },
-    {
-      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-      "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-02T02:58:53+00:00",
-      "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives."
-    },
-    {
-      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-      "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-02T02:39:35+00:00",
-      "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections."
-    },
-    {
-      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-02T01:51:48+00:00",
-      "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
-    },
-    {
-      "title": "Gold rebounds above $3,900 as dip buyers return after October rout",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-toward-3-900-013553389.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-02T01:35:53+00:00",
-      "summary": "At 23:21 ET (04:21 GMT), spot gold rose 0.8% to $3,907.17 an ounce, while U.S. gold futures gained 0.5% to $3,916.32. Silver advanced 1.9% to $50.0630 an ounce, while platinum fell 3.4% to $1,434.65. Spot palladium declined 2.6% to $980.35, while palladium futures edged up 0.1% t"
-    },
-    {
-      "title": "NewPeak Metals completes Las Ope\u00f1as drilling ahead of year-end gold assays",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101036/newpeak-metals-completes-las-openas-drilling-ahead-of-year-end-gold-assays-1101036.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-02T00:31:00+00:00",
-      "summary": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) has completed Phase 2 diamond drilling at its 100%-owned Las Ope\u00f1as Gold Project in Argentina, with the program targeting extensions to a gold-dominant mineralised zone and a potentially higher-grade core closer to the Belleza Brec"
-    },
-    {
-      "title": "Riversgold advances Kalgoorlie Gold Project towards mining in September quarter",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101034/riversgold-advances-kalgoorlie-gold-project-towards-mining-in-september-quarter-1101034.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-02T00:24:00+00:00",
-      "summary": "Riversgold Ltd (ASX:RGL, OTC:RVSGF) closed the September quarter with its flagship Kalgoorlie Gold Project moving closer to development after lodging the final major government approval required before mining can begin at the Northern Zone open pit. The company submitted the Mine"
-    },
-    {
-      "title": "This is the biggest threat to the AI-powered bull market",
-      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-02T00:22:00+00:00",
-      "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall."
-    },
-    {
-      "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech",
-      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-02T00:21:00+00:00",
-      "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending."
-    },
-    {
-      "title": "Titan Minerals expands Dynasty gold system in September quarter as Linderos copper JV advances",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101032/titan-minerals-expands-dynasty-gold-system-in-september-quarter-as-linderos-copper-jv-advances-1101032.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-02T00:02:00+00:00",
-      "summary": "Titan Minerals Ltd (ASX:TTM, OTC:TTTNF) closed the September quarter with a major new gold-silver discovery at its 100%-owned Dynasty Gold Project in Ecuador, while drilling continued to expand and improve confidence in the existing 3.9-million-ounce gold resource. The quarter al"
-    },
-    {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-01T23:59:27+00:00",
-      "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets."
-    },
-    {
-      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-      "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-01T23:17:57+00:00",
-      "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent."
-    },
-    {
-      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler\u2019s Digest",
-      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-01T23:09:13+00:00",
-      "summary": "Binance has reopened withdrawals following the world\u2019s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
-    },
-    {
-      "title": "Gold Had Its Worst October Since 2008: Will It Crash Further This Week?",
-      "link": "https://beincrypto.com/gold-worst-october-since-2008-this-week/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-01T21:58:18+00:00",
-      "summary": "Gold ended its worst October since 2008 at $3,875. Saxo Bank says the selloff may not be over. Here is what decides it."
-    },
-    {
-      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-      "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-01T21:06:42+00:00",
-      "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year."
-    },
-    {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-01T20:00:00+00:00",
-      "summary": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.\u201d"
-    },
-    {
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-01T19:30:00+00:00",
-      "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know."
+      "published": "2026-11-03T04:48:17+00:00",
+      "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
     },
     {
-      "title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-01T19:20:00+00:00",
-      "summary": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d"
-    },
-    {
-      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-      "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+      "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran",
+      "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-01T19:10:12+00:00",
-      "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'"
+      "published": "2026-11-03T04:27:41+00:00",
+      "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks."
     },
     {
-      "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-01T17:30:00+00:00",
-      "summary": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d"
-    },
-    {
-      "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-01T17:05:00+00:00",
-      "summary": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d"
-    },
-    {
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-      "source": "CoinDesk",
+      "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+      "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-01T17:00:00+00:00",
-      "summary": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can\u2019t fake."
+      "published": "2026-11-03T04:14:32+00:00",
+      "summary": "The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices."
+    },
+    {
+      "title": "UK warns AI ransomware attack on infrastructure \u2018highly likely\u2019 by 2028",
+      "link": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-03T03:58:45+00:00",
+      "summary": "The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians."
+    },
+    {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-03T03:46:20+00:00",
+      "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year."
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-03T03:27:18+00:00",
+      "summary": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks."
+    },
+    {
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-03T03:03:44+00:00",
+      "summary": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday."
+    },
+    {
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-03T02:47:57+00:00",
+      "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization."
+    },
+    {
+      "title": "Gold holds near $3,950 as Iran peace hopes ease oil, U.S. vote in focus",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-950-013615439.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-03T01:36:15+00:00",
+      "summary": "Investing.com -- Gold held above $3,950 an ounce on Tuesday after posting their biggest daily gain in two months, as hopes of progress in U.S.-Iran peace negotiations eased energy-driven inflation concerns, while investors awaited U.S. midterm election for potential shifts in the"
+    },
+    {
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-03T01:32:39+00:00",
+      "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more."
+    },
+    {
+      "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
+      "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-03T00:59:00+00:00",
+      "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir\u2019s earnings beat."
+    },
+    {
+      "title": "Apple's quarter is not perfect. But with enough to like, we raised our price target",
+      "link": "https://www.cnbc.com/investingclub/2026/11/02/apples-quarter-is-not-perfect-but-with-enough-to-like-we-raised-our-price-target.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-03T00:55:36+00:00",
+      "summary": "We remain \"own it, don't trade it\" on Apple stock."
+    },
+    {
+      "title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
+      "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-03T00:52:00+00:00",
+      "summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business."
+    },
+    {
+      "title": "Novo Resources targets Tibooburra drilling as broader gold pipeline advances",
+      "link": "https://www.proactiveinvestors.com/companies/news/1101113/novo-resources-targets-tibooburra-drilling-as-broader-gold-pipeline-advances-1101113.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-03T00:47:00+00:00",
+      "summary": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO) i is preparing to launch a 2,700-metre reverse circulation drilling program at the Tibooburra Gold Project in New South Wales as it advances a broader portfolio of gold targets across Australia. Drilling at the Clone prospect is"
+    },
+    {
+      "title": "Should Strong Earnings And Dividend Approval Require Action From Buenaventura Stock Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-dividend-approval-require-001621478.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-03T00:16:21+00:00",
+      "summary": "Compa\u00f1\u00eda de Minas BuenaventuraA reported third quarter 2026 revenue of US$545.33 million and net income of US$245.09 million, alongside a board approved dividend of US$0.5508 per share or ADS. The combination of higher year on year earnings and a specific cash dividend per share "
+    },
+    {
+      "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+      "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-03T00:03:00+00:00",
+      "summary": "The \u201ctech wreck\u201d from October continues. Is a bear market next?"
+    },
+    {
+      "title": "Marvell and Lumentum shareholders unite in panning merger deal: \u2018It\u2019s a trash offer\u2019",
+      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-02T23:39:00+00:00",
+      "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum."
+    },
+    {
+      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-02T23:13:34+00:00",
+      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress"
+    },
+    {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-02T23:07:07+00:00",
+      "summary": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated."
+    },
+    {
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-02T22:53:20+00:00",
+      "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million."
+    },
+    {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-02T22:22:30+00:00",
+      "summary": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state."
+    },
+    {
+      "title": "Wesdome Expands High-Grade Zones at Eagle River, Highlighting Growth Potential near Existing Infrastructure",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/wesdome-expands-high-grade-zones-220500133.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-02T22:05:00+00:00",
+      "summary": "High-grade growth potential laterally and at depth: Drilling in the western extension of the 800 Zone, one of the mineralized zones at Eagle River, intersected high-grade gold over significant widths, including 8.3 g/t gold over 10.6 metres, highlighting the potential to expand t"
+    },
+    {
+      "title": "Ero Copper Reports Record Third Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ero-copper-reports-record-third-220500641.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-02T22:05:00+00:00",
+      "summary": "(all amounts in US dollars, unless otherwise noted) VANCOUVER, British Columbia, Nov. 02, 2026 (GLOBE NEWSWIRE) -- Ero Copper Corp. (TSX: ERO, NYSE: ERO) (\u201cEro\u201d or the \u201cCompany\u201d) is pleased to announce its operating and financial results for the three and nine months ended Septem"
+    },
+    {
+      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+      "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-02T22:03:00+00:00",
+      "summary": "Some investors appeared a little too eager to buy the dip in technology stocks last month."
+    },
+    {
+      "title": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
+      "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-02T21:45:00+00:00",
+      "summary": "The thrashing that Wall Street\u2019s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market."
     }
   ]
 }
