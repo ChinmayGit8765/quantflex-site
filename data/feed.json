@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-04T06:27:22+00:00",
+  "generated": "2026-11-05T06:27:03+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 8,
-    "crypto": 15,
+    "stocks": 13,
+    "crypto": 10,
     "gold": 7
   },
   "sources": [
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 4
     }
   ],
   "items": [
-    {
-      "title": "US midterms election 2026 live: Trump applauds Democrats on Senate win",
-      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-04T06:19:07+00:00",
-      "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation."
-    },
-    {
-      "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
-      "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-04T06:16:40+00:00",
-      "summary": "BTC is steaming higher as U.S. midterm election uncertainty fades."
-    },
-    {
-      "title": "Democrats win the Senate and close in on control of the House. Here\u2019s what it means for your finances.",
-      "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-04T06:13:00+00:00",
-      "summary": "The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans\u2019 investments and their wallets."
-    },
-    {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-04T06:06:04+00:00",
-      "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit."
-    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-04T06:03:33+00:00",
+      "published": "2026-11-05T06:21:12+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-      "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-04T05:53:30+00:00",
-      "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress."
-    },
-    {
-      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-      "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-04T05:46:33+00:00",
-      "summary": "Ethereum researcher Justin Drake said it is their \u201chope\u201d that Ethereum will achieve its post-quantum and post-AI transition by December 2028."
+      "published": "2026-11-05T06:02:29+00:00",
+      "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners."
     },
     {
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
-      "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-05T05:58:33+00:00",
+      "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms."
+    },
+    {
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+      "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-04T05:14:12+00:00",
-      "summary": "Russia\u2019s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list."
+      "published": "2026-11-05T05:47:01+00:00",
+      "summary": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday."
     },
     {
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
-      "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+      "title": "The pile of lawsuits against Kalshi just grew by one",
+      "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-04T05:09:40+00:00",
-      "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law."
+      "published": "2026-11-05T05:28:52+00:00",
+      "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges."
     },
     {
-      "title": "Novo Resources builds Australian gold drilling pipeline",
-      "link": "https://finance.yahoo.com/video/novo-resources-builds-australian-gold-050324005.html?.tsrc=rss",
+      "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+      "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-05T05:25:06+00:00",
+      "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected."
+    },
+    {
+      "title": "Aris Mining Corp (ARIS) (Q3 2026) Earnings Call Highlights: $700 Million EBITDA Run Rate, ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aris-mining-corp-aris-q3-051410672.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-04T05:03:24+00:00",
-      "summary": "Novo Resources Corp general manager of exploration Rohan Williams talked with Proactive about the company\u2019s upcoming drilling program at the Clone prospect within the Tibooburra Gold Project in New South Wales, as well as its wider exploration pipeline across Australia. Williams "
+      "published": "2026-11-05T05:14:10+00:00",
+      "summary": "Aris Mining Corp (ARIS) posted $144 million in Q3 adjusted EBITDA and $419 million in cash while targeting lower-end 2026 guidance and eyeing first gold at Marmato in December."
     },
     {
-      "title": "McDonald's is about to report earnings. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-05T05:13:45+00:00",
+      "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation."
+    },
+    {
+      "title": "\u2018Lawyer up\u2019: Democrats target Trump, Big Tech after midterm sweep",
+      "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-05T04:52:49+00:00",
+      "summary": "Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas and signaling fresh investigations into Trump\u2019s business dealings."
+    },
+    {
+      "title": "i-80 Gold Stock What Granite Creek Feasibility Study Changes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/80-gold-stock-granite-creek-043918493.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-05T04:39:18+00:00",
+      "summary": "i-80 Gold reported third quarter 2026 sales of US$32.73 million and a net loss of US$48.35 million, while outlining progress on Nevada projects including a completed Granite Creek feasibility study and continued work at Archimedes and Lone Tree. The combination of a maiden minera"
+    },
+    {
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-05T04:11:33+00:00",
+      "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show."
+    },
+    {
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-05T03:53:18+00:00",
+      "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground."
+    },
+    {
+      "title": "Gold, Silver Cross $1 Trillion In Value In A Day: What\u2019s Driving The Precious Metals Rally?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-cross-1-trillion-in-value-in-a-day-what-s-driving-the-precious-metals-rally/cNG15dFR9EO?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-05T03:44:04+00:00",
+      "summary": "Many market experts believe that this is just the beginning for the precious metals trade, which is likely to edge higher in a Democratic-led Congress."
+    },
+    {
+      "title": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+      "link": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-05T03:11:58+00:00",
+      "summary": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments."
+    },
+    {
+      "title": "Gold surges past $4,130 as US election sends dollar, Treasury yields tumbling",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-extends-rally-above-4-023319282.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-05T02:33:19+00:00",
+      "summary": "Investing.com -- Gold prices extended their rally on Thursday, climbing above $4,130 an ounce as the Democratic election victory continued to weigh on the U.S. dollar and Treasury yields, boosting demand for the precious metal."
+    },
+    {
+      "title": "India warns AI-powered hackers targeting crypto exchanges at \u2018machine speed\u2019",
+      "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-05T01:51:21+00:00",
+      "summary": "India\u2019s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms."
+    },
+    {
+      "title": "Australia trade surplus nearly triples forecasts as gold imports dive in September",
+      "link": "https://finance.yahoo.com/economy/policy/articles/australia-trade-surplus-nearly-triples-013958677.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-05T01:39:58+00:00",
+      "summary": "Investing.com -- Australia\u2019s trade surplus surged well beyond expectations in September, coming in at nearly three times economists\u2019 forecasts as a sharp drop in gold imports helped drive a broader decline in imports, data from the Australian Bureau of Statistics showed on Thursd"
+    },
+    {
+      "title": "Qualcomm\u2019s stock falls as twin forces pressure sales",
+      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-05T01:06:00+00:00",
+      "summary": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall smartphone demand."
+    },
+    {
+      "title": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
+      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-05T01:05:00+00:00",
+      "summary": "AppLovin\u2019s stock is popping after \u201cclearly positive\u201d earnings results."
+    },
+    {
+      "title": "Figma\u2019s stock dips as investors worry that AI momentum is coming at a high price",
+      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-05T01:03:00+00:00",
+      "summary": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive"
+    },
+    {
+      "title": "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
+      "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-05T01:01:00+00:00",
+      "summary": "The burger chain is overhauling its menu and seeking to deliver a \u201cclear and compelling value proposition.\u201d"
+    },
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an \u2018excessive knee-jerk\u2019 reaction",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-05T00:38:00+00:00",
+      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared."
+    },
+    {
+      "title": "Horizon Gold: Gum Creek infrastructure gives 2.3Moz redevelopment a head start",
+      "link": "https://www.proactiveinvestors.com/companies/news/1101258/horizon-gold-gum-creek-infrastructure-gives-2-3moz-redevelopment-a-head-start-1101258.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-05T00:09:00+00:00",
+      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF, FRA:HO0) is approaching development of its Gum Creek Gold Project with an advantage many emerging gold producers do not have: much of the physical framework of a mining operation is already there. The 100%-owned Western Australian project is "
+    },
+    {
+      "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+      "link": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-05T00:04:36+00:00",
+      "summary": "Foreign investors are losing their appetite for Indian equities, with their holdings touching an all-time low of 14%."
+    },
+    {
+      "title": "Lundin Gold Reports Third Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/news/lundin-gold-reports-third-quarter-000000632.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-05T00:00:00+00:00",
+      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") today announced its financial and operational results for the third quarter ended September 30, 2026. All amounts are in U.S. dollars unless otherwise indicated. The third quarter "
+    },
+    {
+      "title": "Jim Cramer says this fast food giant has more room to run",
+      "link": "https://www.cnbc.com/2026/11/04/cramer-mcdonalds-q3-2026-turnaround.html",
       "source": "CNBC Earnings",
       "category": "stocks",
-      "published": "2026-11-04T05:01:01+00:00",
-      "summary": "McDonald's stock has fallen about 11% over the last year."
+      "published": "2026-11-04T23:50:46+00:00",
+      "summary": "CNBC\u2019s Jim Cramer said McDonald\u2019s turnaround is gaining traction."
     },
     {
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-04T04:55:11+00:00",
-      "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands."
-    },
-    {
-      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-04T04:48:16+00:00",
-      "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress."
-    },
-    {
-      "title": "Democrats claim control of the US Senate",
-      "link": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-04T04:40:44+00:00",
-      "summary": "The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump\u2019s crypto businesses."
-    },
-    {
-      "title": "Lightning Minerals' Warby tungsten targets advance toward maiden drilling",
-      "link": "https://finance.yahoo.com/video/lightning-minerals-warby-tungsten-targets-042622870.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-04T04:26:22+00:00",
-      "summary": "Lightning Minerals Ltd managing director Troy Brice talked with Proactive about the completion of an expanded Phase 3 soil sampling program at the Warby Tungsten Project in North Queensland and the work now underway to refine targets for a maiden drill campaign. Brice said tungst"
-    },
-    {
-      "title": "Novo Resources expands high-grade gold search - ICYMI",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101189/novo-resources-expands-high-grade-gold-search-icymi-1101189.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-04T03:42:00+00:00",
-      "summary": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO, FRA:1NOR) last week outlined plans to begin a 2,700-metre reverse circulation drilling program at the Tibooburra Gold Project in New South Wales, with the company targeting extensions to high-grade gold mineralisation at the Clo"
-    },
-    {
-      "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-04T03:38:08+00:00",
-      "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare."
-    },
-    {
-      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
-      "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-04T03:35:30+00:00",
-      "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million."
-    },
-    {
-      "title": "What Silver Standard Resources (SSRM) Said on Its Q3 Earnings Call",
-      "link": "https://www.marketbeat.com/instant-alerts/transcript-what-silver-standard-resources-ssrm-said-on-its-q3-earnings-call-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-04T03:14:12+00:00",
-      "summary": "Silver Standard Resources (NASDAQ:SSRM), operating as SSR Mining, said its four operations delivered stable third-quarter production and that it remains on track to meet full-year production guidance, though it now expects all-in sustaining costs to finish about 10% above the hig"
-    },
-    {
-      "title": "Gold jumps above $3,975 as dollar retreats, Iran diplomacy in focus",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-930-013232167.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-04T01:32:32+00:00",
-      "summary": "Investing.com -- Gold prices surged on Wednesday, extending their recovery above $3,975 an ounce as a weaker U.S. dollar supported bullion, while investors continued to monitor diplomatic efforts to resolve the U.S.-Iran conflict and assess the implications of U.S. midterm electi"
-    },
-    {
-      "title": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
-      "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-04T01:16:00+00:00",
-      "summary": "The chip maker is showing \u201creal\u201d revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast."
+      "published": "2026-11-04T23:45:00+00:00",
+      "summary": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d"
     },
     {
-      "title": "Super Micro\u2019s stock pops as earnings show booming demand for AI servers",
-      "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-04T01:12:00+00:00",
-      "summary": "Super Micro is building out a \u201chigh-quality customer base\u201d that\u2019s fueling revenue growth, CFO Mark Long told MarketWatch."
-    },
-    {
-      "title": "Google responds to political backlash over removing search from schools that ban AI",
-      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
+      "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-04T01:07:01+00:00",
-      "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews."
+      "published": "2026-11-04T23:44:18+00:00",
+      "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout."
     },
     {
-      "title": "i-80 Gold Corp (IAUX) Q3 2026 Earnings Call Highlights: Strong Liquidity, On-Track Development, ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/80-gold-corp-iaux-q3-010634787.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-04T01:06:34+00:00",
-      "summary": "i-80 Gold Corp (IAUX) reaffirms it can fund Lone Tree commissioning without an equity raise, with $411 million in cash and up to $350 million in additional liquidity."
-    },
-    {
-      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-      "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-04T00:45:16+00:00",
-      "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome."
-    },
-    {
-      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
-      "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-04T00:00:00+00:00",
-      "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats."
-    },
-    {
-      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-      "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-03T23:56:09+00:00",
-      "summary": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused."
-    },
-    {
-      "title": "Namib Accelerates Redwing Mine Production",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/namib-accelerates-redwing-mine-production-233600583.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-03T23:36:00+00:00",
-      "summary": "Company targets November restart ahead of schedule NEW YORK, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Namib Minerals (\u201cNamib\u201d or the \u201cCompany\u201d) (Nasdaq: NAMM) today announced plans for an accelerated restart of operations at Redwing Mine in Zimbabwe, with first gold production expected "
-    },
-    {
-      "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-      "source": "CNBC Top News",
+      "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+      "source": "CNBC Earnings",
       "category": "stocks",
-      "published": "2026-11-03T23:26:39+00:00",
-      "summary": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund."
+      "published": "2026-11-04T23:38:11+00:00",
+      "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast."
     },
     {
-      "title": "What voters said about their views on crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
-      "source": "CoinDesk",
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-03T23:19:44+00:00",
-      "summary": "A CoinDesk-commissioned poll from April sheds light on how voters \u2014 who aren't necessarily part of the crypto sector \u2014 view this industry."
+      "published": "2026-11-04T23:20:17+00:00",
+      "summary": "Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks."
     }
   ]
 }
