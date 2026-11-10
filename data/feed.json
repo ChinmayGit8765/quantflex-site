@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-09T06:34:41+00:00",
+  "generated": "2026-11-10T06:25:59+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 13,
-    "crypto": 9,
+    "stocks": 14,
+    "crypto": 8,
     "gold": 8
   },
   "sources": [
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 2
+      "items": 0
     }
   ],
   "items": [
     {
-      "title": "Washington\u2019s next move could determine America\u2019s fortunes \u2013 here\u2019s what to watch",
-      "link": "https://uk.finance.yahoo.com/news/washington-next-move-could-determine-063000387.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-09T06:30:00+00:00",
-      "summary": "Markets continue to digest the implications of last week\u2019s US midterm elections, but two earlier political appointments could have just as great an impact on the country\u2019s fortunes."
+      "title": "Trump\u2019s C-SPAN call marks latest surprise post-midterm appearance",
+      "link": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-10T06:19:09+00:00",
+      "summary": "Trump called C-SPAN's new primetime show unannounced after a surprise White House briefing-room and ballroom appearances."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-09T05:44:53+00:00",
+      "published": "2026-11-10T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
-      "link": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-09T05:36:08+00:00",
-      "summary": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps."
-    },
-    {
-      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-      "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-09T05:16:54+00:00",
-      "summary": "The proposals aim to keep Ethereum\u2019s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
-    },
-    {
-      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-      "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+      "title": "TSMC's October sales jump as global chip boom rolls on",
+      "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-09T05:00:01+00:00",
-      "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe\u2019s ability to withstand disruption to crucial infrastructure."
+      "published": "2026-11-10T05:42:42+00:00",
+      "summary": "TSMC reports its monthly sales figures for October on Tuesday."
     },
     {
-      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-      "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-09T04:54:39+00:00",
-      "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure."
+      "published": "2026-11-10T05:18:31+00:00",
+      "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters."
     },
     {
-      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "link": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-09T04:03:08+00:00",
-      "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers."
+      "published": "2026-11-10T05:05:58+00:00",
+      "summary": "\u201cCold storage is a useful measure of online exposure, but it is not a standalone security score,\u201d the cybersecurity firm told Cointelegraph."
     },
     {
-      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-09T03:21:49+00:00",
-      "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions."
-    },
-    {
-      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "title": "China\u2019s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+      "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-09T02:50:22+00:00",
-      "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters."
+      "published": "2026-11-10T05:03:55+00:00",
+      "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September."
     },
     {
-      "title": "Gold Is Up 4% Since Midterms: Here\u2019s Where Markets Think The Precious Metal Prices Are Headed",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-is-up-4-since-midterms-here-s-where-markets-think-the-precious-metal-prices-are-headed/cNGAH02R9Iy?.tsrc=rss",
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-10T04:51:20+00:00",
+      "summary": "The XRP Ledger Foundation\u2019s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
+    },
+    {
+      "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+      "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-10T04:46:37+00:00",
+      "summary": "President Trump signaled optimism for the end of Russia's war in Ukraine ahead of trilateral negotiation talks set to commence later today in Abu Dhabi."
+    },
+    {
+      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+      "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-10T03:58:46+00:00",
+      "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off."
+    },
+    {
+      "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-10T03:38:00+00:00",
+      "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d"
+    },
+    {
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-10T03:22:26+00:00",
+      "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief."
+    },
+    {
+      "title": "FLSmidth (CPSE:FLS) Stock Could Be 38% Undervalued Despite Its DKK 225 Million Order",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flsmidth-cpse-fls-stock-could-031636164.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-09T02:18:37+00:00",
-      "summary": "Goldman Sachs slashed the price target on gold, but economist Peter Schiff believes the yellow metal has more room to run."
+      "published": "2026-11-10T03:16:36+00:00",
+      "summary": "FLSmidth has delivered a powerful run over the past few years, which puts a spotlight on whether the current share price lines up with the cash it is expected to generate. With that backdrop, the question for anyone looking at the stock today is how solid the underlying cash flow"
     },
     {
-      "title": "Gold climbs above $4,120 as precious metals extend rebound",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-above-4-100-014644409.html?.tsrc=rss",
+      "title": "Lightning Minerals: Mt Turner gold drilling advances toward 2027 resource",
+      "link": "https://finance.yahoo.com/video/lightning-minerals-mt-turner-gold-031515579.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-09T01:46:44+00:00",
-      "summary": "Investing.com -- Gold prices rebounded above $4,100 an ounce on Monday after stronger-than-expected U.S. employment data triggered a pullback, with investors weighing the prospect of further Federal Reserve tightening following the U.S. midterm elections."
+      "published": "2026-11-10T03:15:15+00:00",
+      "summary": "Lightning Minerals Ltd managing director Troy Brice talked with Proactive about the completion of Phase 2 diamond drilling at the company\u2019s Mt Turner Gold Project in North Queensland and the pathway toward a maiden gold Mineral Resource Estimate in 2027. Brice said the drilling t"
     },
     {
-      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-09T01:21:00+00:00",
-      "summary": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d"
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-10T03:04:54+00:00",
+      "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns."
     },
     {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-09T00:40:00+00:00",
-      "summary": "The large-cap index is nowhere near as diversified as you think."
-    },
-    {
-      "title": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
-      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-09T00:30:00+00:00",
-      "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d"
-    },
-    {
-      "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-09T00:02:00+00:00",
-      "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d"
-    },
-    {
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-09T00:00:00+00:00",
-      "summary": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says."
-    },
-    {
-      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-08T23:50:00+00:00",
-      "summary": "The math should actually start with \u201cif\u201d \u2014 not \u201chow much.\u201d"
-    },
-    {
-      "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-08T23:49:00+00:00",
-      "summary": "Math may be cold and unemotional \u2014 but finances are not."
-    },
-    {
-      "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-decline-us-jobs-234010998.html?.tsrc=rss",
+      "title": "Allegro MicroSystems, IPG Photonics, Lattice Semiconductor, Entegris, and Broadcom shares skyrocket, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-ipg-photonics-lattice-030136618.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-08T23:40:10+00:00",
-      "summary": "Gold held a late-week retreat after strong US jobs data reinforced expectations the Federal Reserve will seek to raise interest rates to combat inflation."
+      "published": "2026-11-10T03:01:36+00:00",
+      "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months."
+    },
+    {
+      "title": "Amtech, Intel, Applied Materials, AMD, and KLA Corporation shares are soaring, what you need to know",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-10T02:37:36+00:00",
+      "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months."
+    },
+    {
+      "title": "3 British Penny Stocks To Own In November 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-british-penny-stocks-own-021319496.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-10T02:13:19+00:00",
+      "summary": "British retail spending is still ticking higher despite pressure on household budgets, which suggests shoppers have not completely shut their wallets. That kind of resilience can feed into earnings for smaller listed businesses that already have cleaner balance sheets and limited"
+    },
+    {
+      "title": "Presentation to Zurich Precious Metals Summit",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/presentation-zurich-precious-metals-summit-014500498.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-10T01:45:00+00:00",
+      "summary": "ADELAIDE, AU / ACCESS Newswire / November 9, 2026 / (ASX:BGD)(OTC:BGDFF)(FRA:BGD3) (Barton or Company) advises that the attached presentation is due to be presented today at the Zurich Precious Metals Summit.A copy of this presentation can be accessed on the ASX website, the inve"
+    },
+    {
+      "title": "Gold holds near $4,130 as oil retreat eases inflation concerns",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-130-014229117.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-10T01:42:29+00:00",
+      "summary": "At 19:48 ET (00:48 GMT), spot gold fell 0.4% to $4,126.72 an ounce, while U.S. gold futures gained 0.5% to $4,135.95. Silver slipped 0.4% to $53.2100 an ounce, while platinum declined 0.4% to $1,573.36. Spot palladium fell 0.4% to $1,036.49, while palladium futures lost 0.6% to $"
+    },
+    {
+      "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips",
+      "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-10T00:48:00+00:00",
+      "summary": "\u2018We were confident in the research initially, and we\u2019re still confident in it now,\u2019 says Christian Lamarco, founder of Culper Research"
+    },
+    {
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-10T00:42:39+00:00",
+      "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
     },
     {
       "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
       "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-08T23:35:00+00:00",
+      "published": "2026-11-09T23:52:00+00:00",
       "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72."
     },
     {
-      "title": "Vitalik \u2018pivots\u2019 ETH to store of value, crypto suffers after US midterms: Hodler\u2019s Digest",
-      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-08T22:59:06+00:00",
-      "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
+      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+      "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-09T23:14:38+00:00",
+      "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance."
     },
     {
-      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "title": "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia fund",
+      "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-09T23:05:53+00:00",
+      "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan."
+    },
+    {
+      "title": "Barrick Mining Corp (B) (Q3 2026) Earnings Call Highlights: Strong Earnings Growth, $3. ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-corp-b-q3-230453251.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-09T23:04:53+00:00",
+      "summary": "Barrick Mining Corp (B) delivered 41% year-over-year adjusted net earnings growth and $3.5 billion in adjusted EBITDA while staying on track for full-year production guidance."
+    },
+    {
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-08T22:53:57+00:00",
-      "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy."
+      "published": "2026-11-09T22:56:39+00:00",
+      "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet."
     },
     {
-      "title": "Trump says renewed Iran strikes \u2018highly unlikely\u2019 if talks progress but warns he could still strike",
-      "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-08T21:53:02+00:00",
-      "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran\u2019s nuclear program and the Strait of Hormuz."
-    },
-    {
-      "title": "What the election results mean for crypto: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-08T19:30:00+00:00",
-      "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?"
+      "published": "2026-11-09T22:56:27+00:00",
+      "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours."
     },
     {
-      "title": "American Gold and Silver Group review: Is it worth considering?",
-      "link": "https://www.usatoday.com/story/money/money-management/investing/2026/11/08/american-gold-and-silver-group-review/92519541007/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-08T19:21:47+00:00",
-      "summary": "Our American Gold and Silver Group review covers its gold IRAs, precious metals, fees, promotions, customer experience, pros and cons."
+      "title": "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark",
+      "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-09T22:49:00+00:00",
+      "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting."
     },
     {
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-08T19:16:42+00:00",
-      "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks."
+      "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-09T22:49:00+00:00",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes"
     },
     {
-      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-      "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "title": "Hegseth impeachment articles introduced by Rep. Massie",
+      "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-08T18:57:56+00:00",
-      "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration."
-    },
-    {
-      "title": "Where Gold and Copper Prices Go From Here -- and 3 Mining Stocks to Own Either Way",
-      "link": "https://www.fool.com/investing/2026/11/08/where-gold-and-copper-prices-go-from-here-and/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-08T18:20:00+00:00",
-      "summary": "From central bank gold buying to soaring copper demand, these three stocks offer investors a way to capitalize on rising commodity prices."
-    },
-    {
-      "title": "What Rare Coins Were Worth 10 Years Ago vs. Today",
-      "link": "https://moneylion.com/trending/money/rare-coins-decade-ago-vs-today?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-08T17:00:25+00:00",
-      "summary": "Overall, the price of rare coins has risen between 2016 and 2026. While this doesn't apply across the board, the market is trending upward for several reasons."
-    },
-    {
-      "title": "Goldman Sachs revamps 2027 gold price target, but signals rebound",
-      "link": "https://www.thestreet.com/investing/goldman-sachs-gold-2027-forecast?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-08T16:17:00+00:00",
-      "summary": "That forecast price drop comes with one twist."
+      "published": "2026-11-09T22:41:12+00:00",
+      "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie."
     }
   ]
 }
