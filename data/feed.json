@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T06:26:15+00:00",
+  "generated": "2026-11-14T06:24:21+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 11,
-    "crypto": 13,
-    "gold": 6
+    "stocks": 15,
+    "crypto": 7,
+    "gold": 8
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 5
+      "items": 4
     }
   ],
   "items": [
     {
-      "title": "Here\u2019s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-13T06:16:46+00:00",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-13T06:16:37+00:00",
-      "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations."
+      "published": "2026-11-14T05:08:24+00:00",
+      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights."
     },
     {
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-13T06:03:41+00:00",
-      "summary": "About 70% of the bitcoin treasury firm\u2019s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000."
+      "published": "2026-11-14T04:30:00+00:00",
+      "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
     },
     {
-      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-      "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-13T06:00:15+00:00",
-      "summary": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage."
-    },
-    {
-      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-13T05:51:34+00:00",
-      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October."
-    },
-    {
-      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-13T05:45:26+00:00",
-      "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August."
-    },
-    {
-      "title": "Caledonia Mining (CMCL) Stock Looks Below Fair Value Despite Bilboes Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caledonia-mining-cmcl-stock-looks-051426796.html?.tsrc=rss",
+      "title": "What Gold Royalty Holders Got Wrong Before The Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gold-royalty-holders-got-wrong-031413900.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-13T05:14:26+00:00",
-      "summary": "Caledonia Mining has fallen sharply over the past year even after a strong three year run, which puts fresh attention on whether the current share price lines up with what its earnings can support. With the stock back around recent lows and new project funding in place, the immed"
+      "published": "2026-11-14T03:14:13+00:00",
+      "summary": "Gold Royalty just reported record revenue, cash flow, and a sharp swing into profit, yet long-term holders still saw their capital shrink rather than grow. For Gold Royalty shareholders, the loss from the start of the year was 28.9%, including dividends. If you had been weighing "
     },
     {
-      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-      "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-14T02:42:00+00:00",
+      "summary": "Homeland Security Secretary Mullin said that there was \u2018zero evidence\u2019 of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings."
+    },
+    {
+      "title": "14 dividend stocks selected for long-term growth",
+      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-14T01:58:00+00:00",
+      "summary": "These stocks feature attractive dividend payouts and are trading low to the companies\u2019 intrinsic value, according to John Buckingham of Value87 Investment Partners."
+    },
+    {
+      "title": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-14T01:34:11+00:00",
+      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang."
+    },
+    {
+      "title": "SpaceX launches Starship in key test flight of massive rocket",
+      "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-14T01:18:51+00:00",
+      "summary": "The test flight is SpaceX's first attempt to \u200bcatch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas."
+    },
+    {
+      "title": "Hemlo Mining Corp (HMMCF) (Q3 2026) Earnings Call Highlights: Record Cash Position, Strong Gold ...",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/hemlo-mining-corp-hmmcf-q3-010210603.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-14T01:02:10+00:00",
+      "summary": "Hemlo Mining Corp (HMMCF) reported $135.5 million in revenue and $25.5 million in free cash flow while navigating a substation outage and advancing key growth initiatives."
+    },
+    {
+      "title": "STARCORE Reports Second Quarter Production Results",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/starcore-reports-second-quarter-production-002000231.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-14T00:20:00+00:00",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - November 13, 2026) - Starcore International Mines Ltd. (TSX: SAM) (\"Starcore\" or \"the Company\") announces production results for the 2027 second fiscal quarter ended October 30, 2026, at its San Martin Mine (\"San Martin\") in Queretar"
+    },
+    {
+      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-13T23:54:36+00:00",
+      "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January."
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-13T23:42:18+00:00",
+      "summary": "Jensen Huang\u2019s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
+    },
+    {
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-13T05:08:59+00:00",
-      "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth."
+      "published": "2026-11-13T23:30:00+00:00",
+      "summary": "Contracts that sell power to a 4% slice of the world\u2019s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay\u2019s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus."
+    },
+    {
+      "title": "Asante Reports Q3 2026 Operating & Financial Results and Issues Clarification Regarding November 12, 2026 Press Release",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/asante-reports-q3-2026-operating-231800978.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-13T23:18:00+00:00",
+      "summary": "HIGHLIGHTS Q3 2026 gold production of 48,517 equivalent ounces at a consolidated AISC of $4,860 per ounce; nine month 2026 gold production of 165,594 equivalent ounces, up 41.0% year-on-year, at a consolidated AISC of $4,308 per ounce.Chirano delivered improved quarterly producti"
     },
     {
       "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
       "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-13T04:46:00+00:00",
+      "published": "2026-11-13T23:12:00+00:00",
       "summary": "There is already a demographic \u2018run\u2019 on Social Security."
     },
     {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-13T04:07:44+00:00",
-      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers."
-    },
-    {
-      "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-13T03:59:40+00:00",
-      "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs."
-    },
-    {
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-13T03:37:00+00:00",
-      "summary": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
-    },
-    {
-      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-13T02:43:26+00:00",
-      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle."
-    },
-    {
-      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-      "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-13T02:29:27+00:00",
-      "summary": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC."
-    },
-    {
-      "title": "Jaguar Mining Reports Third Quarter 2026 Results with 67% Growth in Adjusted Net Income and 46% Higher Adjusted EBITDA",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/jaguar-mining-reports-third-quarter-014000392.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-13T01:40:00+00:00",
-      "summary": "\\- Year-to-date gold production of 35,668 ounces, up 15% year-over-yearTORONTO, ON / ACCESS Newswire / November 12, 2026 / Jaguar Mining Inc. (\"Jaguar\" or the \"Company\") (TSX:JAG)(OTCQX:JAGGF) is pleased to report its financial and operational results for the third quarter ended "
-    },
-    {
-      "title": "Gold rebounds above $3,900 after 13-month low, but weekly losses persist",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-languishes-near-13-month-013344008.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-13T01:33:44+00:00",
-      "summary": "Investing.com -- Gold prices recovered above $3,900 an ounce on Friday after rebounding from a 13-month low in the previous session, although bullion remained under pressure from rising Treasury yields, a stronger dollar and expectations of further Federal Reserve interest-rate i"
-    },
-    {
-      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
-      "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-13T01:26:27+00:00",
-      "summary": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."
-    },
-    {
-      "title": "New Found Gold Corp (NFGC) (Q3 2026) Earnings Call Highlights: Record Revenue of $41. ...",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/found-gold-corp-nfgc-q3-010424911.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-13T01:04:24+00:00",
-      "summary": "New Found Gold Corp (NFGC) swung to positive EBITDA of $13.1 million and posted a $1.73 billion after-tax NPV for Queensway, though elevated strip ratios pushed Q3 AISC to $3,279 per ounce."
-    },
-    {
-      "title": "Gemini\u2019s quarterly retail trading volume sinks to 3-year low",
-      "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-13T00:52:42+00:00",
-      "summary": "Gemini\u2019s third-quarter trading rebound masked a deepening retail slump."
-    },
-    {
-      "title": "What If You Had Invested $10,000 in Bitcoin 5 Years Ago?",
-      "link": "https://247wallst.com/investing/cryptocurrency/2026/11/12/what-if-you-had-invested-10000-in-bitcoin-5-years-ago/?.tsrc=rss",
-      "source": "Yahoo GLD",
-      "category": "gold",
-      "published": "2026-11-12T23:29:56+00:00",
-      "summary": "One investor bought Bitcoin near its 2021 peak, then watched most of the money vanish after the FTX collapse. Five years later, how does that patient bet stack up against gold and the S&P 500?"
-    },
-    {
-      "title": "Maple Finance\u2019s strategy rift sends co-founder, COO to the exits",
-      "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-12T23:12:55+00:00",
-      "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O\u2019Shea are leaving over disagreements about the firm\u2019s direction as SYRUP falls despite revenue growth."
-    },
-    {
-      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-      "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "title": "4 expert tips for signing up for Medicare",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-12T22:57:00+00:00",
-      "summary": "As Nvidia\u2019s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy"
+      "published": "2026-11-13T22:45:00+00:00",
+      "summary": "A day in the life of a Medicare counselor"
     },
     {
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-12T22:55:52+00:00",
-      "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets."
-    },
-    {
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-12T22:47:41+00:00",
-      "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission."
-    },
-    {
-      "title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
-      "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-12T22:47:28+00:00",
-      "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor."
-    },
-    {
-      "title": "Opening trading-card packs has become a $2 billion market",
-      "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-12T22:38:00+00:00",
-      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like payoff\u201d raises risks."
+      "published": "2026-11-13T22:21:00+00:00",
+      "summary": "Nvidia wiped out $573 billion in market capitalization this week \u2014 its sixth consecutive week of stock declines."
     },
     {
-      "title": "Sunday Lake Gold Corp. Announces SLGCF As New OTCQX Symbol",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunday-lake-gold-corp-announces-223000635.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-12T22:30:00+00:00",
-      "summary": "TORONTO, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Sunday Lake Gold Corp. (TSX: SNDY, OTCQX: SLGCF) (\u201cSunday Lake Gold\u201d or the \u201cCompany\u201d) is pleased to announce that it will begin trading at market open tomorrow, November 13, 2026, on the OTCQX Market (\"OTCQX\") under the new stock tradin"
+      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-13T22:18:43+00:00",
+      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October."
     },
     {
-      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Here\u2019s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-12T22:29:58+00:00",
-      "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
+      "published": "2026-11-13T22:08:37+00:00",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-12T22:24:12+00:00",
-      "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365."
-    },
-    {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-12T22:16:00+00:00",
-      "summary": "Fed Chair Warsh\u2019s quiet style of communicating interest-rate policy has led to more volatile markets."
+      "published": "2026-11-13T22:04:00+00:00",
+      "summary": "It\u2019s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn\u2019t automatically lead to lower diesel prices."
+    },
+    {
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "link": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-13T22:01:03+00:00",
+      "summary": "OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
+    },
+    {
+      "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-13T22:00:00+00:00",
+      "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d"
+    },
+    {
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-13T21:49:27+00:00",
+      "summary": "Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+    },
+    {
+      "title": "Strong Dollar, Rate Hike Bets Weigh on Gold This Year, But Commodity Strategists Bullish Long Term",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/strong-dollar-rate-hike-bets-213244314.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-13T21:32:44+00:00",
+      "summary": "A stronger dollar and expectations of monetary policy tightening have taken some shine off gold this"
+    },
+    {
+      "title": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-13T21:32:00+00:00",
+      "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d"
+    },
+    {
+      "title": "Churchill Resources Announces Change in Chief Financial Officer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/churchill-resources-announces-change-chief-213000553.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-13T21:30:00+00:00",
+      "summary": "TORONTO, ON / ACCESS Newswire / November 13, 2026 / (\"Churchill\" or the \"Company\") (TSXV:CRI) is pleased to announce the appointment of Eric Tsung as its new CFO, effective November 1, 2026.Eric Tsung is an experienced finance professional with over 20 years of experience in acco"
+    },
+    {
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-13T21:18:30+00:00",
+      "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers."
+    },
+    {
+      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-13T21:01:39+00:00",
+      "summary": "Payward\u2019s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded."
+    },
+    {
+      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-13T20:53:20+00:00",
+      "summary": "Coinbase\u2019s trust company received final clearance as lawmakers seek records on crypto firms\u2019 compliance and potential conflicts of interest."
+    },
+    {
+      "title": "BC-Gold-Silver",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-silver-200014241.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-13T20:00:14+00:00",
+      "summary": "NEW YORK (AP) \u2014 Futures trading on the NY Merc Friday:Open High Low Settle Chg.'s open int 406,617 up 511 SILVER 5,000 troy oz."
+    },
+    {
+      "title": "Heliostar Presents Q3 2026 Financial and Operating Results with Record Mine Operating Earnings and Cash Balance",
+      "link": "https://investorshub.advfn.com/market-news/article/39997/heliostar-presents-q3-2026-financial-and-operating-results-with-record-mine-operating-earnings-and-cash-balance?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-13T19:53:34+00:00",
+      "summary": "Q3 2026 Highlights:Produced 14,481 gold ounces and 83,067 silver ouncesQuarter-over-quarter decrease in costs, with a cash cost of $1,588 per ounce of gold sold and a consolidated all-in sustaining cost (\u201dAISC\u201d) of $1,948 per ounce of gold soldAverage gold sale price of $4,243 pe"
     }
   ]
 }
