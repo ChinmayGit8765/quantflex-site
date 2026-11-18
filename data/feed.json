@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-17T06:27:38+00:00",
+  "generated": "2026-11-18T06:27:21+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 15,
-    "crypto": 8,
+    "stocks": 16,
+    "crypto": 7,
     "gold": 7
   },
   "sources": [
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 1
+      "items": 8
     },
     {
       "name": "CoinDesk",
@@ -53,249 +53,249 @@
       "name": "Yahoo GLD",
       "category": "gold",
       "status": "ok",
-      "items": 1
+      "items": 2
     }
   ],
   "items": [
+    {
+      "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-18T06:21:45+00:00",
+      "summary": "Nvidia\u2019s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership."
+    },
+    {
+      "title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-18T06:04:39+00:00",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-17T06:00:00+00:00",
+      "published": "2026-11-18T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
-      "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "title": "Resolution Minerals reports 272m gold hit at Horse Heaven",
+      "link": "https://finance.yahoo.com/video/resolution-minerals-reports-272m-gold-053414423.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-18T05:34:14+00:00",
+      "summary": "Resolution Minerals Ltd chief executive of US Operations Craig Lindsay talked with Proactive about the company's latest gold drilling results at the Golden Gate North prospect within its Horse Heaven Project in Idaho, USA, and plans to deliver a maiden mineral resource estimate i"
+    },
+    {
+      "title": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
+      "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-18T05:30:10+00:00",
+      "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government\u2019s first criminal case over the practice known as MEV."
+    },
+    {
+      "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+      "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-17T05:51:13+00:00",
-      "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions."
+      "published": "2026-11-18T05:24:54+00:00",
+      "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states."
     },
     {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-17T05:37:23+00:00",
-      "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC."
-    },
-    {
-      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-17T05:02:05+00:00",
-      "summary": "The company\u2019s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers."
-    },
-    {
-      "title": "Here's what to expect when Disney reports earnings before the bell",
-      "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "title": "Target is set to report earnings before the bell. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
       "source": "CNBC Earnings",
       "category": "stocks",
-      "published": "2026-11-17T05:01:01+00:00",
-      "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following a series of company-wide layoffs."
+      "published": "2026-11-18T05:01:01+00:00",
+      "summary": "Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings."
     },
     {
-      "title": "Orezone Gold Corp (ORZCF) (Q3 2026) Earnings Call Highlights: Record Gold Production and Strong ...",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/orezone-gold-corp-orzcf-q3-050052876.html?.tsrc=rss",
+      "title": "Small Caps Snapshot: Alkane uncovers copper-zinc mineralisation as Resolution extends gold discovery",
+      "link": "https://finance.yahoo.com/video/small-caps-snapshot-alkane-uncovers-044350124.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-17T05:00:52+00:00",
-      "summary": "Orezone Gold Corp (ORZCF) posts record quarterly gold production of 59,674 ounces and $112 million in adjusted EBITDA, while outlining a path to 300,000 ounces of annual output."
+      "published": "2026-11-18T04:43:50+00:00",
+      "summary": "Alkane Resources and Resolution Minerals are in focus in Wednesday\u2019s small-cap news, with both companies reporting encouraging drilling results from their exploration projects. Alkane Resources has identified massive sulphide mineralisation at its Rockley project in New South Wal"
     },
     {
-      "title": "Gold Heads for Worst Year Since 2015. Why Is It Losing to a 5% Treasury?",
-      "link": "https://beincrypto.com/gold-price-treasury-yields-fed-hike/?.tsrc=rss",
+      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-18T04:34:21+00:00",
+      "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here\u2019s what happened next."
+    },
+    {
+      "title": "Newmont (NEM) Drew A New Stake From Stanley Druckenmiller\u2019s Family Office",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-drew-stake-stanley-043156197.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-17T04:30:00+00:00",
-      "summary": "The gold price hit a one-year low as Treasury yields passed 5% and Fed hike odds hit 95%. See who is still buying."
+      "published": "2026-11-18T04:31:56+00:00",
+      "summary": "Newmont (NYSE:NEM) drew fresh attention after Stanley Druckenmiller\u2019s family office took a sizeable new position in the gold miner. The family office also built positions in other large gold producers while trimming exposure to industrial metals and semiconductor stocks. The allo"
     },
     {
-      "title": "Goldman Sachs just revamped its 2027 gold target for the second time",
-      "link": "https://www.thestreet.com/investing/goldman-sachs-2027-gold-forecast-cut?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-17T03:47:00+00:00",
-      "summary": "The bigger test for gold lies ahead."
+      "title": "XRP whales moved $270 million during the selloff. The coins didn\u2019t go to exchanges",
+      "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-18T04:28:37+00:00",
+      "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
     },
     {
-      "title": "Trezor customer data exposed in 3rd partner breach this year",
-      "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-18T04:27:45+00:00",
+      "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country."
+    },
+    {
+      "title": "Democrat Mary Peltola wins Alaska Senate election",
+      "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-18T04:18:13+00:00",
+      "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January."
+    },
+    {
+      "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-18T03:30:51+00:00",
+      "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China\u2019s market and manufacturing sector."
+    },
+    {
+      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+      "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-18T03:15:00+00:00",
+      "summary": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment."
+    },
+    {
+      "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
+      "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-18T02:50:16+00:00",
+      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine."
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai\u2019s Virgin Megastore",
+      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-17T03:46:22+00:00",
-      "summary": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers."
+      "published": "2026-11-18T02:39:52+00:00",
+      "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
     },
     {
-      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "title": "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to financing",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-17T02:30:00+00:00",
-      "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d"
+      "published": "2026-11-18T01:59:00+00:00",
+      "summary": "Nvidia interim CEO Colette Kress said neoclouds are \u201cincreasingly important,\u201d but added the company will take \u201ca very strong look\u201d at the customers it helps with financing."
     },
     {
-      "title": "Gold hovers near 14-month low as Fed hike bets and tech selloff weigh",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-hovers-near-14-month-020906633.html?.tsrc=rss",
+      "title": "Medicare Part B premiums rise due higher healthcare spending",
+      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-18T01:45:00+00:00",
+      "summary": "The premiums will increase by $6.50, to $209.40 a month."
+    },
+    {
+      "title": "Gold drops below $3,800 as Fed hike bets deepen bullion selloff",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-17T02:09:06+00:00",
-      "summary": "Investing.com -- Gold prices remained near a 14-month low on Tuesday as persistent U.S. inflation concerns, expectations of further Federal Reserve tightening and losses in technology stocks weighed on the precious metal."
+      "published": "2026-11-18T01:41:50+00:00",
+      "summary": "Investing.com -- Gold prices extended their decline on Wednesday, falling below $3,800 an ounce and approaching fresh 14-month lows as hawkish Federal Reserve signals and persistent inflation concerns reinforced expectations of further interest-rate increases."
     },
     {
-      "title": "Atalaya Mining Copper And 2 British Undervalued Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/atalaya-mining-copper-2-british-010825364.html?.tsrc=rss",
+      "title": "Nvidia\u2019s stock rises as blowout numbers help ease CEO transition fears",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-18T01:28:00+00:00",
+      "summary": "Nvidia\u2019s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high."
+    },
+    {
+      "title": "Island Passage Announces an US $8 Million Financing and New Strategic Investment from Alpayana",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/island-passage-announces-us-8-012500966.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-17T01:08:25+00:00",
-      "summary": "Britain\u2019s short term borrowing costs recently hit a three year high as markets brace for more interest rate hikes from the Bank of England. Higher rates punish highly leveraged businesses, but they also reward solid cash generators that can keep funding operations without relying"
+      "published": "2026-11-18T01:25:00+00:00",
+      "summary": "VANCOUVER, British Columbia, Nov. 17, 2026 (GLOBE NEWSWIRE) -- Island Passage Exploration Limited (IPX or the \u201cCompany\u201d) is pleased to announce that it has arranged an US$8 million financing including a commitment from Alpayana S.A.C. to become a 9.9% strategic investor through t"
     },
     {
-      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Nvidia takes positive step forward with stronger sales outlook. Here\u2019s our thoughts on the stock",
+      "link": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-18T01:18:41+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
+      "link": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-18T01:02:38+00:00",
+      "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company."
+    },
+    {
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-18T00:46:25+00:00",
+      "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking."
+    },
+    {
+      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-17T01:02:05+00:00",
-      "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors\u2019 crypto and credit card details, according to security researchers."
-    },
-    {
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-17T00:42:33+00:00",
-      "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates."
-    },
-    {
-      "title": "United Airlines resolves system outage that affected departing flights",
-      "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-17T00:00:49+00:00",
-      "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack."
-    },
-    {
-      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-      "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-16T23:50:41+00:00",
-      "summary": "The chipmaker\u2019s board is reportedly focused on investigating Huang\u2019s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures."
-    },
-    {
-      "title": "United Airlines resolves system outage that delayed flights Monday",
-      "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-16T23:42:00+00:00",
-      "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally."
-    },
-    {
-      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-      "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-16T23:28:00+00:00",
-      "summary": "Druckenmiller\u2019s family office unloaded AMD and Sandisk shares in the third quarter."
-    },
-    {
-      "title": "Stocks, Gold, and Asia Bleed $2.2 Trillion: Top 5 Factors That Triggered the Crash",
-      "link": "https://beincrypto.com/market-bloodbath-2-trillion-5-factors/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-16T23:15:00+00:00",
-      "summary": "Global markets lost roughly $2.2 trillion in a single session as US stocks, precious metals, and Asian equities sank together."
-    },
-    {
-      "title": "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
-      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-16T23:05:12+00:00",
-      "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling."
-    },
-    {
-      "title": "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
-      "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-16T23:04:00+00:00",
-      "summary": "Almost a third of Amazon Black Friday deals \u201cprovided no savings at all\u201d in the last two years, a report says. The retailer is pushing back."
-    },
-    {
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-16T23:01:19+00:00",
-      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America."
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-      "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-16T23:00:01+00:00",
-      "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International."
+      "published": "2026-11-18T00:16:43+00:00",
+      "summary": "Nvidia beat Wall Street\u2019s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang\u2019s reinstatement."
     },
     {
       "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
       "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-16T23:00:00+00:00",
+      "published": "2026-11-17T23:30:00+00:00",
       "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d"
     },
     {
-      "title": "Orezone revenue more than triples as record gold output lifts Q3 results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orezone-revenue-more-triples-record-225609453.html?.tsrc=rss",
+      "title": "What Business Leaders Can Learn From Elite Athletes | WSJLI",
+      "link": "https://finance.yahoo.com/video/business-leaders-learn-elite-athletes-232600805.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-16T22:56:09+00:00",
-      "summary": "Investing.com -- Canada\u2019s Orezone Gold Corporation reported a more than threefold increase in third-quarter revenue, supported by record gold production and higher throughput at its Bombor\u00e9 mine in Burkina Faso, as the company completed a major expansion project and repaid its Ph"
+      "published": "2026-11-17T23:26:00+00:00",
+      "summary": "Sophie Goldschmidt, U.S. Ski and Snowboard Association CEO, believes elite athletes and corporate leaders have a lot in common. She discusses the extraordinary resilience of athletes like Lindsey Vonn, leaders having to balance individual ambition with team cohesion and the impor"
     },
     {
-      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-16T22:54:57+00:00",
-      "summary": "The Supreme Court refused to hear Custodia Bank\u2019s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand."
+      "title": "Small Cap Watch: Resolution Minerals and Alkane deliver promising drilling results",
+      "link": "https://www.proactiveinvestors.com/companies/news/1101961/small-cap-watch-resolution-minerals-and-alkane-deliver-promising-drilling-results-1101961.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-17T23:22:00+00:00",
+      "summary": "The S&P/ASX Small Ordinaries (XSO) remains under pressure on Wednesday, extending its recent decline as investors continue to navigate volatility across the broader Australian sharemarket. The index is down 6 points, or 0.19%, to 3,138.00 this morning, taking its losses over the "
     },
     {
-      "title": "German lawmakers back crypto freezes outside criminal cases",
-      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-16T22:46:44+00:00",
-      "summary": "Customs authorities could hold \u201csuspicious\u201d assets for 30 days under the bill, with court oversight for extensions and disputed confiscation."
-    },
-    {
-      "title": "U.S. dollar\u2019s AI-driven breakout could become a stock-market wrecking ball",
-      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-16T22:46:00+00:00",
-      "summary": "The dollar recently climbed to its strongest level in a year and a half."
-    },
-    {
-      "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-16T22:37:45+00:00",
-      "summary": "Trump\u2019s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang\u2019s relationship with a suspected Chinese spy."
-    },
-    {
-      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-16T22:33:00+00:00",
-      "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar."
+      "published": "2026-11-17T23:15:00+00:00",
+      "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d"
     }
   ]
 }
