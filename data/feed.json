@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-18T06:27:21+00:00",
+  "generated": "2026-11-19T06:28:26+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 16,
-    "crypto": 7,
-    "gold": 7
+    "stocks": 14,
+    "crypto": 11,
+    "gold": 5
   },
   "sources": [
     {
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-18T06:21:45+00:00",
-      "summary": "Nvidia\u2019s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership."
+      "title": "Fed's push for more rate hikes leans on backward-looking data as gas prices slide, experts argue",
+      "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-19T06:23:19+00:00",
+      "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing."
     },
     {
-      "title": "Three things to watch as Trump, Xi and Putin meet in China",
-      "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+      "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-18T06:04:39+00:00",
-      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
+      "published": "2026-11-19T06:07:29+00:00",
+      "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\""
+    },
+    {
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-19T06:00:00+00:00",
+      "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-18T06:00:00+00:00",
+      "published": "2026-11-19T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Resolution Minerals reports 272m gold hit at Horse Heaven",
-      "link": "https://finance.yahoo.com/video/resolution-minerals-reports-272m-gold-053414423.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-18T05:34:14+00:00",
-      "summary": "Resolution Minerals Ltd chief executive of US Operations Craig Lindsay talked with Proactive about the company's latest gold drilling results at the Golden Gate North prospect within its Horse Heaven Project in Idaho, USA, and plans to deliver a maiden mineral resource estimate i"
-    },
-    {
-      "title": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
-      "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+      "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-18T05:30:10+00:00",
-      "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government\u2019s first criminal case over the practice known as MEV."
+      "published": "2026-11-19T05:39:06+00:00",
+      "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
     },
     {
-      "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
-      "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-18T05:24:54+00:00",
-      "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states."
-    },
-    {
-      "title": "Target is set to report earnings before the bell. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-18T05:01:01+00:00",
-      "summary": "Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings."
-    },
-    {
-      "title": "Small Caps Snapshot: Alkane uncovers copper-zinc mineralisation as Resolution extends gold discovery",
-      "link": "https://finance.yahoo.com/video/small-caps-snapshot-alkane-uncovers-044350124.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-18T04:43:50+00:00",
-      "summary": "Alkane Resources and Resolution Minerals are in focus in Wednesday\u2019s small-cap news, with both companies reporting encouraging drilling results from their exploration projects. Alkane Resources has identified massive sulphide mineralisation at its Rockley project in New South Wal"
-    },
-    {
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-18T04:34:21+00:00",
-      "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here\u2019s what happened next."
-    },
-    {
-      "title": "Newmont (NEM) Drew A New Stake From Stanley Druckenmiller\u2019s Family Office",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-drew-stake-stanley-043156197.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-18T04:31:56+00:00",
-      "summary": "Newmont (NYSE:NEM) drew fresh attention after Stanley Druckenmiller\u2019s family office took a sizeable new position in the gold miner. The family office also built positions in other large gold producers while trimming exposure to industrial metals and semiconductor stocks. The allo"
-    },
-    {
-      "title": "XRP whales moved $270 million during the selloff. The coins didn\u2019t go to exchanges",
-      "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-18T04:28:37+00:00",
-      "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
-    },
-    {
-      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-18T04:27:45+00:00",
-      "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country."
-    },
-    {
-      "title": "Democrat Mary Peltola wins Alaska Senate election",
-      "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-18T04:18:13+00:00",
-      "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January."
-    },
-    {
-      "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-18T03:30:51+00:00",
-      "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China\u2019s market and manufacturing sector."
-    },
-    {
-      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-      "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-18T03:15:00+00:00",
-      "summary": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment."
-    },
-    {
-      "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
-      "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-18T02:50:16+00:00",
-      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine."
-    },
-    {
-      "title": "Ledger hardware implant saga reaches Dubai\u2019s Virgin Megastore",
-      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-18T02:39:52+00:00",
-      "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
+      "published": "2026-11-19T05:27:45+00:00",
+      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
     },
     {
-      "title": "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to financing",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-18T01:59:00+00:00",
-      "summary": "Nvidia interim CEO Colette Kress said neoclouds are \u201cincreasingly important,\u201d but added the company will take \u201ca very strong look\u201d at the customers it helps with financing."
-    },
-    {
-      "title": "Medicare Part B premiums rise due higher healthcare spending",
-      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-18T01:45:00+00:00",
-      "summary": "The premiums will increase by $6.50, to $209.40 a month."
-    },
-    {
-      "title": "Gold drops below $3,800 as Fed hike bets deepen bullion selloff",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html?.tsrc=rss",
+      "title": "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-crude-slide-hard-052600245.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-18T01:41:50+00:00",
-      "summary": "Investing.com -- Gold prices extended their decline on Wednesday, falling below $3,800 an ounce and approaching fresh 14-month lows as hawkish Federal Reserve signals and persistent inflation concerns reinforced expectations of further interest-rate increases."
+      "published": "2026-11-19T05:26:00+00:00",
+      "summary": "Stock Preachers News Commentary - Major indices were mixed as of midday Wednesday, with the Dow down sharply and the Nasdaq Composite little changed to higher on the day even as all four benchmarks remain lower on the week. Gold, silver and crude oil all fell sharply on the day a"
     },
     {
-      "title": "Nvidia\u2019s stock rises as blowout numbers help ease CEO transition fears",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-18T01:28:00+00:00",
-      "summary": "Nvidia\u2019s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high."
-    },
-    {
-      "title": "Island Passage Announces an US $8 Million Financing and New Strategic Investment from Alpayana",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/island-passage-announces-us-8-012500966.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-18T01:25:00+00:00",
-      "summary": "VANCOUVER, British Columbia, Nov. 17, 2026 (GLOBE NEWSWIRE) -- Island Passage Exploration Limited (IPX or the \u201cCompany\u201d) is pleased to announce that it has arranged an US$8 million financing including a commitment from Alpayana S.A.C. to become a 9.9% strategic investor through t"
-    },
-    {
-      "title": "Nvidia takes positive step forward with stronger sales outlook. Here\u2019s our thoughts on the stock",
-      "link": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-18T01:18:41+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
-      "link": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-18T01:02:38+00:00",
-      "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company."
-    },
-    {
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-18T00:46:25+00:00",
-      "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking."
-    },
-    {
-      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
-      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+      "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-18T00:16:43+00:00",
-      "summary": "Nvidia beat Wall Street\u2019s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang\u2019s reinstatement."
+      "published": "2026-11-19T05:09:45+00:00",
+      "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens."
+    },
+    {
+      "title": "Walmart is set to report earnings before the bell. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-19T05:01:01+00:00",
+      "summary": "Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience."
+    },
+    {
+      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-19T04:46:10+00:00",
+      "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt."
+    },
+    {
+      "title": "Gold Just Sank to a One-Year Low. Costco Members Who Bought Bars in September Are Down About $700 Each, and Launch Buyers Are Still Up 88%",
+      "link": "https://247wallst.com/investing/2026/11/18/gold-just-sank-to-a-one-year-low-costco-members-who-bought-bars-in-september-are-down-about-700-each-and-launch-buyers-are-still-up-88/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-19T04:17:09+00:00",
+      "summary": "Gold fell to its lowest in more than a year on Wednesday. Costco has sold one-ounce gold bars to members since 2023, non-refundable and with no buyback, and a member who bought at every wave is up $6,002.16 on eight bars overall and down $1,469.46 on the two bought in September. "
     },
     {
       "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
       "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-17T23:30:00+00:00",
+      "published": "2026-11-19T03:45:00+00:00",
       "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d"
     },
     {
-      "title": "What Business Leaders Can Learn From Elite Athletes | WSJLI",
-      "link": "https://finance.yahoo.com/video/business-leaders-learn-elite-athletes-232600805.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-17T23:26:00+00:00",
-      "summary": "Sophie Goldschmidt, U.S. Ski and Snowboard Association CEO, believes elite athletes and corporate leaders have a lot in common. She discusses the extraordinary resilience of athletes like Lindsey Vonn, leaders having to balance individual ambition with team cohesion and the impor"
-    },
-    {
-      "title": "Small Cap Watch: Resolution Minerals and Alkane deliver promising drilling results",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101961/small-cap-watch-resolution-minerals-and-alkane-deliver-promising-drilling-results-1101961.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-17T23:22:00+00:00",
-      "summary": "The S&P/ASX Small Ordinaries (XSO) remains under pressure on Wednesday, extending its recent decline as investors continue to navigate volatility across the broader Australian sharemarket. The index is down 6 points, or 0.19%, to 3,138.00 this morning, taking its losses over the "
-    },
-    {
-      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "title": "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-17T23:15:00+00:00",
-      "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d"
+      "published": "2026-11-19T03:45:00+00:00",
+      "summary": "\u201cIt is devastating when the people you should be able to trust become the very people you have to protect yourself from.\u201d"
+    },
+    {
+      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+      "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-19T03:43:38+00:00",
+      "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China."
+    },
+    {
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-19T03:40:48+00:00",
+      "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant\u2019s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
+    },
+    {
+      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-19T03:30:00+00:00",
+      "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d"
+    },
+    {
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-19T02:49:35+00:00",
+      "summary": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit."
+    },
+    {
+      "title": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/talisker-provides-ore-sorter-facility-022200467.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-19T02:22:00+00:00",
+      "summary": "TORONTO, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Talisker Resources Ltd. (\"Talisker\" or the \"Company\") (TSX: TSK, OTCQX: TSKFF) is pleased to provide an update on the continued advancement of its ore sorter facility (\u201cSorting Facility\u201d) at the Company\u2019s 100% owned Bralorne Gold Project"
+    },
+    {
+      "title": "Gold rebounds from 14-month low as bargain hunters emerge despite Fed hike risks",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-14-month-low-020048872.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-19T02:00:48+00:00",
+      "summary": "Investing.com -- Gold prices rebounded on Thursday after falling to an over one-year low, as bargain hunters stepped in despite growing expectations of further Federal Reserve interest-rate increases to contain persistent inflation."
+    },
+    {
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-19T01:45:33+00:00",
+      "summary": "Americans reported more than $17.7 billion in online fraud losses in 2025."
+    },
+    {
+      "title": "Palo Alto stock surges as all signs point to how important cybersecurity is in the AI age",
+      "link": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-19T01:29:06+00:00",
+      "summary": "The need for all-encompassing, rapid-response cybersecurity platforms has never been greater."
+    },
+    {
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-19T01:13:20+00:00",
+      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday."
+    },
+    {
+      "title": "Gold Falls Towards $3,700. Schiff Says Fed Risks Financial Crisis in Inflation Fight",
+      "link": "https://beincrypto.com/gold-14-month-low-schiff-fed/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-19T01:05:00+00:00",
+      "summary": "Gold fell below $3,800, a 14-month low, as Fed hike bets grew. Peter Schiff says the Fed can't tighten without a crisis."
+    },
+    {
+      "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-19T01:02:00+00:00",
+      "summary": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahead of us.\u201d"
+    },
+    {
+      "title": "Fed officials saw October rate hold as a \u2018close call,\u2019 minutes show",
+      "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-19T00:35:49+00:00",
+      "summary": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed\u2019s 10\u20132 vote indicated, with markets now pricing in a December hike."
+    },
+    {
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-19T00:33:46+00:00",
+      "summary": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way."
+    },
+    {
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-19T00:30:00+00:00",
+      "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves."
+    },
+    {
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-19T00:08:14+00:00",
+      "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials."
+    },
+    {
+      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+      "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-19T00:07:06+00:00",
+      "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI."
+    },
+    {
+      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-18T23:45:50+00:00",
+      "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit."
     }
   ]
 }
