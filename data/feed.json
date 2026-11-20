@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-19T06:28:26+00:00",
+  "generated": "2026-11-20T06:27:51+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 14,
-    "crypto": 11,
-    "gold": 5
+    "stocks": 13,
+    "crypto": 9,
+    "gold": 8
   },
   "sources": [
     {
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "Fed's push for more rate hikes leans on backward-looking data as gas prices slide, experts argue",
-      "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-19T06:23:19+00:00",
-      "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing."
+      "published": "2026-11-20T06:12:15+00:00",
+      "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin."
     },
     {
-      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
-      "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+      "title": "Newmont (NEM) Slides With Metals Sell Off, Is It Trading At A 26% Discount?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-slides-metals-sell-061018022.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-20T06:10:18+00:00",
+      "summary": "Recent pressure on Newmont (NEM) has come from outside the company, with a sharp metals sell-off tied to softer gold prices and Federal Reserve rate hike expectations that are weighing on the stock. Newmont\u2019s share price has retreated sharply in the near term, with the stock down"
+    },
+    {
+      "title": "Anthropic shares may fall 5% at Friday\u2019s open, crypto futures suggest",
+      "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-20T06:08:28+00:00",
+      "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company\u2019s shares in 24 hours, and the biggest position heading into Friday\u2019s Nasdaq open is a $30 million short."
+    },
+    {
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-19T06:07:29+00:00",
-      "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\""
+      "published": "2026-11-20T06:00:01+00:00",
+      "summary": "Iceland\u2019s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry."
     },
     {
-      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-19T06:00:00+00:00",
-      "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
+      "title": "AI is changing software engineering \u2014 and some developers miss the struggle",
+      "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-20T06:00:01+00:00",
+      "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\""
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-19T06:00:00+00:00",
+      "published": "2026-11-20T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-      "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-19T05:39:06+00:00",
-      "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
-    },
-    {
-      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-19T05:27:45+00:00",
-      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
-    },
-    {
-      "title": "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-crude-slide-hard-052600245.html?.tsrc=rss",
+      "title": "Stocks, gold and silver fall after blockbuster Anthropic IPO",
+      "link": "https://www.euronews.com/2026/11/20/stocks-gold-and-silver-fall-after-blockbuster-anthropic-ipo?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-19T05:26:00+00:00",
-      "summary": "Stock Preachers News Commentary - Major indices were mixed as of midday Wednesday, with the Dow down sharply and the Nasdaq Composite little changed to higher on the day even as all four benchmarks remain lower on the week. Gold, silver and crude oil all fell sharply on the day a"
+      "published": "2026-11-20T05:48:38+00:00",
+      "summary": "Anthropic shares rose 17% on their Nasdaq debut, but the record IPO failed to halt a Wall Street sell-off. Asian stocks followed US markets lower on Friday, while gold and silver fell as investors braced for a US rate rise.View on euronews"
     },
     {
-      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-      "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-19T05:09:45+00:00",
-      "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens."
-    },
-    {
-      "title": "Walmart is set to report earnings before the bell. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-19T05:01:01+00:00",
-      "summary": "Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience."
-    },
-    {
-      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+      "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-19T04:46:10+00:00",
-      "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt."
+      "published": "2026-11-20T05:32:25+00:00",
+      "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning."
     },
     {
-      "title": "Gold Just Sank to a One-Year Low. Costco Members Who Bought Bars in September Are Down About $700 Each, and Launch Buyers Are Still Up 88%",
-      "link": "https://247wallst.com/investing/2026/11/18/gold-just-sank-to-a-one-year-low-costco-members-who-bought-bars-in-september-are-down-about-700-each-and-launch-buyers-are-still-up-88/?.tsrc=rss",
+      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-20T05:20:51+00:00",
+      "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter."
+    },
+    {
+      "title": "Seabridge Gold (TSX:SEA) Stock Looks Fully Priced As Its 78% Run Meets Fresh Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-tsx-sea-stock-051528166.html?.tsrc=rss",
       "source": "Yahoo Gold Futures",
       "category": "gold",
-      "published": "2026-11-19T04:17:09+00:00",
-      "summary": "Gold fell to its lowest in more than a year on Wednesday. Costco has sold one-ounce gold bars to members since 2023, non-refundable and with no buyback, and a member who bought at every wave is up $6,002.16 on eight bars overall and down $1,469.46 on the two bought in September. "
+      "published": "2026-11-20T05:15:28+00:00",
+      "summary": "Seabridge Gold has just come through a sharp pullback in a weak gold sector, and the question now is whether the current share price still lines up with what its earnings can reasonably support. Recent legal and sector headwinds have brought the stock under pressure, which puts e"
     },
     {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-19T03:45:00+00:00",
-      "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d"
-    },
-    {
-      "title": "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-19T03:45:00+00:00",
-      "summary": "\u201cIt is devastating when the people you should be able to trust become the very people you have to protect yourself from.\u201d"
-    },
-    {
-      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-      "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+      "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-19T03:43:38+00:00",
-      "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China."
+      "published": "2026-11-20T05:09:52+00:00",
+      "summary": "In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years."
     },
     {
-      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+      "title": "Gold slides to 14-mth low, set for weekly drop amid Fed hike bets",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-14-mth-low-050203857.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-20T05:02:03+00:00",
+      "summary": "Investing.com-- Gold prices extended sharp losses on Friday and headed for their steepest weekly decline in eight months as a stronger U.S. dollar and firm expectations of a Federal Reserve interest-rate hike next month eroded demand for bullion."
+    },
+    {
+      "title": "Gold and Silver Shed $1 Trillion in Six Hours. What Turned Gold Around Last Time?",
+      "link": "https://beincrypto.com/gold-silver-lose-1-trillion-fed-rate-hike/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-20T05:00:00+00:00",
+      "summary": "Gold and silver fell to their lowest in over a year, with gold at $3,521 and silver at $41.19 before a Fed rate hike."
+    },
+    {
+      "title": "Ethereum\u2019s next big upgrade is pushed into 2027 by apps it would break",
+      "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-19T03:40:48+00:00",
-      "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant\u2019s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
+      "published": "2026-11-20T04:58:08+00:00",
+      "summary": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts."
     },
     {
-      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-19T03:30:00+00:00",
-      "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d"
-    },
-    {
-      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
-      "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-19T02:49:35+00:00",
-      "summary": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit."
+      "published": "2026-11-20T04:51:28+00:00",
+      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks."
     },
     {
-      "title": "Talisker Provides Ore Sorter Facility Construction Update for the Bralorne Gold Project",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/talisker-provides-ore-sorter-facility-022200467.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-19T02:22:00+00:00",
-      "summary": "TORONTO, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Talisker Resources Ltd. (\"Talisker\" or the \"Company\") (TSX: TSK, OTCQX: TSKFF) is pleased to provide an update on the continued advancement of its ore sorter facility (\u201cSorting Facility\u201d) at the Company\u2019s 100% owned Bralorne Gold Project"
-    },
-    {
-      "title": "Gold rebounds from 14-month low as bargain hunters emerge despite Fed hike risks",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-14-month-low-020048872.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-19T02:00:48+00:00",
-      "summary": "Investing.com -- Gold prices rebounded on Thursday after falling to an over one-year low, as bargain hunters stepped in despite growing expectations of further Federal Reserve interest-rate increases to contain persistent inflation."
-    },
-    {
-      "title": "Trump administration unveils new center to choke off scam payments",
-      "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-19T01:45:33+00:00",
-      "summary": "Americans reported more than $17.7 billion in online fraud losses in 2025."
-    },
-    {
-      "title": "Palo Alto stock surges as all signs point to how important cybersecurity is in the AI age",
-      "link": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html",
-      "source": "CNBC Earnings",
-      "category": "stocks",
-      "published": "2026-11-19T01:29:06+00:00",
-      "summary": "The need for all-encompassing, rapid-response cybersecurity platforms has never been greater."
-    },
-    {
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-19T01:13:20+00:00",
-      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday."
-    },
-    {
-      "title": "Gold Falls Towards $3,700. Schiff Says Fed Risks Financial Crisis in Inflation Fight",
-      "link": "https://beincrypto.com/gold-14-month-low-schiff-fed/?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-19T01:05:00+00:00",
-      "summary": "Gold fell below $3,800, a 14-month low, as Fed hike bets grew. Peter Schiff says the Fed can't tighten without a crisis."
-    },
-    {
-      "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-19T01:02:00+00:00",
-      "summary": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahead of us.\u201d"
-    },
-    {
-      "title": "Fed officials saw October rate hold as a \u2018close call,\u2019 minutes show",
-      "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-19T00:35:49+00:00",
-      "summary": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed\u2019s 10\u20132 vote indicated, with markets now pricing in a December hike."
-    },
-    {
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-19T00:33:46+00:00",
-      "summary": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way."
+      "published": "2026-11-20T04:28:52+00:00",
+      "summary": "Coinbase Custody will continue serving all three funds after Gemini's contracts end in February."
+    },
+    {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-20T03:56:17+00:00",
+      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk."
+    },
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-20T03:33:22+00:00",
+      "summary": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling."
+    },
+    {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-20T03:32:30+00:00",
+      "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average."
     },
     {
       "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
       "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "stocks",
-      "published": "2026-11-19T00:30:00+00:00",
+      "published": "2026-11-20T03:31:00+00:00",
       "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves."
     },
     {
-      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-19T00:08:14+00:00",
-      "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials."
+      "published": "2026-11-20T03:30:34+00:00",
+      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut."
     },
     {
-      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-      "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-19T00:07:06+00:00",
-      "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI."
+      "title": "He\u2019s 66 and Bought $250,000 of Gold to Live On Until Social Security at 70. With the Precious Metal at a New Low for the Year, Claiming at 67 Instead Costs Him $600 a Month for Life",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/11/19/hes-66-and-bought-250000-of-gold-to-live-on-until-social-security-at-70-with-gold-at-a-new-low-for-the-year-claiming-at-67-instead-costs-him-600-a-month-for-life/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-20T02:02:43+00:00",
+      "summary": "A retiree's gold bet to bridge the gap to age 70 just hit a yearly low, and the shortfall is tempting him to claim early. One question about the math decides whether that panic move is smart or a costly mistake."
     },
     {
-      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-20T01:30:00+00:00",
+      "summary": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d"
+    },
+    {
+      "title": "If you invested $1,000 in Bitcoin or gold instead of GTA V, here's what you'd have today",
+      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-bitcoin-or-gold-instead-of-gta-v-heres-what-youd-have-today-?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-20T01:30:00+00:00",
+      "summary": "A $1,000 Bitcoin buy on Grand Theft Auto V\u2019s launch day would be worth about $475,000 as GTA VI arrives. The same amount in gold would be worth $2,800."
+    },
+    {
+      "title": "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savings. Should I ask her to stop?",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-20T01:22:00+00:00",
+      "summary": "\u201cHotel rooms can cost as much as $400 per night.\u201d"
+    },
+    {
+      "title": "Resolution Minerals advances Golden Gate gold discovery ahead of maiden resource estimate - ICYMI",
+      "link": "https://www.proactiveinvestors.com/companies/news/1102154/resolution-minerals-advances-golden-gate-gold-discovery-ahead-of-maiden-resource-estimate-icymi-1102154.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-20T00:40:00+00:00",
+      "summary": "Resolution Minerals Ltd (ASX:RML, NASDAQ:RML) earlier this week reported three broad gold intersections from its Golden Gate North deposit at the Horse Heaven Project in Idaho, strengthening evidence of mineralisation continuity as the company works towards a maiden resource esti"
+    },
+    {
+      "title": "AMD dives on short seller report of alleged China exposure",
+      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-18T23:45:50+00:00",
-      "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit."
+      "published": "2026-11-20T00:08:34+00:00",
+      "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law."
+    },
+    {
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-20T00:00:38+00:00",
+      "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits."
+    },
+    {
+      "title": "After Anthropic\u2019s \u2018bittersweet\u2019 IPO, here\u2019s what lies ahead",
+      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-19T23:56:00+00:00",
+      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector."
+    },
+    {
+      "title": "Gap names new Athleta CEO, lowers full-year guidance",
+      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "source": "CNBC Earnings",
+      "category": "stocks",
+      "published": "2026-11-19T23:54:20+00:00",
+      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings."
     }
   ]
 }
