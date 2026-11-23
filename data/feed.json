@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-22T06:25:21+00:00",
+  "generated": "2026-11-23T06:36:38+00:00",
   "window_days": 3,
   "counts": {
-    "stocks": 16,
+    "stocks": 14,
     "crypto": 9,
-    "gold": 5
+    "gold": 7
   },
   "sources": [
     {
@@ -29,7 +29,7 @@
       "name": "CNBC Earnings",
       "category": "stocks",
       "status": "ok",
-      "items": 3
+      "items": 1
     },
     {
       "name": "CoinDesk",
@@ -58,244 +58,244 @@
   ],
   "items": [
     {
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-22T05:28:43+00:00",
-      "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-22T01:15:00+00:00",
-      "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d"
-    },
-    {
-      "title": "Royal Gold Heads 3 Top Gold Stocks To Watch",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/royal-gold-heads-3-top-001315482.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-22T00:13:15+00:00",
-      "summary": "A brutal week for AI heavyweights has knocked confidence in high growth tech and pushed investors back toward assets that feel more tangible. That is where the strongest, lowest cost gold miners come into focus. These producers live and die by financial discipline, not hype cycle"
-    },
-    {
-      "title": "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savings. Should I ask her to stop?",
-      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-22T00:03:00+00:00",
-      "summary": "\u201cHotel rooms can cost as much as $400 per night.\u201d"
-    },
-    {
-      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-21T23:05:00+00:00",
-      "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d"
-    },
-    {
-      "title": "\u2018It\u2019s downright dirty\u2019: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-21T20:15:00+00:00",
-      "summary": "\u201cIt is devastating when the people you should be able to trust become the very people you have to protect yourself from.\u201d"
-    },
-    {
-      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-21T19:45:00+00:00",
-      "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d"
-    },
-    {
-      "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-21T19:45:00+00:00",
-      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say."
-    },
-    {
-      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-further-gold-weakness-182039348.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-21T18:20:39+00:00",
-      "summary": "Investing.com -- Gold could face headwinds into the first quarter of 2027 because stronger U.S. labor market data and above-consensus inflation have reinforced expectations of further Federal Reserve rate hikes, strategists at UBS said in a recent note."
-    },
-    {
-      "title": "America is definitely rich enough to fix Social Security and Medicare. Here\u2019s how.",
-      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-21T18:20:00+00:00",
-      "summary": "This one, simple, low-pain tax solves all the problems."
-    },
-    {
-      "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
-      "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "stocks",
-      "published": "2026-11-21T18:19:00+00:00",
-      "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming."
-    },
-    {
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+      "link": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-21T17:50:00+00:00",
-      "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices."
-    },
-    {
-      "title": "Goldman favours gold over silver as central bank demand supports prices",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/goldman-favours-gold-over-silver-173101486.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-21T17:31:01+00:00",
-      "summary": "Investing.com -- Goldman Sachs forecast gold at $4,650 per troy ounce by end-2027 and said it expects the metal to outperform silver, as central bank buying supports gold while U.S. Federal Reserve rate hikes weigh on private investment demand for both metals."
-    },
-    {
-      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-      "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T16:57:34+00:00",
-      "summary": "This would make the second recent intrusion into the FBI system."
-    },
-    {
-      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-21T16:41:00+00:00",
-      "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts."
-    },
-    {
-      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
-      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T16:40:05+00:00",
-      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008."
-    },
-    {
-      "title": "Renforth Resources boosts Parbec gold resource \u2013 ICYMI",
-      "link": "https://www.proactiveinvestors.com/companies/news/1102214/renforth-resources-boosts-parbec-gold-resource-icymi-1102214.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-21T15:05:00+00:00",
-      "summary": "Renforth Resources Inc (CSE:RFR, OTCQB:RFHRF) earlier this week announced an updated mineral resource estimate for its wholly owned Parbec gold deposit in Quebec, reporting an increase of more than 70,000 ounces as the company progresses exploration and evaluates potential moneti"
-    },
-    {
-      "title": "Tech outages are fueling a new doomsday economy",
-      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T15:04:56+00:00",
-      "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result."
-    },
-    {
-      "title": "An \u2018illusion of glitz and glamour\u2019: Inside California\u2019s modern-day gold rush, where miners can bring in millions",
-      "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T14:05:40+00:00",
-      "summary": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal."
-    },
-    {
-      "title": "Arizona Gold and Silver CEO highlights 59 g/t gold result and deeper Perry Zone potential \u2013 ICYMI",
-      "link": "https://www.proactiveinvestors.com/companies/news/1102211/arizona-gold-and-silver-ceo-highlights-59-g-t-gold-result-and-deeper-perry-zone-potential-icymi-1102211.html?.tsrc=rss",
-      "source": "Yahoo Gold Futures",
-      "category": "gold",
-      "published": "2026-11-21T13:38:00+00:00",
-      "summary": "Arizona Gold & Silver Inc (TSX-V:AZS, OTCQB:AZASF) CEO Mike Stark has outlined the company's latest exploration developments at the Perry Zone, highlighting a reassessed high-grade gold result, encouraging observations from ongoing drilling and the potential for a deeper feeder.."
-    },
-    {
-      "title": "State and federal battle over prediction markets regulation heats up after midterms",
-      "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T13:12:41+00:00",
-      "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms."
-    },
-    {
-      "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
-      "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T13:01:44+00:00",
-      "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion."
-    },
-    {
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-21T12:30:00+00:00",
-      "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure."
-    },
-    {
-      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-      "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-      "source": "CNBC Top News",
-      "category": "stocks",
-      "published": "2026-11-21T12:00:01+00:00",
-      "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites."
+      "published": "2026-11-23T06:15:45+00:00",
+      "summary": "Roughly five times as much voting stake has opposed the Foundation's 2027 conference budget as has backed it, while a developer tools request filed on Nov. 16 faces almost no opposition."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "crypto",
-      "published": "2026-11-21T11:18:52+00:00",
+      "published": "2026-11-23T06:00:00+00:00",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-21T09:48:56+00:00",
-      "summary": "Industry groups have until Dec. 11 to apply for the ECB\u2019s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis."
-    },
-    {
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "crypto",
-      "published": "2026-11-21T07:51:47+00:00",
-      "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties."
-    },
-    {
-      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-      "source": "CoinDesk",
-      "category": "crypto",
-      "published": "2026-11-21T06:16:42+00:00",
-      "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block\u2019s Spiral that uses AI agents to examine bitcoin code."
-    },
-    {
-      "title": "How China is using summits to expand its global influence",
-      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+      "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
       "source": "CNBC Top News",
       "category": "stocks",
-      "published": "2026-11-21T06:00:02+00:00",
-      "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance."
+      "published": "2026-11-23T05:58:40+00:00",
+      "summary": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets."
     },
     {
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
       "source": "CoinDesk",
       "category": "crypto",
-      "published": "2026-11-21T05:59:19+00:00",
-      "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
+      "published": "2026-11-23T05:42:22+00:00",
+      "summary": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight."
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-23T05:08:03+00:00",
+      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities"
+    },
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-23T05:01:00+00:00",
+      "summary": "\u2018It was a rocky quarter\u2019: 401(k) balances drop and affordability concerns persist, Fidelity says"
+    },
+    {
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-23T04:45:47+00:00",
+      "summary": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week\u2019s market rout."
+    },
+    {
+      "title": "Tata Steel to buy $1.67 billion stake in India\u2019s largest steel pipe maker; shares plunge nearly 5%",
+      "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-23T04:26:49+00:00",
+      "summary": "Tata Steel will buy a 26.4% stake in India's leading structural steel pipes and tubes maker to boost downstream capacity."
+    },
+    {
+      "title": "Gold Is Trading Like A Speculative Asset, Says Morningstar Analyst As Price Plunges 17% In 2026",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-is-trading-like-a-speculative-asset-says-morningstar-analyst/cNbY8J3R9Sd?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-23T04:01:03+00:00",
+      "summary": "Amy C. Arnott, a portfolio strategist at Morningstar, said on Friday that gold has been trading more like a speculative asset rather than a safe haven."
+    },
+    {
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-23T03:52:17+00:00",
+      "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds."
+    },
+    {
+      "title": "Gold rebounds from 14-mth low as tech selloff lifts safe-haven demand",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-14-mth-low-034554107.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-23T03:45:54+00:00",
+      "summary": "Investing.com-- Gold prices rose in Asian trading on Monday, recovering modestly from the previous session's 14-month low, as a selloff in technology stocks revived demand for safe-haven assets, while investors assessed the outlook for U.S. interest rates."
+    },
+    {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "link": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-23T03:37:20+00:00",
+      "summary": "In a Truth Social post on Monday, Trump said rehiring Jensen Huang would benefit both Nvidia and the US."
+    },
+    {
+      "title": "Billionaire Bill Ackman warns Fed will make a rate \u2018mistake\u2019 in December",
+      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-23T02:47:39+00:00",
+      "summary": "Markets and economists widely expect the US Federal Reserve to raise interest rates by 25 basis points in its December meeting."
+    },
+    {
+      "title": "Pantoro Gold extends high-grade Racetrack discovery",
+      "link": "https://finance.yahoo.com/video/pantoro-gold-extends-high-grade-021736164.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-23T02:17:36+00:00",
+      "summary": "Pantoro Gold Ltd managing director Paul Cmrlec talked with Proactive about the latest high-grade drilling results from the Racetrack discovery at the Norseman Gold Project in Western Australia, where continued exploration success has prompted the company to double its surface dri"
+    },
+    {
+      "title": "Half of wallets on Trump\u2019s dinner list got tokens from non-US exchanges",
+      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-23T00:53:49+00:00",
+      "summary": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump\u2019s memecoin dinner on Sunday."
+    },
+    {
+      "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-traders-pare-bets-002803539.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-23T00:28:03+00:00",
+      "summary": "Gold rebounded from its biggest weekly decline in eight months as traders scaled back bets on the Federal Reserve raising interest rates in the near term."
+    },
+    {
+      "title": "Will Bitcoin\u2019s big rebound hold? More tampered Ledgers found: Hodler\u2019s Digest",
+      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "crypto",
+      "published": "2026-11-22T22:47:09+00:00",
+      "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE."
+    },
+    {
+      "title": "Pantoro Gold hits bonanza grades of 2,726 g/t at Racetrack, doubles drilling fleet to accelerate resource estimate",
+      "link": "https://www.proactiveinvestors.com/companies/news/1102218/pantoro-gold-hits-bonanza-grades-of-2-726-g-t-at-racetrack-doubles-drilling-fleet-to-accelerate-resource-estimate-1102218.html?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-22T22:38:00+00:00",
+      "summary": "Pantoro Gold Ltd (ASX:PNR, OTC:PNTOF) has delivered another round of exceptional gold drilling results at its Racetrack discovery within the Norseman Gold Project in Western Australia, including a bonanza-grade intersection of 0.49 metres at 2,726.49 grams per tonne (g/t) gold. T"
+    },
+    {
+      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
+      "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T21:51:00+00:00",
+      "summary": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls."
+    },
+    {
+      "title": "Ron Johnson\u2019s Social Security gaffe buried important news",
+      "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T21:28:00+00:00",
+      "summary": "The Wisconsin Republican\u2019s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security."
+    },
+    {
+      "title": "Social Security should be shut down, this Republican senator says",
+      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T20:26:00+00:00",
+      "summary": "The program\u2019s trust funds are forecast to run out of money in the next six years."
+    },
+    {
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "link": "https://www.coindesk.com/",
+      "source": "CoinDesk",
+      "category": "crypto",
+      "published": "2026-11-22T19:30:00+00:00",
+      "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration \u2014 and the crypto collateral that may be swept up."
+    },
+    {
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T19:24:00+00:00",
+      "summary": "The plan would free up hospital and nursing-home beds \u2014 and lower costs."
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-22T18:55:05+00:00",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group."
+    },
+    {
+      "title": "These little-known investments could be among the best bargains in a crash",
+      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T18:23:00+00:00",
+      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds."
+    },
+    {
+      "title": "Gold Is Crashing Like 2008. Peter Schiff Says That's Exactly Why He's Bullish",
+      "link": "https://beincrypto.com/peter-schiff-gold-crash-2008-bullish/?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-22T17:51:08+00:00",
+      "summary": "Peter Schiff says gold's crash mirrors 2008. See what happened next then, and why Goldman sees more Fed hikes first."
+    },
+    {
+      "title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
+      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T17:22:00+00:00",
+      "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found."
+    },
+    {
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "source": "CNBC Top News",
+      "category": "stocks",
+      "published": "2026-11-22T17:14:03+00:00",
+      "summary": "Clayton\u2019s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions."
+    },
+    {
+      "title": "7 Steps Gen Z Renters Can Build Into a Plan To Buy a First Home",
+      "link": "https://moneylion.com/trending/money/steps-gen-z-rent-to-own?.tsrc=rss",
+      "source": "Yahoo Gold Futures",
+      "category": "gold",
+      "published": "2026-11-22T17:00:39+00:00",
+      "summary": "Gen Z renters can prepare for homeownership by strengthening their finances, exploring loan options and budgeting for the full cost."
+    },
+    {
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "stocks",
+      "published": "2026-11-22T17:00:00+00:00",
+      "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves."
     }
   ]
 }
